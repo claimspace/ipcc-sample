@@ -1,0 +1,26 @@
+
+id: "$ipcc"
+name: "IPCC"
+logo: "//static.claimspace.cloud/logo-color.ico"
+network: "claimspace.cloud"
+authorize:
+  - "@jeffmagee"
+links:
+  - text: "IPCC"
+    location: "/ipcc"
+  - text: "Stories"
+    location: "/ipcc/stories"
+  - text: "Spaces"
+    location: "/ipcc/spaces"
+  - text: "References"
+    location: "/ipcc/references"
+  - text: "Lines"
+    location: "/ipcc/lines"
+  - text: "Paths"
+    location: "/ipcc/paths"
+  - text: "Models"
+    location: "/ipcc/models"
+  - text: "Annotations"
+    location: "/ipcc/annotations"
+use:
+  - "$cloud"

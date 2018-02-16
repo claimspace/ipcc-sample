@@ -1,0 +1,7 @@
+
+@system
+public: examples
+space Examples
+  let *My_Term = This is an example term.
+
+  insert Stories.Examples

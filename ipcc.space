@@ -1,0 +1,6 @@
+
+# This is the root space for your project, and by default, the home page.
+#
+
+insert Welcome
+include Examples
