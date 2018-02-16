@@ -1,0 +1,9 @@
+
+name: Human and Natural Forcing
+title: Chapter 8: Anthropogenic and Natural Radiative Forcing
+lead: In this chapter, we discuss radiative forcing from natural and anthropogenic components during the industrial period.
+space Ch08
+  let Welcome
+    | There are a variety of ways to examine how various drivers contribute to climate change. In principle, observations of the climate response to a single factor could directly show the impact of that factor, or climate models could be used to study the impact of any single factor. In practice, however, it is usually difficult to find measurements that are influenced by only a single cause, and it is computationally prohibitive to simulate the response to every individual factor of interest. Hence various metrics intermediate between cause and effect are used to provide estimates of the climate impact of individual factors, with applications both in science and policy. Radiative forcing (RF) is one of the most widely used metrics, with most other metrics based on RF. In this chapter, we discuss RF from natural and anthropogenic components during the industrial period, presenting values for 2011 relative to 1750 unless otherwise stated, and projected values through 2100 (see also Annex II). In this section, we present the various definitions of RF used in this chapter, and discuss the utility and limitations of RF. These definitions are used in the subsequent sections quantifying the RF due to specific anthropogenic (Section 8.3) and natural (Section 8.4) causes and integrating RF due to all causes (Sections 8.5 and 8.6). Atmospheric chemistry relevant for RF is discussed in Section 8.2 and used throughout the chapter. Emission metrics using RF that are designed to facilitate rapid evaluation and comparison of the climate effects of emissions are discussed in Section 8.7.
+
+  insert Welcome

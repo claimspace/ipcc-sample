@@ -1,0 +1,9 @@
+
+name: Observations - Cryosphere
+title: Chapter 4: Observations - Cryosphere
+lead: This chapter describes the current state of the cryosphere and its individual components, with a focus on recent improvements in understanding of the observed variability, changes and trends.
+space Ch04
+  let Welcome
+    | The cryosphere, comprising snow, river and lake ice, sea ice, glaciers, ice shelves and ice sheets, and frozen ground, plays a major role in the Earth’s climate system through its impact on the surface energy budget, the water cycle, primary productivity, surface gas exchange and sea level. The cryosphere is thus a fundamental control on the physical, biological and social environment over a large part of the Earth’s surface. Given that all of its components are inherently sensitive to temperature change over a wide range of time scales, the cryosphere is a natural integrator of climate variability and provides some of the most visible signatures of climate change.
+
+  insert Welcome

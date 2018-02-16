@@ -1,0 +1,19 @@
+name: Sea Level Pressure
+title: 2.7.1 Sea Level Pressure
+lead: Sea level pressure has likely decreased from 1979 to 2012 over the tropical Atlantic and increased over large regions of the Pacific and South Atlantic, but trends are sensitive to the time period analysed owing to large decadal variability.
+
+# 2.7.1 Sea Level Pressure
+
+AR4 concluded that SLP in December to February decreased between 1948 and 2005 in the Arctic, Antarctic and North Pacific. More recent studies using updated data for the period 1949–2009 ({'Gillett_and_Stott_2009}) also find decreases in SLP in the high latitudes of both hemispheres in all seasons and increasing SLP in the tropics and subtropics most of the year. However, due to decadal variability SLP trends are sensitive to the choice of the time period ({Box22 Box 2.2}), and they depend on the data set.
+
+The spatial distribution of SLP represents the distribution of atmospheric mass, which is the surface imprint of the atmospheric circulation. Barometric measurements are made in weather stations or on board ships. Fields are produced from the observations by interpolation or using data assimilation into weather models. One of the most widely used observational data sets is HadSLP2 ({'Allan_and_Ansell_2006}), which integrates 2228 historical global terrestrial stations with marine observations from the ICOADS on a 5° × 5°grid. Other observation products (e.g., {'Trenberth_and_Paolino_1980}; for the extratropical NH) or reanalyses are also widely used to address changes in SLP. Although the quality of SLP data is considered good, there are discrepancies between gridded SLP data sets in regions with sparse observations, e.g., over Antarctica ({'Jones_and_Lister_2007}).
+
+Van Haren et al. (2012) found a strong SLP decrease over the Mediterranean in January to March from 1961 to 2000. For the more recent period (1979–2012) trends in SLP, consistent across different data sets (shown in Figure 2.36 for ERA-Interim), are negative in the tropical and northern subtropical Atlantic during most of the year as well as, in May to October, in northern Siberia. Positive trends are found yearround over the North and South Pacific and South Atlantic. Trends in the equatorial Pacific zonal SLP gradient during the 20th century (e.g., {'Vecchi_et_al_2006}; {'Power_and_Kociuba_2011a}, 2011b) are discussed in Section 2.7.5.
+
+{image:'Fig36}
+
+The position and strength of semi-permanent pressure centres show no clear evidence for trends since 1951. However, prominent variability is found on decadal time scales (Figure 2.37). Consistent across different data sets, the Azores high and the Icelandic low in boreal winter, as captured by the high and low SLP contours, were both small in the 1960s and 1970s, large in the 1980s and 1990s, and again smaller in the 2000s. {'Favre_and_Gershunov_2006 Favre and Gershunov (2006)} find an eastward shift of the Aleutian low from the mid-1970s to 2001, which persisted during the 2000s (Figure 2.37). The Siberian High exhibits pronounced decadal-to-multidecadal variability ({'Panagiotopoulos_et_al_2005}; {'Huang_et_al_2010}), with a recent (1998 to 2012) strengthening and northwestward expansion ({'Zhang_et_al_2012b}). In boreal summer, the Atlantic and Pacific high-pressure systems extended more westward in the 1960s and 1970s than later. On interannual time scales, variations in pressure centres are related to modes of climate variability. Trends in the indices that capture the strength of these modes are reported in Section 2.7.8, their characteristics and impacts are discussed in Chapter 14.
+
+{image:'Fig37}
+
+In summary, sea level pressure has likely decreased from 1979 to 2012 over the tropical Atlantic and increased over large regions of the Pacific and South Atlantic, but trends are sensitive to the time period analysed owing to large decadal variability.

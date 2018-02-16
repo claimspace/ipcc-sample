@@ -1,0 +1,16 @@
+
+name: Near-term Change
+title: Chapter 11: Near-term Climate Change - Projections and Predictability
+lead: This chapter assesses the scientific literature describing expectations for near-term climate (present through mid-century)
+space Ch11
+
+  let Welcome
+    | This chapter describes current scientific expectations for ‘near-term’ climate. Here ‘near term’ refers to the period from the present to mid-century, during which the climate response to different emissions scenarios is generally similar. Greatest emphasis in this chapter is given to the period 2016–2035, though some information on projected changes before and after this period (up to mid-century) is also assessed. An assessment of the scientific literature relating to atmospheric composition (except carbon dioxide (CO2), which is addressed in Chapter 12) and air quality for the near-term and beyond to 2100 is also provided.
+    |
+    |The objectives of this chapter are to assess the state of the science concerning both near-term predictions and near-term projections. CMIP5 results are considered for the near term as are other published near-term predictions and projections. The chapter consists of four major assessments:
+    |  1. The scientific basis for near-term prediction as reflected in estimates of predictability (see Box 11.1), and the dynamical and physical mechanisms underpinning predictability, and the processes that limit predictability (see Section 11.2).
+    |  2. The current state of knowledge in near-term prediction (see Section 11.2). Here the emphasis is placed on the results from the decadal (10-year) multi-model prediction experiments in the CMIP5 database.
+    |  3. The current state of knowledge in near-term projection (see Section 11.3). Here the emphasis is on what the climate in next few decades may look like relative to 1986–2005, based on near-term projections (i.e., the forced climatic response). The focus is on the ‘core’ near-term period (2016–2035), but some information prior to this period and out to mid-century is also discussed. A key issue is when, where and how the signal of externally forced climate change is expected to emerge from the background of natural climate variability.
+    |  4. Projected changes in atmospheric composition and air quality, and their interactions with climate change during the near term and beyond, including new findings from the Atmospheric Chemistry and Climate Model Intercomparison (ACCMIP) initiative.
+
+  insert Welcome

@@ -1,0 +1,142 @@
+
+space Ch01
+
+  path: /ipcc/ar5/ch01/Fig1-01.jpg
+  width: 2063
+  height: 1583
+  name: Figure 1.1
+  caption: Main drivers of climate change. The radiative balance between incoming solar shortwave radiation (SWR) and outgoing longwave radiation (OLR) is influenced by global climate ‘drivers’. Natural fluctuations in solar output (solar cycles) can cause changes in the energy balance (through fluctuations in the amount of incoming SWR) (Section 2.3). Human activity changes the emissions of gases and aerosols, which are involved in atmospheric chemical reactions, resulting in modi ed O3 and aerosol amounts (Section 2.2). O3 and aerosol particles absorb, scatter and reflect SWR, changing the energy balance. Some aerosols act as cloud condensation nuclei modifying the properties of cloud droplets and possibly affecting precipitation (Section 7.4). Because cloud interactions with SWR and LWR are large, small changes in the properties of clouds have important implications for the radiative budget (Section 7.4). Anthropogenic changes in GHGs (e.g., CO2, CH4, N2O, O3, CFCs) and large aerosols (>2.5 μm in size) modify the amount of outgoing LWR by absorbing outgoing LWR and re-emitting less energy at a lower temperature (Section 2.2). Surface albedo is changed by changes in vegetation or land surface properties, snow or ice cover and ocean colour (Section 2.3). These changes are driven by natural seasonal and diurnal changes (e.g., snow cover), as well as human influence (e.g., changes in vegetation types) (Forster et al., 2007).
+  image 'Fig1
+
+  path: /ipcc/ar5/ch01/Fig1-02.jpg
+  width: 2079
+  height: 1842
+  name: Figure 1.2
+  caption: Climate feedbacks and timescales. The climate feedbacks related to increasing CO2 and rising temperature include negative feedbacks (–) such as LWR, lapse rate (see Glossary in Annex III), and air–sea carbon exchange and positive feedbacks (+) such as water vapour and snow/ice albedo feedbacks. Some feedbacks may be positive or negative (±): clouds, ocean circulation changes, air–land CO2 exchange, and emissions of non-GHGs and aerosols from natural systems. In the smaller box, the large difference in timescales for the various feedbacks is highlighted.
+  image 'Fig2
+
+  path: /ipcc/ar5/ch01/Fig1-03.jpg
+  width: 2086
+  height: 2268
+  name: Figure 1.3
+  caption: Overview of observed climate change indicators as listed in AR4. Chapter numbers indicate where detailed discussions for these indicators are found in AR5 (temperature: red; hydrological: blue; others: black).
+  image 'Fig3
+
+  path: /ipcc/ar5/ch01/Fig1-04.jpg
+  width: 2156
+  height: 1465
+  name: Figure 1.4
+  caption: Estimated changes in the observed globally and annually averaged surface temperature anomaly relative to 1961–1990 (in °C) since 1950 compared with the range of projections from the previous IPCC assessments. Values are harmonized to start from the same value in 1990. Observed global annual mean surface air temperature anomaly, relative to 1961–1990, is shown as squares and smoothed time series as solid lines (NASA (dark blue), NOAA (warm mustard), and the UK Hadley Centre (bright green) reanalyses). The coloured shading shows the projected range of global annual mean surface air temperature change from 1990 to 2035 for models used in FAR (Figure 6.11 in Bretherton et al., 1990), SAR (Figure 19 in the TS of IPCC, 1996), TAR (full range of TAR Figure 9.13(b) in Cubasch et al., 2001). TAR results are based on the simple climate model analyses presented and not on the individual full three-dimensional climate model simulations. For the AR4 results are presented as single model runs of the CMIP3 ensemble for the historical period from 1950 to 2000 (light grey lines) and for three scenarios (A2, A1B and B1) from 2001 to 2035. The bars at the right-hand side of the graph show the full range given for 2035 for each assessment report. For the three SRES scenarios the bars show the CMIP3 ensemble mean and the likely range given by –40% to +60% of the mean as assessed in Meehl et al. (2007). The publication years of the assessment reports are shown. See Appendix 1.A for details on the data and calculations used to create this figure.
+  image 'Fig4
+
+  path: /ipcc/ar5/ch01/Fig1-05.jpg
+  width: 2125
+  height: 1369
+  name: Figure 1.5
+  caption: Observed globally and annually averaged CO2 concentrations in parts per million (ppm) since 1950 compared with projections from the previous IPCC assessments. Observed global annual CO2 concentrations are shown in dark blue. The shading shows the largest model projected range of global annual CO2 concentrations from 1950 to 2035 from FAR (Figure A.3 in the Summary for Policymakers of IPCC, 1990); SAR (Figure 5b in the Technical Summary of IPCC, 1996); TAR (Appendix II of IPCC, 2001); and from the A2, A1B and B1 scenarios presented in the AR4 (Figure 10.26 in Meehl et al., 2007). The bars at the right-hand side of the graph show the full range given for 2035 for each assessment report. The publication years of the assessment reports are shown. See Appendix 1.A for details on the data and calculations used to create this figure.
+  image 'Fig5
+
+  path: /ipcc/ar5/ch01/Fig1-06.jpg
+  width: 2138
+  height: 1358
+  name: Figure 1.6
+  caption: Observed globally and annually averaged CH4 concentrations in parts per billion (ppb) since 1950 compared with projections from the previous IPCC assessments. Estimated observed global annual CH4 concentrations are shown in dark blue. The shading shows the largest model projected range of global annual CH4 concentrations from 1950 to 2035 from FAR (Figure A.3 of the Annex of IPCC, 1990); SAR (Table 2.5a in Schimel et al., 1996); TAR (Appendix II of IPCC, 2001); and from the A2, A1B and B1 scenarios pre- sented in the AR4 (Figure 10.26 in Meehl et al., 2007). The bars at the right-hand side of the graph show the full range given for 2035 for each assessment report. The publication years of the assessment reports are shown. See Appendix 1.A for details on the data and calculations used to create this  gure.
+  image 'Fig6
+
+  path: /ipcc/ar5/ch01/Fig1-07.jpg
+  width: 2150
+  height: 1392
+  name: Figure 1.7
+  caption: Observed globally and annually averaged N2O concentrations in parts per billion (ppb) since 1950 compared with projections from the previous IPCC assessments. Observed global annual N2O concentrations are shown in dark blue. The shading shows the largest model projected range of global annual N2O concentrations from 1950 to 2035 from FAR (Figure A3 in the Annex of IPCC, 1990), SAR (Table 2.5b in Schimel et al., 1996), TAR (Appendix II of IPCC, 2001), and from the A2, A1B and B1 scenarios presented in the AR4 (Figure 10.26 in Meehl et al., 2007). The bars at the right hand side of the graph show the full range given for 2035 for each assessment report. The publication years of the assessment reports are shown. See Appendix 1.A for details on the data and calculations used to create this  gure.
+  image 'Fig7
+
+  path: /ipcc/ar5/ch01/Fig1-08.jpg
+  width: 1029
+  height: 2204
+  name: Figure 1.8
+  caption: Schematic representations of the probability density function of daily tem- perature, which tends to be approximately Gaussian, and daily precipitation, which has a skewed distribution. Dashed lines represent a previous distribution and solid lines a changed distribution. The probability of occurrence, or frequency, of extremes is denoted by the shaded areas. In the case of temperature, changes in the frequencies of extremes are affected by changes (a) in the mean, (b) in the variance or shape, and (c) in both the mean and the variance. (d) In a skewed distribution such as that of precipitation, a change in the mean of the distribution generally affects its variability or spread, and thus an increase in mean precipitation would also imply an increase in heavy precipitation extremes, and vice-versa. In addition, the shape of the right-hand tail could also change, affecting extremes. Furthermore, climate change may alter the frequency of precipita- tion and the duration of dry spells between precipitation events. (Parts a–c modi ed from Folland et al., 2001, and d modi ed from Peterson et al., 2008, as in Zhang and Zwiers, 2012.)
+  image 'Fig8
+
+  path: /ipcc/ar5/ch01/Fig1-09.jpg
+  width: 2154
+  height: 1600
+  name: Figure 1.9
+  caption: Change in the confidence levels for extreme events based on prior IPCC assessments: TAR, AR4 and SREX. Types of extreme events discussed in all three reports are highlighted in green. Confidence levels are defined in Section 1.4. Similar analyses for AR5 are discussed in later chapters. Please note that the nomenclature for confidence level changed from AR4 to SREX and AR5. 1 More intense precipitation events; 2 Heavy precipitation events. Frequency (or proportion of total rainfall from heavy falls) increases; 3 Statistically significant trends in the number of heavy precipitation events in some regions. It is likely that more of these regions have experienced increases than decreases.; 4 See SREX Table 3-3 for details on precipitation extremes for the different regions.; 5 Increased summer continental drying and associated risk of drought; 6 Area affected by droughts increases; 7 Some areas include southern Europe and the Mediterranean region, central Europe, central North America and Mexico, northeast Brazil and southern Africa; 8 Increase in tropical cyclone peak wind intensities; 9 Increase in intense tropical cyclone activity; 10 In any observed long-term (i.e., 40 years or more) after accounting for past changes in observing capabilities (see SREX, section 3.4.4); 11 Increase in average tropical cyclone maximum wind speed is, although not in all ocean basins; either decrease or no change in the global frequency of tropical cyclones; 12 Increase in extreme coastal high water worldwide related to increases in mean sea level in the late 20th century; 13 Mean sea level rise will contribute to upward trends in extreme coastal high water levels
+  image 'Fig9
+
+  path: /ipcc/ar5/ch01/Fig1-10.jpg
+  width: 2164
+  height: 1578
+  name: Figure 1.10
+  caption: Estimated changes in the observed global annual mean sea level (GMSL) since 1950 relative to 1961–1990. Estimated changes in global annual sea level anomalies are presented based on tide gauge data (warm mustard: Jevrejeva et al., 2008; dark blue: Church and White, 2011; dark green: Ray and Douglas, 2011) and based on sea surface altimetry (light blue). The altimetry data start in 1993 and are harmonized to start from the mean 1993 value of the tide gauge data. Squares indicate annual mean values and solid lines smoothed values. The shading shows the largest model projected range of global annual sea level rise from 1950 to 2035 for FAR (Figures 9.6 and 9.7 in Warrick and Oerlemans, 1990), SAR (Figure 21 in TS of IPCC, 1996), TAR (Appendix II of IPCC, 2001) and for Church et al. (2011) based on the Coupled Model Intercomparison Project Phase 3 (CMIP3) model results not assessed at the time of AR4 using the SRES B1, A1B and A2 scenarios. Note that in the AR4 no full range was given for the sea level projections for this period. Therefore, the  gure shows results that have been published subsequent to the AR4. The bars at the right-hand side of the graph show the full range given for 2035 for each assessment report. For Church et al. (2011) the mean sea level rise is indicated in addition to the full range. See Appendix 1.A for details on the data and calculations used to create this  gure.
+  image 'Fig10
+
+  path: /ipcc/ar5/ch01/Fig1-11.jpg
+  width: 1061
+  height: 561
+  name: Figure 1.11
+  caption: The basis for the confidence level is given as a combination of evidence (limited, medium, robust) and agreement (low, medium and high) (Mastrandrea et al., 2010).
+  image 'Fig11
+
+  path: /ipcc/ar5/ch01/Fig1-02.jpg
+  width: 2083
+  height: 2064
+  name: Figure 1.12
+  caption: Development of capabilities of observations. Top: Changes in the mix and increasing diversity of observations over time create challenges for a consistent climate record (adapted from Brönnimann et al., 2008). Bottom left: First year of temperature data in Global Historical Climatology Network (GHCN) daily database (available at http:// www.ncdc.noaa.gov/oa/climate/ghcn-daily/; Menne et al., 2012). Bottom right: Number of satellite instruments from which data have been assimilated in the European Centre for Medium-Range Weather Forecasts production streams for each year from 1996 to 2010. This  gure is used as an example to demonstrate the  vefold increase in the usage of satellite data over this time period.
+  image 'Fig12
+
+  path: /ipcc/ar5/ch01/Fig1-13.jpg
+  width: 2133
+  height: 1883
+  name: Figure 1.13
+  caption: The development of climate models over the last 35 years showing how the different components were coupled into comprehensive climate models over time. In each aspect (e.g., the atmosphere, which comprises a wide range of atmospheric processes) the complexity and range of processes has increased over time (illustrated by growing cylinders). Note that during the same time the horizontal and vertical resolution has increased considerably e.g., for spectral models from T21L9 (roughly 500 km horizontal resolu- tion and 9 vertical levels) in the 1970s to T95L95 (roughly 100 km horizontal resolution and 95 vertical levels) at present, and that now ensembles with at least three independent experiments can be considered as standard.
+  image 'Fig13
+
+  path: /ipcc/ar5/ch01/Fig1-14.jpg
+  width: 2027
+  height: 2511
+  name: Figure 1.14
+  caption: Horizontal resolutions considered in today’s higher resolution models and in the very high resolution models now being tested: (a) Illustration of the European topography at a resolution of 87.5 × 87.5 km; (b) same as (a) but for a resolution of 30.0 × 30.0 km.
+  image 'Fig14
+
+  path: /ipcc/ar5/ch01/Fig1-15.jpg
+  width: 2079
+  height: 1658
+  name: Figure 1.15
+  caption: Historical and projected total anthropogenic RF (W m–2) relative to preindustrial (about 1765) between 1950 and 2100. Previous IPCC assessments (SAR IS92a, TAR/ AR4 SRES A1B, A2 and B1) are compared with representative concentration pathway (RCP) scenarios (see Chapter 12 and Box 1.1 for their extensions until 2300 and Annex II for the values shown here). The total RF of the three families of scenarios, IS92, SRES and RCP, differ for example, for the year 2000, resulting from the knowledge about the emissions assumed having changed since the TAR and AR4.
+  image 'Fig15
+
+  path: /ipcc/ar5/ch01/FigBox1.1-1.jpg
+  width: 2088
+  height: 1190
+  name: Box 1.1, Figure 1
+  caption: Total RF (anthropogenic plus natural) for RCPs and extended concentration pathways (ECP)—for RCP2.6, RCP4.5, and RCP6, RCP8.5, as well as a supplementary extension RCP6 to 4.5 with an adjustment of emissions after 2100 to reach RCP4.5 concentration levels in 2250 and thereafter. Note that the stated RF levels refer to the illustrative default median estimates only. There is substantial uncertainty in current and future RF levels for any given scenario. Short-term variations in RF are due to both volcanic forcings in the past (1800–2000) and cyclical solar forcing assuming a constant 11-year solar cycle (following the CMIP5 recommenda- tion), except at times of stabilization. (Reproduced from Figure 4 in Meinshausen et al., 2011.)
+  image 'FigBox11
+
+  path: /ipcc/ar5/ch01/FigBox1.1-2.jpg
+  width: 2103
+  height: 1969
+  name: Box 1.1, Figure 2
+  caption: Concentrations of GHG following the 4 RCPs and their extensions (ECP) to 2300. (Reproduced from Figure 5 in Meinshausen et al., 2011.) Also see Annex II Table AII.4.1 for CO2, Table AII.4.2 for CH4, Table AII.4.3 for N2O.
+  image 'FigBox12
+
+  path: /ipcc/ar5/ch01/FigBox1.1-3.jpg
+  width: 2083
+  height: 1954
+  name: Box 1.1, Figure 3
+  caption: (a) Equivalent CO2 concentration and (b) CO2 emissions (except land use emissions) for the four RCPs and their ECPs as well as some SRES scenarios.
+  image 'FigBox13
+
+  path: /ipcc/ar5/ch01/FigBox1.1-4.jpg
+  width: 2092
+  height: 2104
+  name: Box 1, Figure 4
+  caption: (a) Anthropogenic BC emissions (Annex II Table AII.2.22), (b) anthropogenic NOx emissions (Annex II Table AII.2.18), and (c) anthropogenic SOx emissions (Annex II Table II.2.20).
+  image 'FigBox14
+
+  path: /ipcc/ar5/ch01/FigFAQ1.1-1.jpg
+  width: 1937
+  height: 1107
+  name: FAQ 1.1 Figure 1
+  caption:  Schematic diagram showing the relative importance of different uncertainties, and their evolution in time. (a) Decadal mean surface temperature change (°C) from the historical record (black line), with climate model estimates of uncertainty for historical period (grey), along with future climate projections and uncertainty. Values are normalised by means from 1961 to 1980. Natural variability (orange) derives from model interannual variability, and is assumed constant with time. Emission uncertainty (green) is estimated as the model mean difference in projections from different scenarios. Climate response uncertainty (blue-solid) is based on climate model spread, along with added uncertainties from the carbon cycle, as well as rough estimates of additional uncertainty from poorly modelled processes. Based on Hawkins and Sutton (2011) and Huntingford et al. (2009). (b) Climate response uncertainty can appear to increase when a new process is discovered to be relevant, but such increases reflect a quantification of previously unmeasured uncertainty, or (c) can decrease with additional model improvements and observational constraints. The given uncertainty range of 90% means that the temperature is estimated to be in that range, with a probability of 90%.
+  image 'FigFAQ11

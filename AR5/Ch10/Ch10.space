@@ -1,0 +1,14 @@
+
+name: Detection & Attribution
+title: Chapter 10: Detection and Attribution of Climate Change
+lead: This chapter assesses the causes of observed changes assessed in Chapters 2 to 5 and uses understanding of physical processes, climate models and statistical approaches.
+space Ch10
+
+  let Welcome
+    | This chapter assesses the causes of observed changes assessed in Chapters 2 to 5 and uses understanding of physical processes, climate models and statistical approaches. The chapter adopts the terminology for detection and attribution proposed by the IPCC good practice guidance paper on detection and attribution (Hegerl et al., 2010) and for uncertainty Mastrandrea et al. (2011). Detection and attribution of impacts of climate changes are assessed by Working Group II, where Chapter 18 assesses the extent to which atmospheric and oceanic changes influence ecosystems, infrastructure, human health and activities in economic sectors.
+    |
+    | Evidence of a human influence on climate has grown stronger over the period of the four previous assessment reports of the IPCC. There was little observational evidence for a detectable human influence on climate at the time of the First IPCC Assessment Report. By the time of the second report there was sufficient additional evidence for it to conclude that ‘the balance of evidence suggests a discernible human influence on global climate’. The Third Assessment Report found that a distinct greenhouse gas (GHG) signal was robustly detected in the observed temperature record and that ‘most of the observed warming over the last  fty years is likely to have been due to the increase in greenhouse gas concentrations.’
+    |
+    |With the additional evidence available by the time of the Fourth Assessment Report, the conclusions were further strengthened. This evidence included a wider range of observational data, a greater variety of more sophisticated climate models including improved representations of forcings and processes and a wider variety of analysis techniques. This enabled the AR4 report to conclude that ‘most of the observed increase in global average temperatures since the mid-20th century is very likely due to the observed increase in anthropogenic greenhouse gas concentrations’. The AR4 also concluded that ‘discernible human influences now extend to other aspects of climate, including ocean warming, continental-average temperatures, temperature extremes and wind patterns.’
+
+  insert Welcome

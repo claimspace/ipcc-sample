@@ -1,6 +1,7 @@
 
 id: "$ipcc"
 name: "IPCC"
+lead: "The Intergovernmental Panel on Climate Change (IPCC) is the international body for assessing the science related to climate change."
 logo: "//static.claimspace.cloud/logo-color.ico"
 network: "claimspace.cloud"
 authorize:
@@ -8,19 +9,7 @@ authorize:
 links:
   - text: "IPCC"
     location: "/ipcc"
-  - text: "Stories"
-    location: "/ipcc/stories"
-  - text: "Spaces"
-    location: "/ipcc/spaces"
-  - text: "References"
-    location: "/ipcc/references"
-  - text: "Lines"
-    location: "/ipcc/lines"
-  - text: "Paths"
-    location: "/ipcc/paths"
-  - text: "Models"
-    location: "/ipcc/models"
-  - text: "Annotations"
-    location: "/ipcc/annotations"
-use:
-  - "$cloud"
+  - text: "AR5"
+    location: "/ipcc/ar5"
+  - text: "AR4"
+    location: "/ipcc/ar4"

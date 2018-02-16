@@ -1,0 +1,1687 @@
+
+space Ch01
+
+  name: Hansen et al., 2011
+  type: Journal Article
+  DOI: 10.5194/acp-11-13421-2011
+  year: 2011
+  title: Earth’s energy imbalance and implications
+  author: Hansen, J. and Sato, M. and Kharecha, P. and von Schuckmann, K.
+  volume: 11
+  journal: Atmos. Chem. Phys.
+  pages: 13421–13449
+  ref 'Hansen_et_al_2011
+
+  name: Fujino et al., 2006
+  type: Journal Article
+  ISSN: 0195-6574
+  number: Special Issue #3 Multi-Greenhouse Gas Mitigation and Climate Policy
+  year: 2006
+  title: Multi-gas mitigation analysis on stabilization scenarios using aim global model
+  author: Fujino, J and Nair, R and Kainuma, M and Masui, T and Matsuoka, Y
+  volume: 0
+  journal: Energy Journal
+  pages: 343-353
+  ref 'Fujino_et_al_2006
+
+  name: Seneviratne et al., 2012
+  type: Book Section
+  address: Cambridge, UK, and New York, NY, USA
+  publisher: Cambridge University Press
+  editor: Field, C. B. and Barros, V. and Stocker, T. F. and Qin, D. and Dokken, D. J. and Ebi, K.L. and Mastrandrea, M. D. and Mach, K. J. and Plattner, G.-K. and Allen, S. K. and Tignor, M. and Midgley, P. M.
+  year: 2012
+  booktitle: SREX: Special Report on Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation
+  title: Chapter 3: Changes in Climate Extremes and their Impacts on the Natural Physical Environment
+  author: Seneviratne, S. I. and Nicholls, N. and Easterling, D. and Goodess, C. M. and Kanae, S. and Kossin, J. and Luo, Y. and Marengo, J. and McInnes, K. and Rahimi, M. and Reichstein, M. and Sorteberg, A. and Vera, C. and Zhang, X.
+  pages: pp. 109-230
+  ref 'Seneviratne_et_al_2012
+
+  name: IPCC, 2012
+  link: http://www.ipcc.ch/pdf/ipcc-principles/ipcc-principles-appendix-a-final.pdf
+  type: Government Document
+  url: http://www.ipcc.ch/pdf/ipcc-principles/ipcc-principles-appendix-a-final.pdf
+  year: 2012
+  title: Procedures for the preparation, review, acceptance, adoption, approval and publication of IPCC reports. Appendix A to the Principles Governing IPCC Work
+  author: IPCC
+  pages: 29
+  ref 'IPCC_2012a
+
+  name: Houghton, 2003
+  type: Journal Article
+  ISSN: 0280-6509
+  number: 2
+  DOI: 10.1034/j.1600-0889.2003.01450.x
+  year: 2003
+  title: Revised estimates of the annual net flux of carbon to the atmosphere from changes in land use and land management 1850-2000
+  author: Houghton, RA
+  volume: 55
+  journal: Tellus Series B-Chemical and Physical Meteorology
+  keywords: LONG-TERM  TROPICAL DEFORESTATION  BRAZILIAN AMAZON  UNITED-STATES  RAIN-FOREST  CO2  SINKS  SEQUESTRATION  EMISSIONS  SOIL
+  pages: 378-390
+  ref 'Houghton_2003
+
+  name: Patt and Schrag, 2003
+  type: Journal Article
+  ISSN: 0165-0009
+  number: 1-2
+  year: 2003
+  title: Using specific language to describe risk and probability
+  author: Patt, A.G. and Schrag, D.P.
+  volume: 61
+  journal: Climatic Change
+  keywords: BASE RATE  DECISION  CONTEXT  EVENTS
+  pages: 17-30
+  ref 'Patt_and_Schrag_2003
+
+  name: Hawkins and Sutton, 2009
+  type: Journal Article
+  ISSN: 0003-0007
+  number: 8
+  DOI: 10.1175/2009BAMS2607.1|10.1175/2009BAMS2607.1
+  year: 2009
+  title: The Potential to Narrow Uncertainty in Regional Climate Predictions
+  author: Hawkins, E and Sutton, R
+  volume: 90
+  journal: Bulletin of the American Meteorological Society
+  keywords: ENSEMBLE  QUANTIFICATION  21ST-CENTURY  ATTRIBUTION  SIMULATIONS  MODELS
+  pages: 1095-1107
+  ref 'Hawkins_and_Sutton_2009
+
+  name: Masui et al., 2011
+  link: http://dx.doi.org/10.1007/s10584-011-0150-5
+  type: Journal Article
+  ISSN: 0165-0009  1573-1480
+  url: http://dx.doi.org/10.1007/s10584-011-0150-5
+  number: 1-2
+  DOI: 10.1007/s10584-011-0150-5
+  year: 2011
+  title: An emission pathway for stabilization at 6 Wm−2 radiative forcing
+  author: Masui, Toshihiko and Matsumoto, Kenichi and Hijioka, Yasuaki and Kinoshita, Tsuguki and Nozawa, Toru and Ishiwatari, Sawako and Kato, Etsushi and Shukla, P. R. and Yamagata, Yoshiki and Kainuma, Mikiko
+  volume: 109
+  journal: Climatic Change
+  keywords: Geo- und Umweltwissenschaften
+  pages: 59-76
+  ref 'Masui_et_al_2011
+
+  name: Lenton et al., 2008
+  type: Journal Article
+  ISSN: 0027-8424
+  number: 6
+  DOI: 10.1073/pnas.0705414105|10.1073/pnas.0705414105
+  year: 2008
+  title: Tipping elements in the Earth's climate system
+  author: Lenton, TM and Held, H and Kriegler, E and Hall, JW and Lucht, W and Rahmstorf, S and Schellnhuber, HJ
+  volume: 105
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  keywords: earth system  tipping points  climate change  large-scale impacts  climate policy  ANTARCTIC ICE-SHEET  ATLANTIC THERMOHALINE CIRCULATION  ASIAN SOUTHWEST MONSOON  WEST-AFRICAN MONSOON  SEA-LEVEL CHANGE  EL-NINO-LIKE  MODEL SIMULATIONS  EXPERT JUDGMENTS  CAP INSTABILITY  FOREST DIEBACK
+  pages: 1786-1793
+  ref 'Lenton_et_al_2008
+
+  name: Goosse et al., 2009
+  link: <Go to ISI>://000271959900008
+  type: Journal Article
+  ISSN: 0930-7575
+  url: <Go to ISI>://000271959900008
+  number: 7-8
+  DOI: 10.1007/s00382-008-0500-9
+  year: 2009
+  title: Consistent past half-century trends in the atmosphere, the sea ice and the ocean at high southern latitudes
+  author: Goosse, H. and Lefebvre, W. and de Montety, A. and Crespin, E. and Orsi, A. H.
+  volume: 33
+  journal: Climate Dynamics
+  pages: 999-1016
+  ref 'Goosse_et_al_2009
+
+  name: Jevrejeva et al., 2008
+  type: Journal Article
+  ISSN: 0094-8276
+  number: 8
+  DOI: 10.1029/2008gl033611
+  year: 2008
+  title: Recent global sea level acceleration started over 200 years agodefined
+  author: Jevrejeva, S. and Moore, J. C. and Grinsted, A. and Woodworth, P. L.
+  volume: 35
+  journal: Geophysical Research Letters
+  pages: L08715
+  ref 'Jevrejeva_et_al_2008
+
+  name: van Vuuren et al., 2007
+  type: Journal Article
+  ISSN: 0165-0009
+  number: 2
+  DOI: 10.1007/s10584-006-9172-9
+  year: 2007
+  title: Stabilizing greenhouse gas concentrations at low levels: an assessment of reduction strategies and costs
+  author: van Vuuren, DP and Den Elzen, MGJ and Lucas, PL and Eickhout, B and Strengers, BJ and van Ruijven, B and Wonink, S and van Houdt, R
+  volume: 81
+  journal: Climatic Change
+  keywords: CLIMATE-CHANGE  FOSSIL-FUEL  ATMOSPHERIC CO2  KYOTO PROTOCOL  LAND-USE  EMISSIONS  SCENARIOS  CARBON  RESPONSES  ENERGY
+  pages: 119-159
+  ref 'van_Vuuren_et_al_2007
+
+  name: Kahneman et al., 1982
+  type: Edited Book
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  ISBN: 9780521284141
+  year: 1982
+  title: Judgment under Uncertainty: Heuristics and Biases
+  author: Kahneman, D. and Slovic, P. and Tversky, A.
+  ref 'Kahneman_et_al_1982
+
+  name: Moss et al., 2010
+  type: Journal Article
+  ISSN: 0028-0836
+  number: 7282
+  DOI: 10.1038/nature08823
+  year: 2010
+  title: The next generation of scenarios for climate change research and assessment
+  author: Moss, RH and Edmonds, JA and Hibbard, KA and Manning, MR and Rose, SK and van Vuuren, DP and Carter, TR and Emori, S and Kainuma, M and Kram, T and Meehl, GA and Mitchell, JFB and Nakicenovic, N and Riahi, K and Smith, SJ and Stouffer, RJ and Thomson, AM and Weyant, JP and Wilbanks, TJ
+  volume: 463
+  journal: Nature
+  keywords: MODEL  ATMOSPHERE  SRES
+  pages: 747-756
+  ref 'Moss_et_al_2010
+
+  name: Collins and Allen, 2002
+  type: Journal Article
+  ISSN: 0894-8755
+  year: 2002
+  title: Assessing the relative roles of initial and boundary conditions in interannual to decadal climate predictability
+  author: Collins, M and Allen, M R
+  volume: 15
+  journal: Journal of Climate
+  keywords: GENERAL-CIRCULATION MODEL  20TH-CENTURY TEMPERATURE  VARIABILITY  ENSEMBLE  SIMULATIONS  VALIDATION  FORECASTS  GCM
+  pages: 3104-3109
+  ref 'Collins_and_Allen_2002
+
+  name: Mernild et al., 2009
+  type: Journal Article
+  ISSN: 0885-6087
+  DOI: 10.1002/hyp.7354
+  year: 2009
+  title: Greenland Ice Sheet surface mass-balance modelling and freshwater flux for 2007, and in a 1995-2007 perspective
+  author: Mernild, S H and Liston, G E and Hiemstra, C A and Steffen, K and Hanna, E and Christensen, J H
+  volume: 23
+  journal: Hydrological Processes
+  keywords: Arctic  Greenland ice sheet  mass loss  runoff  sea level rise  snowmodel  surface mass-balance modeling  MITTIVAKKAT GLACIER CATCHMENT  RECENT CLIMATE-CHANGE  RIVER DISCHARGE SIMULATIONS  SNOW-TRANSPORT MODEL  AMMASSALIK ISLAND  SOUTHEAST GREENLAND  NORTHEAST GREENLAND  SEDIMENT TRANSPORT  COMPLEX TERRAIN  EAST GREENLAND
+  pages: 2470-2484
+  ref 'Mernild_et_al_2009
+
+  name: InterAcademy Council, 2010
+  type: Report
+  year: 2010
+  title: Climate Change Assessments
+  author: InterAcademy Council
+  ref 'InterAcademyCouncil_2010
+
+  name: Le Treut et al., 2007
+  type: Book Section
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2007
+  booktitle: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Historical Overview of Climate Change
+  author: Le Treut, H and Somerville, R. and Cubasch, U. and Ding, Y. and Mauritzen, C. and Mokssit, A. and Peterson, T. and Prather, M.
+  pages: pp. 94-127
+  ref 'Le_Treut_et_al_2007
+
+  name: Smith and Wigley, 2006
+  type: Journal Article
+  ISSN: 0195-6574
+  number: Special Issue #3 Multi-Greenhouse Gas Mitigation and Climate Policy
+  year: 2006
+  title: Multi-gas forcing stabilization with Minicam
+  author: Smith, SJ and Wigley, TML
+  journal: Energy Journal
+  keywords: SULFUR-DIOXIDE EMISSIONS  PROJECTIONS  CO2
+  pages: 373-391
+  ref 'Smith_and_Wigley_2006
+
+  name: Brönnimann et al., 2008
+  type: Book Section
+  publisher: Springer
+  editor: Brönnimann, S. and Luterbacher, J. and Ewen, T. and Diaz, H.F. and Stolarski, R.S. and Neu, U
+  year: 2008
+  booktitle: Climate Variability and Extremes during the Past 100 Years
+  title: A focus on climate during the past 100 years
+  author: Brönnimann, S. and Ewen, T. and Luterbacher, J. and Diaz, H.F. and Stolarski, R.S and Neu, U.
+  series: Advances in Global Change Research
+  pages: pp. 1-25
+  ref 'Brnnimann_et_al_2008
+
+  name: Knutti et al., 2008
+  link: <Go to ISI>://WOS:000256623200019
+  type: Journal Article
+  ISSN: 0894-8755
+  url: <Go to ISI>://WOS:000256623200019
+  number: 11
+  DOI: 10.1175/2007jcli2119.1
+  year: 2008
+  title: A review of uncertainties in global temperature projections over the twenty-first century
+  author: Knutti, R. and Allen, M. R. and Friedlingstein, P. and Gregory, J. M. and Hegerl, G. C. and Meehl, G. A. and Meinshausen, M. and Murphy, J. M. and Plattner, G. K. and Raper, S. C. B. and Stocker, T. F. and Stott, P. A. and Teng, H. and Wigley, T. M. L.
+  volume: 21
+  journal: Journal of Climate
+  keywords: climate system properties  atmospheric co2  increasing co2  carbon uptake  model  ocean  sensitivities  feedbacks  scenarios  ensembles
+  pages: 2651-2663
+  ref 'Knutti_et_al_2008
+
+  name: Risbey and Kandlikar, 2007
+  type: Journal Article
+  ISSN: 0165-0009
+  DOI: 10.1007/s10584-007-9315-7
+  year: 2007
+  title: Expressions of likelihood and confidence in the IPCC uncertainty assessment process
+  author: Risbey, J S and Kandlikar, M
+  volume: 85
+  journal: Climatic Change
+  keywords: CLIMATE-CHANGE  NUSAP SYSTEM  POLICY
+  pages: 19-31
+  ref 'Risbey_and_Kandlikar_2007
+
+  name: Allen et al., 2013
+  link: http://dx.doi.org/10.1038/ngeo1788
+  type: Journal Article
+  ISSN: 1752-0894
+  url: http://dx.doi.org/10.1038/ngeo1788
+  number: 4
+  year: 2013
+  title: Test of a decadal climate forecast
+  author: Allen, Myles R. and Mitchell, John F. B. and Stott, Peter A.
+  volume: 6
+  journal: Nature Geoscience
+  pages: 243-244
+  ref 'Allen_et_al_2013
+
+  name: Meinshausen et al., 2011
+  type: Journal Article
+  number: 1-2
+  DOI: 10.1007/s10584-011-0156-z
+  year: 2011
+  title: The RCP greenhouse gas concentrations and their extensions from 1765 to 2300
+  author: Meinshausen, Malte and Smith, S. J. and Calvin, K. and Daniel, J. S. and Kainuma, M. L. T. and Lamarque, J. F. and Matsumoto, K. and Montzka, S. A. and Raper, S. C. B. and Riahi, K. and Thomson, A. and Velders, G. J. M. and Vuuren, D. P. P.
+  volume: 109
+  journal: Climatic Change
+  pages: 213-241
+  ref 'Meinshausen_et_al_2011
+
+  name: Thomson et al., 2011
+  link: <Go to ISI>://WOS:000297350200005
+  type: Journal Article
+  ISSN: 0165-0009
+  url: <Go to ISI>://WOS:000297350200005
+  number: 1-2
+  DOI: 10.1007/s10584-011-0151-4
+  year: 2011
+  title: RCP4.5: a pathway for stabilization of radiative forcing by 2100
+  author: Thomson, A. M. and Calvin, K. V. and Smith, S. J. and Kyle, G. P. and Volke, A. and Patel, P. and Delgado-Arias, S. and Bond-Lamberty, B. and Wise, M. A. and Clarke, L. E. and Edmonds, J. A.
+  volume: 109
+  journal: Climatic Change
+  keywords: co2 concentrations  land-use  scenarios  emissions  biomass  climate  future  energy
+  pages: 77-94
+  ref 'Thomson_et_al_2011
+
+  name: Willis et al., 2010
+  type: Journal Article
+  ISSN: 1042-8275
+  number: 4
+  year: 2010
+  title: Global Sea Level Rise Recent Progress and Challenges for the Decade to Come
+  author: Willis, JK and Chambers, DP and Kuo, CY and Shum, CK
+  volume: 23
+  journal: Oceanography
+  keywords: SATELLITE ALTIMETRY  UPPER-OCEAN  BUDGET  TOPEX  REEVALUATION  GREENLAND  CRITIQUE  CLIMATE
+  pages: 26-35
+  ref 'Willis_et_al_2010
+
+  name: Morice et al., 2012
+  link: <Go to ISI>://WOS:000303122600003
+  type: Journal Article
+  ISSN: 0148-0227
+  url: <Go to ISI>://WOS:000303122600003
+  DOI: 10.1029/2011jd017187
+  year: 2012
+  title: Quantifying uncertainties in global and regional temperature change using an ensemble of observational estimates: The HadCRUT4 data set
+  author: Morice, C. P. and Kennedy, J. J. and Rayner, N. A. and Jones, P. D.
+  volume: 117
+  journal: Journal of Geophysical Research-Atmospheres
+  keywords: surface-temperature  air-temperature  climate-change  in-situ  reanalysis  trends  icoads  update  sst
+  pages: D08101
+  ref 'Morice_et_al_2012
+
+  name: Morgan et al., 1990
+  type: Book
+  address: Cambridge, United Kingdom
+  publisher: Cambridge University Press
+  ISBN: 0521365422
+  year: 1990
+  title: Uncertainty: A Guide to Dealing with Uncertainty in Quantitative Risk and Policy Analysis.
+  author: Morgan, M.G. and Henrion, M. and Small, M.
+  pages: 332
+  ref 'Morgan_et_al_1990
+
+  name: Ray and Douglas, 2011
+  type: Journal Article
+  ISSN: 00796611
+  number: 4
+  DOI: 10.1016/j.pocean.2011.07.021
+  year: 2011
+  title: Experiments in reconstructing twentieth-century sea levels
+  author: Ray, Richard D. and Douglas, Bruce C.
+  volume: 91
+  journal: Progress in Oceanography
+  pages: 496-515
+  ref 'Ray_and_Douglas_2011
+
+  name: Riahi et al., 2007
+  link: http://www.sciencedirect.com/science/article/pii/S0040162506001387
+  type: Journal Article
+  ISSN: 0040-1625
+  url: http://www.sciencedirect.com/science/article/pii/S0040162506001387
+  number: 7
+  DOI: 10.1016/j.techfore.2006.05.026
+  year: 2007
+  title: Scenarios of long-term socio-economic and environmental development under climate stabilization
+  author: Riahi, Keywan and Grübler, Arnulf and Nakicenovic, Nebojsa
+  volume: 74
+  journal: Technological Forecasting and Social Change
+  pages: 887-935
+  ref 'Riahi_et_al_2007
+
+  name: Pennell and Reichler, 2011
+  link: <Go to ISI>://WOS:000290457600010
+  type: Journal Article
+  ISSN: 0894-8755
+  url: <Go to ISI>://WOS:000290457600010
+  number: 9
+  DOI: 10.1175/2010jcli3814.1
+  year: 2011
+  title: On the Effective Number of Climate Models
+  author: Pennell, C. and Reichler, T.
+  volume: 24
+  journal: Journal of Climate
+  keywords: spatial degrees  projections  simulation  freedom  field
+  pages: 2358-2367
+  ref 'Pennell_and_Reichler_2011
+
+  name: Folland et al., 2001
+  type: Book Section
+  address: Cambridge, United Kingdom  New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2001
+  booktitle: Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Observed Climate Variability and Change
+  author: Folland, C. K. and Karl, T. R. and Christy, J. R. and Clarke, R. A. and Gruza, G. V. and Jouzel, J. and Mann, M. E. and Oerlemans, J. and Salinger, M. J. and Wang, S.-W.
+  pages: pp. 101-181
+  ref 'Folland_et_al_2001
+
+  name: Turner et al., 2009
+  type: Book
+  address: Cambridge, United Kingdom
+  publisher: Scientific Committee on Antarctic Research
+  year: 2009
+  title: Antarctic climate change and the environment
+  author: Turner, J and Bindschadler, RA and Convey, P and di Prisco, G and Fahrbach, E and Gutt, J and Hodgson, DA and Mayewski, PA and Summerhayes, CP
+  pages: 526
+  ref 'Turner_et_al_2009
+
+  name: Broomell and Budescu, 2009
+  type: Journal Article
+  ISSN: 0033-3123
+  number: 3
+  DOI: 10.1007/s11336-009-9118-z
+  year: 2009
+  title: Why Are Experts Correlated? Decomposing Correlations Between Judges
+  author: Broomell, SB and Budescu, DV
+  volume: 74
+  journal: Psychometrika
+  keywords: information aggregation  correlation  dependence  expert advice  JUDGMENTS  INFORMATION  FORECASTS  OPINIONS
+  pages: 531-553
+  ref 'Broomell_and_Budescu_2009
+
+  name: Knutti et al., 2005
+  type: Journal Article
+  ISSN: 0094-8276
+  DOI: 10.1029/2005GL023294
+  year: 2005
+  title: Probabilistic climate change projections for CO2 stabilization profiles
+  author: Knutti, R and Joos, F and Müller, S A and Plattner, G K and Stocker, T F
+  volume: 32
+  journal: Geophysical Research Letters
+  keywords: CARBON-CYCLE FEEDBACKS  SEA-LEVEL RISE  THERMOHALINE CIRCULATION  ATMOSPHERIC CO2  MODEL  UNCERTAINTIES
+  pages: L20707
+  ref 'Knutti_et_al_2005
+
+  name: Mann et al., 2008
+  type: Journal Article
+  ISSN: 0027-8424
+  number: 36
+  DOI: 10.1073/pnas.0805721105
+  year: 2008
+  title: Proxy-based reconstructions of hemispheric and global surface temperature variations over the past two millennia
+  author: Mann, ME and Zhang, ZH and Hughes, MK and Bradley, RS and Miller, SK and Rutherford, S and Ni, FB
+  volume: 105
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  keywords: climate change  global warming  TREE-RING CHRONOLOGIES  MEDIEVAL WARM PERIOD  NORTHERN-HEMISPHERE  FIELD RECONSTRUCTION  CLIMATE  VARIABILITY  CENTURIES  ATLANTIC  SENSITIVITY  RESOLUTION
+  pages: 13252-13257
+  ref 'Mann_et_al_2008
+
+  name: Matthews and Weaver, 2010
+  link: http://dx.doi.org/10.1038/ngeo813
+  type: Journal Article
+  ISSN: 1752-0894
+  url: http://dx.doi.org/10.1038/ngeo813
+  number: 3
+  year: 2010
+  title: Committed climate warming
+  author: Matthews, H. Damon and Weaver, Andrew J.
+  volume: 3
+  journal: Nature Geoscience
+  pages: 142-143
+  ref 'Matthews_and_Weaver_2010
+
+  name: Tietsche et al., 2011
+  link: <Go to ISI>://WOS:000286759500002
+  type: Journal Article
+  ISSN: 0094-8276
+  url: <Go to ISI>://WOS:000286759500002
+  DOI: 10.1029/2010gl045698
+  year: 2011
+  title: Recovery mechanisms of Arctic summer sea ice
+  author: Tietsche, S. and Notz, D. and Jungclaus, J. H. and Marotzke, J.
+  volume: 38
+  journal: Geophysical Research Letters
+  keywords: model  amplification  temperature  circulation  future  ocean
+  pages: L02707
+  ref 'Tietsche_et_al_2011
+
+  name: Warrick and Oerlemans, 1990
+  type: Book Section
+  address: Cambridge, United Kingdom, New York, NY, USA
+  publisher: Cambridge University Press
+  year: 1990
+  booktitle: Climate Change: The IPCC Scientific Assessment
+  title: Sea Level Rise
+  author: Warrick, R.  and Oerlemans, J.
+  pages: pp. 261-281
+  ref 'Warrick_and_Oerlemans_1990
+
+  name: Lambert et al., 2008
+  type: Journal Article
+  ISSN: 0028-0836
+  DOI: 10.1038/nature06763
+  year: 2008
+  title: Dust-climate couplings over the past 800,000 years from the EPICA Dome C ice core
+  author: Lambert, F and Delmonte, B and Petit, J R and Bigler, M and Kaufmann, P R and Hutterli, M A and Stocker, T F and Ruth, U and Steffensen, J P and Maggi, V
+  volume: 452
+  journal: Nature
+  keywords: LAST GLACIAL MAXIMUM  EAST ANTARCTICA  SOUTHERN-OCEAN  CHINESE LOESS  RECORD  PRODUCTIVITY  TRANSPORT  RECONSTRUCTION  TEMPERATURE  CYCLES
+  pages: 616-619
+  ref 'Lambert_et_al_2008
+
+  name: Ettema et al., 2009
+  type: Journal Article
+  ISSN: 0094-8276
+  DOI: 10.1029/2009GL038110
+  year: 2009
+  title: Higher surface mass balance of the Greenland ice sheet revealed by high-resolution climate modeling
+  author: Ettema, J and van den Broeke, M R and van Meijgaard, E and van de Berg, W J and Bamber, J L and Box, J E and Bales, R C
+  volume: 36
+  journal: Geophysical Research Letters
+  keywords: ABLATION  MELT
+  pages: L12501
+  ref 'Ettema_et_al_2009
+
+  name: Smith et al., 2008
+  type: Journal Article
+  year: 2008
+  title: Improvements to NOAA’s Historical Merged Land-Ocean Surface Temperature Analysis (1880-2005)
+  author: Smith, T M and Reynolds, R W and Peterson, T C and Lawrimore, J
+  volume: 21
+  journal: J. Climate
+  pages: 2283-2296
+  ref 'Smith_et_al_2008
+
+  name: Taylor et al., 2012
+  link: <Go to ISI>://WOS:000303110900004
+  type: Journal Article
+  ISSN: 0003-0007
+  url: <Go to ISI>://WOS:000303110900004
+  number: 4
+  DOI: 10.1175/Bams-D-11-00094.1
+  year: 2012
+  title: An Overview of CMIP5 and the Experiment Design
+  author: Taylor, K. E. and Stouffer, R. J. and Meehl, G. A.
+  volume: 93
+  journal: Bulletin of the American Meteorological Society
+  keywords: model intercomparison project  climate-change research
+  pages: 485-498
+  ref 'Taylor_et_al_2012
+
+  name: Hoelzle et al., 2011
+  link: <Go to ISI>://WOS:000288988500018
+  type: Journal Article
+  ISSN: 1994-0416
+  url: <Go to ISI>://WOS:000288988500018
+  number: 1
+  DOI: 10.5194/tc-5-231-2011
+  year: 2011
+  title: Evidence of accelerated englacial warming in the Monte Rosa area, Switzerland/Italy
+  author: Hoelzle, M. and Darms, G. and Lüthi, M. P. and Suter, S.
+  volume: 5
+  journal: Cryosphere
+  keywords: cold firn  swiss-alps  ice  glaciers  flow  accumulation  temperature  permafrost  gnifetti  blanc
+  pages: 231-243
+  ref 'Hoelzle_et_al_2011
+
+  name: Meehl et al., 2007
+  type: Book Section
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2007
+  booktitle: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Global Climate Projections
+  author: Meehl, G. A. and Stocker, T. F.  and Collins, W. D.  and Friedlingstein, P.  and Gaye, A. T.  and Gregory, J. M.  and Kitoh, A.  and Knutti, R.  and Murphy, J. M.  and Noda, A.  and Raper, S. C. B. and Watterson, I. G.  and Weaver, A. J.  and Zhao, Z.-C.
+  pages: pp. 749-845
+  ref 'Meehl_et_al_2007
+
+  name: Cubasch et al., 2001
+  type: Book Section
+  address: Cambridge, United Kingdom  New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2001
+  booktitle: Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Projections of Future Climate Change
+  author: Cubasch, U and Meehl, GA and Boer, GJ and Stouffer, R and Dix, M and Noda, A and Senior, CA and Raper, S. C. B. and Yap, KS
+  pages: pp. 527-582
+  ref 'Cubasch_et_al_2001
+
+  name: Hawkins and Sutton, 2011
+  link: http://dx.doi.org/10.1007/s00382-010-0810-6
+  type: Journal Article
+  ISSN: 0930-7575
+  url: http://dx.doi.org/10.1007/s00382-010-0810-6
+  number: 1-2
+  DOI: 10.1007/s00382-010-0810-6
+  year: 2011
+  title: The potential to narrow uncertainty in projections of regional precipitation change
+  author: Hawkins, Ed and Sutton, Rowan
+  volume: 37
+  journal: Climate Dynamics
+  keywords: Precipitation  Uncertainty
+  pages: 407-418
+  ref 'Hawkins_and_Sutton_2011
+
+  name: SWIPA, 2011
+  type: Generic
+  publisher: AMAP
+  year: 2011
+  title: Snow, Water, Ice and Permafrost in the Arctic. SWIPA 2011 Executive Summary
+  author: SWIPA
+  pages: 16 pp.
+  ref 'SWIPA_2011
+
+  name: Mastrandrea et al., 2010
+  type: Government Document
+  publisher: Available at http://www.ipcc.ch/ (accessed 07-10-2013)
+  year: 2010
+  title: Guidance Notes for Lead Authors of the IPCC Fifth Assessment Report on Consistent Treatment of Uncertainties
+  author: Mastrandrea, M D and Field, C B and Stocker, T F and Edenhofer, O and Ebi, K L and Frame, D J and Held, H and Kriegler, E and Mach, K J and Plattner, G-K and Yohe, G W and Zwiers, F W
+  ref 'Mastrandrea_et_al_2010
+
+  name: van Vuuren et al., 2011
+  type: Journal Article
+  number: 1-2
+  DOI: 10.1007/s10584-011-0148-z
+  year: 2011
+  title: The representative concentration pathways: an overview
+  author: van Vuuren, Detlef P. and Edmonds, Jae and Kainuma, Mikiko and Riahi, Keywan and Thomson, Allison and Hibbard, Kathy and Hurtt, George C. and Kram, Tom and Krey, Volker and Lamarque, Jean-Francois and Masui, Toshihiko and Meinshausen, Malte and Nakicenovic, Nebojsa and Smith, Steven J. and Rose, Steven K.
+  volume: 109
+  journal: Climatic Change
+  keywords: CARBON-CYCLE MODELS  ATMOSPHERE-OCEAN  SIMPLER MODEL  LAND-USE  SCENARIOS  STABILIZATION  STRATEGIES  EMISSIONS  ENERGY  COSTS
+  pages: 5-31
+  ref 'van_Vuuren_et_al_2011a
+
+  name: Murphy et al., 2009
+  type: Journal Article
+  ISSN: 0148-0227
+  DOI: 10.1029/2009JD012105
+  year: 2009
+  title: An observationally based energy balance for the Earth since 1950
+  author: Murphy, DM and Solomon, S and Portmann, RW and Rosenlof, KH and Forster, PM and Wong, T
+  volume: 114
+  journal: Journal of Geophysical Research-Atmospheres
+  keywords: OCEAN HEAT-CONTENT  SEA-LEVEL RISE  RADIATION BUDGET  CLIMATE SYSTEM  VOLCANIC-ERUPTIONS  DECADAL CHANGES  TEMPERATURE  SENSITIVITY  FUTURE  VARIABILITY
+  pages: D17107
+  ref 'Murphy_et_al_2009
+
+  name: Hansen et al., 2010
+  type: Journal Article
+  DOI: 10.1029/2010RG000345
+  year: 2010
+  title: Global surface temperature change
+  author: Hansen, J and Ruedy, R and Sato, M and Lo, K
+  volume: 48
+  journal: Reviews of Geophysics
+  pages: RG4004
+  ref 'Hansen_et_al_2010
+
+  name: Yip et al., 2011
+  link: <Go to ISI>://WOS:000294993800008
+  type: Journal Article
+  ISSN: 0894-8755
+  url: <Go to ISI>://WOS:000294993800008
+  number: 17
+  DOI: 10.1175/2011jcli4085.1
+  year: 2011
+  title: A Simple, Coherent Framework for Partitioning Uncertainty in Climate Predictions
+  author: Yip, S. and Ferro, C. A. T. and Stephenson, D. B. and Hawkins, E.
+  volume: 24
+  journal: Journal of Climate
+  keywords: potential predictability  interannual variability  projections  ensemble  model
+  pages: 4634-4643
+  ref 'Yip_et_al_2011
+
+  name: IPCC, 2012b
+  type: Report
+  year: 2012
+  title: Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. Special Report of the Intergovernmental Panel on Climate Change
+  author: IPCC
+  ref 'IPCC_2012b
+
+  name: IPCC, 2001
+  type: Book
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2001
+  title: Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change
+  author: IPCC
+  pages: 881
+  ref 'IPCC_2001
+
+  name: Frame and Stone, 2013
+  link: http://dx.doi.org/10.1038/nclimate1763
+  type: Journal Article
+  ISSN: 1758-678X
+  url: http://dx.doi.org/10.1038/nclimate1763
+  number: 4
+  year: 2013
+  title: Assessment of the first consensus prediction on climate change
+  author: Frame, David J. and Stone, Daithi A.
+  volume: 3
+  journal: Nature Clim. Change
+  pages: 357-359
+  ref 'Frame_and_Stone_2013
+
+  name: Moss and Schneider, 2000
+  type: Generic
+  publisher: World Meteorological Organization, Geneva
+  year: 2000
+  title: Uncertainties in the IPCC TAR: Recommendations to lead authors for more consistent assessment and reporting. In: Guidance Papers on the Cross Cutting Issues of the Third Assessment Report of the IPCC
+  author: Moss, R.H. and Schneider, S.H.
+  pages: pp. 33-51
+  ref 'Moss_and_Schneider_2000
+
+  name: GCOS, 2011
+  type: Generic
+  year: 2011
+  title: Systematic Observation Requirements for Satellite-based Products for Climate Supplemental details to the satellite-based component of the Implementation Plan for the Global Observing System for Climate in Support of the UNFCCC - 2011 Update, (GCOS-154) - December 2011
+  author: GCOS
+  ref 'GCOS_2011
+
+  name: Trenberth et al., 2009
+  type: Journal Article
+  ISSN: 0003-0007
+  DOI: 10.1175/2008BAMS2634.1
+  year: 2009
+  title: Earth's Global Energy Budget
+  author: Trenberth, K E and Fasullo, J T and Kiehl, J
+  volume: 90
+  journal: Bulletin of the American Meteorological Society
+  keywords: Surface Radiation Budget  Annual Cycle  heat-budget  Part I  Fluxes  Precipitation  Climatology  Absorption  Reanalysis  Clouds
+  pages: 311-323
+  ref 'Trenberth_et_al_2009
+
+  name: Kahneman and Tversky, 1979
+  link: http://www.jstor.org/stable/1914185
+  type: Journal Article
+  ISSN: 00129682
+  url: http://www.jstor.org/stable/1914185
+  number: 2
+  DOI: 10.2307/1914185
+  year: 1979
+  title: Prospect Theory: An Analysis of Decision under Risk
+  author: Kahneman, Daniel and Tversky, Amos
+  volume: 47
+  journal: Econometrica
+  pages: 263-291
+  ref 'Kahneman_and_Tversky_1979
+
+  name: Pall et al., 2011
+  link: http://www.ncbi.nlm.nih.gov/pubmed/21331040
+  type: Journal Article
+  ISSN: 1476-4687 (Electronic)  0028-0836 (Linking)
+  url: http://www.ncbi.nlm.nih.gov/pubmed/21331040
+  number: 7334
+  DOI: 10.1038/nature09762
+  year: 2011
+  title: Anthropogenic greenhouse gas contribution to flood risk in England and Wales in autumn 2000
+  author: Pall, P. and Aina, T. and Stone, D. A. and Stott, P. A. and Nozawa, T. and Hilberts, A. G. and Lohmann, D. and Allen, M. R.
+  volume: 470
+  journal: Nature
+  keywords: Disasters/*statistics & numerical data  England  Floods/*statistics & numerical data  Global Warming/statistics & numerical data  Greenhouse Effect/*statistics & numerical data  *Human Activities  Models, Theoretical  *Rain  Risk Assessment  Rivers  Seasons  Wales
+  pages: 382-385
+  ref 'Pall_et_al_2011
+
+  name: IPCC, 2007
+  type: Book
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2007
+  title: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC)
+  author: IPCC
+  pages: 996
+  ref 'IPCC_2007
+
+  name: Peterson et al., 2008
+  type: Book Section
+  address: Washington, DC., USA
+  publisher: A Report by the U.S.Climate Change Science Program and the Subcommittee on Global Change Research
+  editor: Karl, T. R., G. A. Meehl, C. D. Miller, S. J. Hassol, A. M. Waple, and W. L. Murray
+  year: 2008
+  booktitle: Weather and Climate Extremes in a Changing Climate. Regions of Focus: North America, Hawaii, Caribbean, and U.S. Pacific Islands
+  title: Why weather and climate extremes matter.
+  author: Peterson, T.C. and Anderson, D. and Cohen, S.J. and Cortez, M. and Murname, R. and Parmesan, C. and Phillips, P. and Pulwarty, R. and Stone, J.
+  pages: pp. 11-33
+  ref 'Peterson_et_al_2008
+
+  name: Byrne et al., 2010
+  type: Journal Article
+  ISSN: 0094-8276
+  DOI: 10.1029/2009GL040999
+  year: 2010
+  title: Direct observations of basin-wide acidification of the North Pacific Ocean
+  author: Byrne, RH and Mecking, S and Feely, RA and Liu, XW
+  volume: 37
+  journal: Geophysical Research Letters
+  keywords: SEAWATER PH MEASUREMENTS  ANTHROPOGENIC CO2  CARBONIC-ACID  DISSOCIATION  CONSTANTS
+  ref 'Byrne_et_al_2010
+
+  name: Seneviratne et al., 2010
+  type: Journal Article
+  ISSN: 0012-8252
+  number: 3-4
+  DOI: 10.1016/j.earscirev.2010.02.004
+  year: 2010
+  title: Investigating soil moisture-climate interactions in a changing climate: A review
+  author: Seneviratne, SI and Corti, T and Davin, EL and Hirschi, M and Jaeger, EB and Lehner, I and Orlowsky, B and Teuling, AJ
+  volume: 99
+  journal: Earth-Science Reviews
+  keywords: soil-water balance  land cover  climatic controls  boundary interactions  atmosphere  climate change  LAND-SURFACE MODEL  ATMOSPHERE COUPLING EXPERIMENT  TERRESTRIAL WATER STORAGE  CONTINENTAL UNITED-STATES  MISSISSIPPI RIVER-BASIN  POLARIZATION DIFFERENCE INDEX  BOUNDARY LAYER INTERACTIONS  GENERAL-CIRCULATION MODELS  TIME-DOMAIN REFLECTOMETRY  VEGETATION OPTICAL DEPTH
+  pages: 125-161
+  ref 'Seneviratne_et_al_2010
+
+  name: IPCC, 1990
+  type: Book
+  address: Cambridge, United Kingdom  New York, NY, USA
+  publisher: Cambridge University Press
+  year: 1990
+  title: Climate Change: The IPCC Scientific Assessment
+  author: IPCC
+  pages: 212
+  ref 'IPCC_1990
+
+  name: Lemke et al., 2007
+  type: Book Section
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2007
+  booktitle: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Observations: Changes in Snow, Ice and Frozen Ground
+  author: Lemke, P. and Ren, J. and Alley, R.B. and Allison, I. and Carrasco, J. and Flato, G. and Fujii, Y. and Kaser, G. and Mote, P. and Thomas, R.H. and Zhang, T.
+  ref 'Lemke_et_al_2007
+
+  name: Nghiem et al., 2012
+  link: <Go to ISI>://WOS:000310346000005
+  type: Journal Article
+  ISSN: 0094-8276
+  url: <Go to ISI>://WOS:000310346000005
+  number: 20
+  DOI: 10.1029/2012gl053611
+  year: 2012
+  title: The extreme melt across the Greenland ice sheet in 2012
+  author: Nghiem, S. V. and Hall, D. K. and Mote, T. L. and Tedesco, M. and Albert, M. R. and Keegan, K. and Shuman, C. A. and DiGirolamo, N. E. and Neumann, G.
+  volume: 39
+  journal: Geophysical Research Letters
+  keywords: surface-temperature  microwave-frequencies  dielectric-constant  clear-sky  modis  snow  validation  avhrr
+  pages: L20502
+  ref 'Nghiem_et_al_2012
+
+  name: Hansen et al., 2006
+  type: Journal Article
+  ISSN: 0027-8424
+  number: 39
+  DOI: 10.1073/pnas.0606291103
+  year: 2006
+  title: Global temperature change
+  author: Hansen, J and Sato, M and Ruedy, R and Lo, K and Lea, D W and Medina-Elizade, M
+  volume: 103
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  keywords: climate change  El ninos  global warming  sea level  species extinctions  SURFACE-TEMPERATURE  TROPICAL PACIFIC  CLIMATE-CHANGE  EL-NINO  EQUATORIAL PACIFIC  MODEL  SEA  EPOCH  OCEAN  CO2
+  pages: 14288-14293
+  ref 'Hansen_et_al_2006
+
+  name: Church and White, 2011
+  link: <Go to ISI>://WOS:000295332800017
+  type: Journal Article
+  ISSN: 0169-3298
+  url: <Go to ISI>://WOS:000295332800017
+  number: 4-5
+  DOI: 10.1007/s10712-011-9119-1
+  year: 2011
+  title: Sea-Level Rise from the Late 19th to the Early 21st Century
+  author: Church, J. A. and White, N. J.
+  volume: 32
+  journal: Surveys in Geophysics
+  keywords: sea level  climate change  satellite altimeter  tide gauge  glacial isostatic-adjustment  ocean  accelerations  pressure  coastal  records  impact
+  pages: 585-602
+  ref 'Church_and_White_2011
+
+  name: Huntingford et al., 2009
+  type: Journal Article
+  ISSN: 0280-6509
+  DOI: 10.1111/j.1600-0889.2009.00414.x
+  year: 2009
+  title: Contributions of carbon cycle uncertainty to future climate projection spread
+  author: Huntingford, C and Lowe, JA and Booth, BBB and Jones, CD and Harris, GR and Gohar, LK and Meir, P
+  journal: Tellus Series B-Chemical and Physical Meteorology
+  keywords: MODELS  SENSITIVITY  FEEDBACKS
+  pages: 355-360
+  ref 'Huntingford_et_al_2009
+
+  name: Midorikawa et al., 2010
+  type: Journal Article
+  ISSN: 0280-6509
+  number: 5
+  DOI: 10.1111/j.1600-0889.2010.00474.x|10.1111/j.1600-0889.2010.00474.x
+  year: 2010
+  title: Decreasing pH trend estimated from 25-yr time series of carbonate parameters in the western North Pacific
+  author: Midorikawa, T and Ishii, M and Saito, S and Sasano, D and Kosugi, N and Motoi, T and Kamiya, H and Nakadate, A and Nemoto, K and Inoue, HY
+  volume: 62
+  journal: Tellus Series B-Chemical and Physical Meteorology
+  keywords: OCEAN ACIDIFICATION  PARTIAL-PRESSURE  SURFACE WATERS  INORGANIC CARBON  CO2  TEMPERATURE  SEAWATER
+  pages: 649-659
+  ref 'Midorikawa_et_al_2010
+
+  name: Menne et al., 2012
+  link: <Go to ISI>://WOS:000306717400002
+  type: Journal Article
+  ISSN: 0739-0572
+  url: <Go to ISI>://WOS:000306717400002
+  number: 7
+  DOI: 10.1175/Jtech-D-11-00103.1
+  year: 2012
+  title: An Overview of the Global Historical Climatology Network-Daily Database
+  author: Menne, M. J. and Durre, I. and Vose, R. S. and Gleason, B. E. and Houston, T. G.
+  volume: 29
+  journal: Journal of Atmospheric and Oceanic Technology
+  keywords: quality-assurance procedures  monthly temperature data  surface air-temperature  spatial variability  precipitation  validation  extremes  minimum  maximum
+  pages: 897-910
+  ref 'Menne_et_al_2012
+
+  name: Wise et al., 2009
+  type: Journal Article
+  ISSN: 0036-8075
+  number: 5931
+  DOI: 10.1126/science.1168475
+  year: 2009
+  title: Implications of Limiting CO2 Concentrations for Land Use and Energy
+  author: Wise, M and Calvin, K and Thomson, A and Clarke, L and Bond-Lamberty, B and Sands, R and Smith, SJ and Janetos, A and Edmonds, J
+  volume: 324
+  journal: Science
+  keywords: INTEGRATED ASSESSMENT  GREENHOUSE GASES  CLIMATE  REDUCTION  FRAMEWORK
+  pages: 1183-1186
+  ref 'Wise_et_al_2009
+
+  name: CCSP, 2009
+  link: http://www.climatescience.gov/Library/sap/sap5-2/final-report/default.htm
+  type: Book
+  address: Washington, D.C., USA
+  url: http://www.climatescience.gov/Library/sap/sap5-2/final-report/default.htm
+  publisher: U.S. Climate Change Science Program
+  year: 2009
+  title: Best Practice Approaches for Characterizing, Communicating, and Incorporating Scientific Uncertainty in Climate Decision Making
+  author: CCSP
+  series: A Report by the Climate Change Science Program and the Subcommittee on Global Change Research.
+  pages: 96
+  ref 'CCSP_2009
+
+  name: IPCC, 2000
+  type: Report
+  year: 2000
+  title: IPCC Special Report on Emissions Scenarios. Prepared by Working Group III of the Intergovernmental Panel on Climate Change
+  author: IPCC
+  ref 'IPCC_2000
+
+  name: Willis et al., 2009
+  link: <Go to ISI>://WOS:000265949400015
+  type: Journal Article
+  ISSN: 0739-0572
+  url: <Go to ISI>://WOS:000265949400015
+  number: 4
+  DOI: 10.1175/2008jtecho608.1
+  year: 2009
+  title: In Situ Data Biases and Recent Ocean Heat Content Variability
+  author: Willis, J. K. and Lyman, J. M. and Johnson, G. C. and Gilson, J.
+  volume: 26
+  journal: Journal of Atmospheric and Oceanic Technology
+  keywords: t-5 expendable bathythermograph  sea-level rise  altimetric height  steric height  fall-rate  topex/poseidon  temperature  circulation  equation  pacific
+  pages: 846-852
+  ref 'Willis_et_al_2009
+
+  name: Rahmstorf et al., 2012
+  type: Journal Article
+  ISSN: 1748-9326
+  number: 4
+  DOI: 10.1088/1748-9326/7/4/044035
+  year: 2012
+  title: Comparing climate projections to observations up to 2011
+  author: Rahmstorf, Stefan and Foster, Grant and Cazenave, Anny
+  volume: 7
+  journal: Environmental Research Letters
+  pages: 044035
+  ref 'Rahmstorf_et_al_2012
+
+  name: Lüthi and Funk, 2001
+  type: Journal Article
+  ISSN: 0022-1430
+  number: 157
+  DOI: 10.3189/172756501781832223
+  year: 2001
+  title: Modelling heat flow in a cold, high-altitude glacier: interpretation of measurements from Colle Gnifetti, Swiss Alps
+  author: Lüthi, MP and Funk, M
+  volume: 47
+  journal: Journal of Glaciology
+  keywords: ALPINE ICE CORE  THERMAL REGIME  FRENCH ALPS  MONT-BLANC  TEMPERATURES  ISLAND  CANADA  RECORD  SNOW  NWT
+  pages: 314-324
+  ref 'Lthi_and_Funk_2001
+
+  name: Myhre et al., 1998
+  type: Journal Article
+  ISSN: 0094-8276
+  number: 14
+  DOI: 10.1029/98GL01908
+  year: 1998
+  title: New estimates of radiative forcing due to well mixed greenhouse gases
+  author: Myhre, G and Highwood, EJ and Shine, KP and Stordal, F
+  volume: 25
+  journal: Geophysical Research Letters
+  pages: 2715-2718
+  ref 'Myhre_et_al_1998
+
+  name: Oreskes et al., 1994
+  type: Journal Article
+  ISSN: 0036-8075
+  number: 5147
+  year: 1994
+  title: Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences
+  author: Oreskes, N and Shrader-Frechette, K and Belitz, K
+  volume: 263
+  journal: Science
+  keywords: YUCCA MOUNTAIN PROJECT  GROUNDWATER
+  pages: 641-646
+  ref 'Oreskes_et_al_1994
+
+  name: Armour et al., 2011
+  type: Journal Article
+  ISSN: 0094-8276
+  number: L16705
+  DOI: 10.1029/2011GL048739
+  year: 2011
+  title: The reversibility of sea ice loss in a state-of-the-art climate model
+  author: Armour, K C and Eisenman, I and Blanchard-Wrigglesworth, E and McCusker, K E and Bitz, C M
+  volume: 38
+  journal: Geophysical Research Letters
+  keywords: FUTURE  PERSISTENCE  SYSTEM  CCSM3
+  ref 'Armour_et_al_2011
+
+  name: Patt and Dessai, 2005
+  type: Journal Article
+  number: 4
+  year: 2005
+  title: Communicating uncertainty: lessons learned and suggestions for climate change assessment
+  author: Patt, A.G. and Dessai, S.
+  volume: 337
+  journal: Comptes Rendu Geosciences
+  pages: 425-441
+  ref 'Patt_and_Dessai_2005
+
+  name: AMAP, 2009
+  type: Generic
+  publisher: Arctic Monitoring and Assessment Programme (AMAP)
+  year: 2009
+  title: Summary – The Greenland Ice Sheet in a Changing Climate: Snow, Water, Ice and Permafrost in the Arctic (SWIPA)
+  author: AMAP
+  pages: 22 pp.
+  ref 'AMAP_2009
+
+  name: van Vuuren et al., 2011b
+  type: Journal Article
+  ISSN: 0165-0009  1573-1480
+  number: 1-2
+  DOI: 10.1007/s10584-011-0152-3
+  year: 2011
+  title: RCP2.6: exploring the possibility to keep global mean temperature increase below 2°C
+  author: van Vuuren, Detlef P. and Stehfest, Elke and Elzen, Michel G. J. and Kram, Tom and Vliet, Jasper and Deetman, Sebastiaan and Isaac, Morna and Klein Goldewijk, Kees and Hof, Andries and Mendoza Beltran, Angelica and Oostenrijk, Rineke and Ruijven, Bas
+  volume: 109
+  journal: Climatic Change
+  keywords: LAND-USE CHANGE  GREENHOUSE-GAS  CONCENTRATION TARGETS  CLIMATE POLICY  BIO-ENERGY  CARBON CAPTURE  POTENTIAL ROLE  COSTS  SCENARIOS  EMISSIONS
+  pages: 95-116
+  ref 'van_Vuuren_et_al_2011b
+
+  name: Wigley, 2005
+  link: http://www.sciencemag.org/content/307/5716/1766.abstract
+  type: Journal Article
+  url: http://www.sciencemag.org/content/307/5716/1766.abstract
+  number: 5716
+  DOI: 10.1126/science.1103934
+  year: 2005
+  title: The Climate Change Commitment
+  author: Wigley, T. M. L.
+  volume: 307
+  journal: Science
+  pages: 1766-1769
+  ref 'Wigley_2005
+
+  name: Riahi et al., 2011
+  link: <Go to ISI>://WOS:000297350200003
+  type: Journal Article
+  ISSN: 0165-0009
+  url: <Go to ISI>://WOS:000297350200003
+  number: 1-2
+  DOI: 10.1007/s10584-011-0149-y
+  year: 2011
+  title: RCP 8.5-A scenario of comparatively high greenhouse gas emissions
+  author: Riahi, K. and Rao, S. and Krey, V. and Cho, C. H. and Chirkov, V. and Fischer, G. and Kindermann, G. and Nakicenovic, N. and Rafaj, P.
+  volume: 109
+  journal: Climatic Change
+  keywords: climate-change impacts  agriculture  mitigation
+  pages: 33-57
+  ref 'Riahi_et_al_2011
+
+  name: Hijioka et al., 2008
+  type: Journal Article
+  year: 2008
+  title: Global GHG Emission Scenarios under GHG Concentration Stabilization Targets.
+  author: Hijioka, Y and Matsuoka, Y and Nishomoto, H and Masui, M and Kainuma, M
+  volume: 13
+  journal: Journal of Global Environment Engineering
+  pages: 97-108
+  ref 'Hijioka_et_al_2008
+
+  name: Beerling and Royer, 2011
+  link: http://dx.doi.org/10.1038/ngeo1186
+  type: Journal Article
+  ISSN: 1752-0894
+  url: http://dx.doi.org/10.1038/ngeo1186
+  number: 7
+  year: 2011
+  title: Convergent Cenozoic CO2 history
+  author: Beerling, David J. and Royer, Dana L.
+  volume: 4
+  journal: Nature Geoscience
+  pages: 418-420
+  ref 'Beerling_and_Royer_2011
+
+  name: Wadhams, 2012
+  link: http://pubget.com/paper/22259152  http://dx.doi.org/10.1007/s13280-011-0222-9
+  type: Journal Article
+  ISSN: 0044-7447
+  url: http://pubget.com/paper/22259152  http://dx.doi.org/10.1007/s13280-011-0222-9
+  number: 1
+  DOI: 10.1007/s13280-011-0222-9
+  year: 2012
+  title: Arctic Ice Cover, Ice Thickness and Tipping Points
+  author: Wadhams, P.
+  volume: 41
+  journal: Ambio
+  pages: 23-33
+  ref 'Wadhams_2012
+
+  name: Arrhenius, 1896
+  type: Journal Article
+  year: 1896
+  title: On the influence of carbonic acid in the air upon the temperature of the ground.
+  author: Arrhenius, S.
+  volume: 41
+  journal: Philos. Mag.
+  pages: 237–76
+  ref 'Arrhenius_1896
+
+  name: Zemp et al., 2009
+  type: Journal Article
+  ISSN: 0260-3055
+  year: 2009
+  title: Six decades of glacier mass-balance observations: a review of the worldwide monitoring network
+  author: Zemp, M and Hoelzle, M and Haeberli, W
+  volume: 50
+  journal: Annals of Glaciology
+  keywords: SEA-LEVEL RISE  CLIMATE-CHANGE  MOUNTAIN GLACIERS  PHYSICAL BASIS  VOLUME CHANGES  ICE CAPS  STORGLACIAREN  20TH-CENTURY  ALASKA  SPACE
+  pages: 101-111
+  ref 'Zemp_et_al_2009
+
+  name: Easterling and Wehner, 2009
+  link: http://dx.doi.org/10.1029/2009GL037810
+  type: Journal Article
+  ISSN: 1944-8007
+  url: http://dx.doi.org/10.1029/2009GL037810
+  number: 8
+  DOI: 10.1029/2009GL037810
+  year: 2009
+  title: Is the climate warming or cooling?
+  author: Easterling, David R. and Wehner, Michael F.
+  volume: 36
+  journal: Geophysical Research Letters
+  keywords: global warming  climate change  1620 Climate dynamics  1610 Atmosphere  3305 Climate change and variability  3337 Global climate models
+  pages: L08706
+  ref 'Easterling_and_Wehner_2009
+
+  name: Denman et al., 2007
+  type: Book Section
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2007
+  booktitle: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Couplings Between Changes in the Climate System and Biogeochemistry
+  author: Denman, K. L. and Brasseur, G.  and Chidthaisong, A. and Ciais, P.  and Cox, P. M. and Dickinson, R. E. and Hauglustaine, D. and Heinze, C. and Holland, E. and Jacob, D. and Lohmann, U. and Ramachandran, S. and da Silva Dias, P. L. and Wofsy, S. C. and Zhang, X.
+  pages: pp. 501-587
+  ref 'Denman_et_al_2007
+
+  name: Kwok et al., 2009
+  type: Journal Article
+  ISSN: 0148-0227
+  DOI: 10.1029/2009JC005312
+  year: 2009
+  title: Thinning and volume loss of the Arctic Ocean sea ice cover: 2003-2008
+  author: Kwok, R and Cunningham, G F and Wensnahan, M and Rigor, I and Zwally, H J and Yi, D
+  volume: 114
+  journal: Journal of Geophysical Research-Oceans
+  pages: C07005
+  ref 'Kwok_et_al_2009
+
+  name: Church et al., 2011
+  type: Journal Article
+  ISSN: 1042-8275
+  number: 2
+  year: 2011
+  title: Understanding and Projecting Sea Level Change
+  author: Church, J A and Gregory, J M and White, N J and Platten, S M and Mitrovica, J X
+  volume: 24
+  journal: Oceanography
+  keywords: GLACIAL ISOSTATIC-ADJUSTMENT  OCEAN HEAT-CONTENT  MASS-BALANCE  CLIMATE-CHANGE  WATER STORAGE  ICE SHELF  RISE  TEMPERATURE  IMPACT  MELT
+  pages: 130-143
+  ref 'Church_et_al_2011
+
+  name: Granier et al., 2011
+  link: <Go to ISI>://WOS:000297350200008
+  type: Journal Article
+  ISSN: 0165-0009
+  url: <Go to ISI>://WOS:000297350200008
+  number: 1-2
+  DOI: 10.1007/s10584-011-0154-1
+  year: 2011
+  title: Evolution of anthropogenic and biomass burning emissions of air pollutants at global and regional scales during the 1980-2010 period
+  author: Granier, C. and Bessagnet, B. and Bond, T. and D'Angiola, A. and van der Gon, H. D. and Frost, G. J. and Heil, A. and Kaiser, J. W. and Kinne, S. and Klimont, Z. and Kloster, S. and Lamarque, J. F. and Liousse, C. and Masui, T. and Meleux, F. and Mieville, A. and Ohara, T. and Raut, J. C. and Riahi, K. and Schultz, M. G. and Smith, S. J. and Thompson, A. and van Aardenne, J. and van der Werf, G. R. and van Vuuren, D. P.
+  volume: 109
+  journal: Climatic Change
+  keywords: satellite data  nox emissions  co emissions  fossil-fuel  inventory  trends  aerosols  model  20th-century  adjoint
+  pages: 163-190
+  ref 'Granier_et_al_2011
+
+  name: Haas et al., 2008
+  type: Journal Article
+  ISSN: 0094-8276
+  DOI: 10.1029/2008GL034457
+  year: 2008
+  title: Reduced ice thickness in Arctic Transpolar Drift favors rapid ice retreat
+  author: Haas, C and Pfaffling, A and Hendricks, S and Rabenstein, L and Etienne, J L and Rigor, I
+  volume: 35
+  journal: Geophysical Research Letters
+  keywords: SEA-ICE
+  pages: L17501
+  ref 'Haas_et_al_2008
+
+  name: Steinhilber et al., 2009
+  type: Journal Article
+  ISSN: 0094-8276
+  DOI: 10.1029/2009GL040142
+  year: 2009
+  title: Total solar irradiance during the Holocene
+  author: Steinhilber, F and Beer, J and Fröhlich, C
+  volume: 36
+  journal: Geophysical Research Letters
+  keywords: MAUNDER MINIMUM  MAGNETIC-FIELD  CLIMATE-CHANGE  RECONSTRUCTION  EVOLUTION
+  pages: L19704
+  ref 'Steinhilber_et_al_2009
+
+  name: IPCC, 1996
+  type: Book
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 1996
+  title: Climate Change 1995: The Science of Climate Change. Contribution of Working Group I to the Second Assessment Report of the Intergovernmental Panel on Climate Change
+  author: IPCC
+  pages: 584
+  ref 'IPCC_1996
+
+  name: Moss et al., 2008
+  type: Conference Proceedings
+  publisher: Intergovernmental Panel on Climate Change
+  title: Towards New Scenarios for Analysis of Emissions, Climate Change, Impacts, and Response Strategies
+  author: Moss, R and Babiker, M and Brinkman, S and Calvo, E and Carter, T and Edmonds, J and Elgizouli, I and Emori, S and Erda, L and Hibbard, K and Jones, R and Kainuma, M and Kelleher, J and Lamarque, JF and Manning, M and Matthews, B and Meehl, J and Meyer, L and Mitchell, J and Nakicenovic, N and O'Neill, B and Pichs, R and Riahi, K and Rose, S and Runci, P and Stouffer, R and van Vuuren, D and Weyant, J and Wilbanks, T and van Ypersele, JP and Zurek, M
+  pages: 132 pp.
+  ref 'Moss_et_al_2008
+
+  name: GCOS, 2009
+  link: http://www.wmo.int/pages/prog/gcos/Publications/gcos-129.pdf
+  type: Generic
+  url: http://www.wmo.int/pages/prog/gcos/Publications/gcos-129.pdf
+  year: 2009
+  title: Progress Report on the Implementation of the Global Observing System for Climate in Support of the UNFCCC 2004-2008, GCOS-129 (WMO/TD-No. 1489; GOOS-173; GTOS-70)
+  author: GCOS
+  ref 'GCOS_2009
+
+  name: Scott et al., 2009
+  type: Journal Article
+  year: 2009
+  title: Increased rate of acceleration on Pine Island Glacier strongly coupled to changes in gravitational driving stress
+  author: Scott, J T B and Gudmundsson, G H and Smith, A M and Bingham, R G and Pritchard, H D and Vaughan, D G
+  volume: 3
+  journal: The Cryosphere
+  pages: 125-131
+  ref 'Scott_et_al_2009
+
+  name: Bretherton et al., 1990
+  type: Book Section
+  address: Cambridge, Great Britain, New York, NY, USA and Melbourne, Australia
+  publisher: Cambridge University Press
+  year: 1990
+  booktitle: Climate Change: The IPCC Scientific Assessment
+  title: Time-Dependent Greenhouse-Gas-Induced Climate Change
+  author: Bretherton, F. P.  and Bryan, K. and Woodes, J. D.
+  pages: pp. 177-193
+  ref 'Bretherton_et_al_1990
+
+  name: Duarte et al., 2012
+  link: <Go to ISI>://WOS:000300520100002
+  type: Journal Article
+  ISSN: 1758-678X
+  url: <Go to ISI>://WOS:000300520100002
+  number: 2
+  year: 2012
+  title: Commentary: Abrupt climate change in the Arctic
+  author: Duarte, C. M. and Lenton, T. M. and Wadhams, P. and Wassmann, P.
+  volume: 2
+  journal: Nature Climate Change
+  keywords: ocean  carbon
+  pages: 60-62
+  ref 'Duarte_et_al_2012
+
+  name: Baede et al., 2001
+  type: Book Section
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2001
+  booktitle: Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change
+  title: The Climate System: an Overview
+  author: Baede, A.P.M. and Ahlonsou, E. and Ding, Y. and Schimel, D.
+  ref 'Baede_et_al_2001
+
+  name: Schimel et al., 1996
+  type: Book Section
+  address: Cambridge, United Kingdom  New York, NY, USA
+  publisher: Cambridge University Press
+  year: 1996
+  booktitle: Climate Change 1995: The Science of Climate Change, Contribution of Working Group I to the Second Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Radiative Forcing of Climate Change
+  author: Schimel, D.   and Alves, D.   and Enting, I.   and Heimann, M.  and Joos, R.   and Raynaud, D.   and Wigley, T.  and Prather, M.   and Derwent, R.   and Ehhalt, D.   and Eraser, R.  and Sanhueza, E.   and Zhou, X.  and Jonas, R.   and Charlson, R.   and Rodhe, H.   and Sadasivan, S.  and Shine, K. R.   and Fouchart, Y  and Ramaswamy, V.  and Solomon, S.  and Srinivasan, J.  and Albritton, D.   and Isaksen, L.   and Lala, M.   and Wuebbles, D.
+  pages: pp. 69-131
+  ref 'Schimel_et_al_1996
+
+  name: Lüthi et al., 2008
+  type: Journal Article
+  ISSN: 0028-0836
+  DOI: 10.1038/nature06949
+  year: 2008
+  title: High-resolution carbon dioxide concentration record 650,000-800,000 years before present
+  author: Lüthi, D and Le Floch, M and Bereiter, B and Blunier, T and Barnola, J M and Siegenthaler, U and Raynaud, D and Jouzel, J and Fischer, H and Kawamura, K and Stocker, T F
+  volume: 453
+  journal: Nature
+  keywords: PAST 800,000 YEARS  8 GLACIAL CYCLES  C ICE CORE  ATMOSPHERIC CO2  CLIMATE VARIABILITY  BIPOLAR SEESAW  ANTARCTICA  MODEL  CIRCULATION  GREENLAND
+  pages: 379-382
+  ref 'Lthi_et_al_2008
+
+  name: Covey et al., 2003
+  type: Journal Article
+  ISSN: 0921-8181
+  number: 1-2
+  DOI: 10.1016/S0921-8181(02)00193-5|10.1016/S0921-8181(02)00193-5
+  year: 2003
+  title: An overview of results from the Coupled Model Intercomparison Project
+  author: Covey, C and AchutaRao, KM and Cubasch, U and Jones, P and Lambert, SJ and Mann, ME and Phillips, TJ and Taylor, KE
+  volume: 37
+  journal: Global and Planetary Change
+  keywords: CMIP  GCM  climate  GENERAL-CIRCULATION MODEL  SURFACE AIR-TEMPERATURE  OCEAN-ATMOSPHERE MODEL  TRANSIENT CLIMATE-CHANGE  SEA-ICE  FLUX ADJUSTMENTS  HEAT TRANSPORTS  GLOBAL CLIMATE  6 CENTURIES  CO2
+  pages: 103-133
+  ref 'Covey_et_al_2003
+
+  name: Hansen et al., 1981
+  link: http://www.ncbi.nlm.nih.gov/pubmed/17789014
+  type: Journal Article
+  ISSN: 0036-8075
+  url: http://www.ncbi.nlm.nih.gov/pubmed/17789014
+  number: 4511
+  DOI: 10.1126/science.213.4511.957
+  year: 1981
+  title: Climate impact of increasing atmospheric carbon dioxide
+  author: Hansen, J. and Johnson, D. and Lacis, A. and Lebedeff, S. and Lee, P. and Rind, D. and Russell, G.
+  volume: 213
+  journal: Science
+  pages: 957-966
+  ref 'Hansen_et_al_1981
+
+  name: Budescu et al., 2009
+  type: Journal Article
+  year: 2009
+  title: Improving communication of uncertainty in the reports of the Intergovernmental Panel on Climate Change
+  author: Budescu, DV and Broomell, S and Por, H-H
+  volume: 20
+  journal: Psychological Sci.
+  pages: 299-308
+  ref 'Budescu_et_al_2009
+
+  name: Hegerl et al., 2007
+  type: Book Section
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2007
+  booktitle: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Understanding and Attributing Climate Change
+  author: Hegerl, G.C. and Zwiers, F. W. and Braconnot, P. and Gillett, N.P. and Luo, Y. and Orsini, J.A. Marengo and Nicholls, N. and Penner, J.E. and Stott, P.A.
+  pages: pp. 665–745
+  ref 'Hegerl_et_al_2007
+
+  name: Masson and Knutti, 2011
+  link: <Go to ISI>://WOS:000289855600004
+  type: Journal Article
+  ISSN: 0094-8276
+  url: <Go to ISI>://WOS:000289855600004
+  DOI: 10.1029/2011gl046864
+  year: 2011
+  title: Climate model genealogy
+  author: Masson, D. and Knutti, R.
+  volume: 38
+  journal: Geophysical Research Letters
+  keywords: projections  predictions  uncertainty
+  pages: L08703
+  ref 'Masson_and_Knutti_2011
+
+  name: Manning et al., 2004
+  type: Generic
+  publisher: [IPCC Working Group I Technical Support Unit (ed.)]. Available at http://www.ipcc.ch/ (accessed 07-10-2013)
+  year: 2004
+  title: IPCC Workshop on: Describing Scientific Uncertainties in Climate Change to Support Analysis of Risk and of Options
+  author: Manning, M. and Petit, M. and Easterling, D. and Murphy, J. and Patwardhan, A. and Rogner, H.-H. and Swart, R. and Yohe, G.
+  pages: 138 pp.
+  ref 'Manning_et_al_2004
+
+  name: Forest et al., 2008
+  link: http://dx.doi.org/10.1111/j.1600-0870.2008.00346.x
+  type: Journal Article
+  ISSN: 1600-0870
+  url: http://dx.doi.org/10.1111/j.1600-0870.2008.00346.x
+  number: 5
+  DOI: 10.1111/j.1600-0870.2008.00346.x
+  year: 2008
+  title: Constraining climate model parameters from observed 20th century changes
+  author: Forest, Chris E. and Stone, Peter H. and Sokolov, Andrei P.
+  volume: 60
+  journal: Tellus A
+  pages: 911-920
+  ref 'Forest_et_al_2008
+
+  name: Cleveland, 1979
+  link: <Go to ISI>://WOS:A1979JD82100012
+  type: Journal Article
+  ISSN: 0162-1459
+  url: <Go to ISI>://WOS:A1979JD82100012
+  number: 368
+  DOI: 10.2307/2286407
+  year: 1979
+  title: Robust Locally Weighted Regression and Smoothing Scatterplots
+  author: Cleveland, W. S.
+  volume: 74
+  journal: Journal of the American Statistical Association
+  pages: 829-836
+  ref 'Cleveland_1979
+
+  name: Kandlikar et al., 2005
+  type: Journal Article
+  ISSN: 1631-0713
+  DOI: 10.1016/j.crte.2004.10.010
+  year: 2005
+  title: Representing and communicating deep uncertainty in climate-change assessments
+  author: Kandlikar, M and Risbey, J and Dessai, S
+  volume: 337
+  journal: Comptes Rendus Geoscience
+  keywords: communication of uncertainty  climate change  risk assessment  AMBIGUITY
+  pages: 443-455
+  ref 'Kandlikar_et_al_2005
+
+  name: Frame et al., 2006
+  link: http://dx.doi.org/10.1029/2006GL025801
+  type: Journal Article
+  ISSN: 0094-8276
+  url: http://dx.doi.org/10.1029/2006GL025801
+  number: 14
+  DOI: 10.1029/2006GL025801
+  year: 2006
+  title: Alternatives to stabilization scenarios
+  author: Frame, D. J. and Stone, D. A. and Stott, P. A. and Allen, M. R.
+  volume: 33
+  journal: Geophysical Research Letters
+  keywords: 1620 Climate dynamics  1630 Impacts of global change  3305 Climate change and variability
+  ref 'Frame_et_al_2006
+
+  name: Foley et al., 2005
+  type: Journal Article
+  ISSN: 0036-8075
+  number: 5734
+  DOI: 10.1126/science.1111772|10.1126/science.1111772
+  year: 2005
+  title: Global consequences of land use
+  author: Foley, JA and DeFries, R and Asner, GP and Barford, C and Bonan, G and Carpenter, SR and Chapin, FS and Coe, MT and Daily, GC and Gibbs, HK and Helkowski, JH and Holloway, T and Howard, EA and Kucharik, CJ and Monfreda, C and Patz, JA and Prentice, IC and Ramankutty, N and Snyder, PK
+  volume: 309
+  journal: Science
+  keywords: AGRICULTURAL INTENSIFICATION  HUMAN APPROPRIATION  CLIMATE  CARBON  WATER  NITROGEN  IMPACT  DEFORESTATION  VULNERABILITY  URBANIZATION
+  pages: 570-574
+  ref 'Foley_et_al_2005
+
+  name: Brunet and Jones, 2011
+  link: http://www.int-res.com/abstracts/cr/v47/n1-2/p29-40/
+  type: Journal Article
+  url: http://www.int-res.com/abstracts/cr/v47/n1-2/p29-40/
+  number: 1-2
+  DOI: 10.3354/cr00960
+  year: 2011
+  title: Data rescue initiatives: bringing historical climate data into the 21st century
+  author: Brunet, M and Jones, P
+  volume: 47
+  journal: Climate Research
+  pages: 29-40
+  ref 'Brunet_and_Jones_2011
+
+  name: Peterson et al., 2012
+  link: <Go to ISI>://WOS:000306806100008
+  type: Journal Article
+  ISSN: 0003-0007
+  url: <Go to ISI>://WOS:000306806100008
+  number: 7
+  DOI: 10.1175/Bams-D-12-00021.1
+  year: 2012
+  title: Explaining Extreme Events of 2011 from a Climate Perspective
+  author: Peterson, T. C. and Stott, P. A. and Herring, S.
+  volume: 93
+  journal: Bulletin of the American Meteorological Society
+  keywords: sea-surface temperature  united-states  global precipitation  soil-moisture  intense precipitation  variability  drought  model  attribution  frequency
+  pages: 1041-1067
+  ref 'Peterson_et_al_2012
+
+  name: Turner and Overland, 2009
+  type: Journal Article
+  year: 2009
+  title: Contrasting climate change in the two polar regions
+  author: Turner, J. and Overland, J. E.
+  volume: 28
+  journal: Polar Research
+  pages: 146-164
+  ref 'Turner_and_Overland_2009
+
+  name: Tedesco, 2007
+  type: Journal Article
+  number: 39
+  DOI: 10.1029/2007EO390003
+  year: 2007
+  title: A new record in 2007 for melting in Greenland
+  author: Tedesco, M
+  volume: 88
+  journal: EOS, Transactions American Geophysical Union
+  pages: 383
+  ref 'Tedesco_2007
+
+  name: Dlugokencky et al., 2009
+  type: Journal Article
+  ISSN: 0094-8276
+  DOI: 10.1029/2009GL039780
+  year: 2009
+  title: Observational constraints on recent increases in the atmospheric CH4 burden
+  author: Dlugokencky, E J and Bruhwiler, L and White, J W C and Emmons, L K and Novelli, P C and Montzka, S A and Masarie, K A and Lang, P M and Crotwell, A M and Miller, J B and Gatti, L V
+  volume: 36
+  journal: Geophysical Research Letters
+  keywords: BIOMASS-BURNING EMISSIONS  METHANE  VARIABILITY  HYDROXYL
+  pages: L18803
+  ref 'Dlugokencky_et_al_2009
+
+  name: Kopp and Lean, 2011
+  link: <Go to ISI>://WOS:000286323900002
+  type: Journal Article
+  ISSN: 0094-8276
+  url: <Go to ISI>://WOS:000286323900002
+  DOI: 10.1029/2010gl045777
+  year: 2011
+  title: A new, lower value of total solar irradiance: Evidence and climate significance
+  author: Kopp, G. and Lean, J. L.
+  volume: 38
+  journal: Geophysical Research Letters
+  keywords: monitor tim  variability  trend
+  pages: L01706
+  ref 'Kopp_and_Lean_2011
+
+  name: Zemp et al., 2008
+  type: Government Document
+  publisher: United Nations Environment Programme and World Glacier Monitoring Service
+  year: 2008
+  title: Global glacier changes: facts and figures
+  author: Zemp, M and Roer, I and Kääb, A and Hoelzle, M and Paul, F and Haeberli, W
+  pages: 88
+  ref 'Zemp_et_al_2008
+
+  name: JCGM, 2008
+  link: http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf
+  type: Generic
+  url: http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf
+  publisher: Joint Committee for Guides in Metrology
+  year: 2008
+  title: JCGM 100: 2008. GUM 1995 with minor corrections. Evaluation of measurement data — Guide to the expression of uncertainty in measurement
+  author: JCGM
+  ref 'JCGM_2008
+
+  name: Hurtt et al., 2011
+  link: <Go to ISI>://WOS:000297350200007
+  type: Journal Article
+  ISSN: 0165-0009
+  url: <Go to ISI>://WOS:000297350200007
+  number: 1-2
+  DOI: 10.1007/s10584-011-0153-2
+  year: 2011
+  title: Harmonization of land-use scenarios for the period 1500-2100: 600 years of global gridded annual land-use transitions, wood harvest, and resulting secondary lands
+  author: Hurtt, G. C. and Chini, L. P. and Frolking, S. and Betts, R. A. and Feddema, J. and Fischer, G. and Fisk, J. P. and Hibbard, K. and Houghton, R. A. and Janetos, A. and Jones, C. D. and Kindermann, G. and Kinoshita, T. and Goldewijk, K. K. and Riahi, K. and Shevliakova, E. and Smith, S. and Stehfest, E. and Thomson, A. and Thornton, P. and van Vuuren, D. P. and Wang, Y. P.
+  volume: 109
+  journal: Climatic Change
+  keywords: climate-change  carbon-cycle  spatially explicit  united-states  cover change  3 centuries  hyde 3.1  model  deforestation  atmosphere
+  pages: 117-161
+  ref 'Hurtt_et_al_2011
+
+  name: Elkins and Dutton, 2010
+  type: Journal Article
+  year: 2010
+  title: Nitrous oxide and sulfur hexaflouride. Section in State of the Climate in 2009
+  author: Elkins, JW and Dutton, GS
+  volume: 91
+  journal: Bulletin of the American Meteorological Society
+  pages: 44-45
+  ref 'Elkins_and_Dutton_2010
+
+  name: Zhang and Zwiers, 2012
+  type: Book Section
+  publisher: Springer
+  editor: AghaKouchak, A. and Easterling, D. and Hsu, K. and Schubert, S. and Sorooshian, S.
+  year: 2012
+  booktitle: Extremes in a Changing Climate: Detection, Analysis and Uncertainty
+  title: Statistical indices for the diagnosing and detecting changes in extremes
+  author: Zhang, X and Zwiers, F
+  pages: pp. 1-14
+  ref 'Zhang_and_Zwiers_2012
+
+  name: Dee et al., 2011
+  link: <Go to ISI>://WOS:000290450900001
+  type: Journal Article
+  ISSN: 0035-9009
+  url: <Go to ISI>://WOS:000290450900001
+  number: 656
+  DOI: 10.1002/Qj.828
+  year: 2011
+  title: The ERA-Interim reanalysis: configuration and performance of the data assimilation system
+  author: Dee, D. P. and Uppala, S. M. and Simmons, A. J. and Berrisford, P. and Poli, P. and Kobayashi, S. and Andrae, U. and Balmaseda, M. A. and Balsamo, G. and Bauer, P. and Bechtold, P. and Beljaars, A. C. M. and van de Berg, L. and Bidlot, J. and Bormann, N. and Delsol, C. and Dragani, R. and Fuentes, M. and Geer, A. J. and Haimberger, L. and Healy, S. B. and Hersbach, H. and Holm, E. V. and Isaksen, L. and Kallberg, P. and Kohler, M. and Matricardi, M. and McNally, A. P. and Monge-Sanz, B. M. and Morcrette, J. J. and Park, B. K. and Peubey, C. and de Rosnay, P. and Tavolato, C. and Thepaut, J. N. and Vitart, F.
+  volume: 137
+  journal: Quarterly Journal of the Royal Meteorological Society
+  keywords: era-40  4d-var  hydrological cycle  stratospheric circulation  observations  forecast model  4-dimensional variational assimilation  madden-julian oscillation  special sensor microwave/imager  ecmwf forecasting system  radiative-transfer model  column water-vapor  long-term trends  1d+4d-var assimilation  operational implementation  incremental approach
+  pages: 553-597
+  ref 'Dee_et_al_2011
+
+  name: Lamarque et al., 2011
+  link: <Go to ISI>://WOS:000297350200009
+  type: Journal Article
+  ISSN: 0165-0009
+  url: <Go to ISI>://WOS:000297350200009
+  number: 1-2
+  DOI: 10.1007/s10584-011-0155-0
+  year: 2011
+  title: Global and regional evolution of short-lived radiatively-active gases and aerosols in the Representative Concentration Pathways
+  author: Lamarque, J. F. and Kyle, G. P. and Meinshausen, M. and Riahi, K. and Smith, S. J. and van Vuuren, D. P. and Conley, A. J. and Vitt, F.
+  volume: 109
+  journal: Climatic Change
+  keywords: general-circulation model  carbon-dioxide climates  nitrogen deposition  terrestrial ecosystems  multimodel assessment  lower stratosphere  ozone pollution  united-states  black carbon  sea-salt
+  pages: 191-212
+  ref 'Lamarque_et_al_2011
+
+  name: Forster et al., 2007
+  type: Book Section
+  address: Cambridge, United Kingdom and New York, NY, USA
+  publisher: Cambridge University Press
+  year: 2007
+  booktitle: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+  title: Changes in Atmospheric Constituents and in Radiative Forcing
+  author: Forster, P  and Ramaswamy, V. and Artaxo, P and Berntsen, T and Betts, R.  and Fahey, D. W.  and Haywood, J. and Lean, J.  and Lowe, D. C. and Myhre, G and Nganga, J. and Prinn, R. and Raga, G. and Schultz, M.  and Van Dorland, R.
+  pages: pp. 131-234
+  ref 'Forster_et_al_2007

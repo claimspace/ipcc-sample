@@ -1,0 +1,12 @@
+
+name: Regional Climate Change
+title: Chapter 14: Climate Phenomena and their Relevance for Future Regional Climate Change
+lead: This chapter assesses the scientific literature on projected changes in major climate phenomena and more specifically their relevance for future change in regional climates, contingent on global mean temperatures continue to rise.
+space Ch14
+
+  let Welcome
+    | Regional climates are the complex outcome of local physical processes and the non-local responses to large-scale phenomena such as the El Niño-Southern Oscillation (ENSO) and other dominant modes of climate variability. The dynamics of regional climates are determined by local weather systems that control the net transport of heat, moisture and momentum into a region. Regional climate is interpreted in the widest sense to mean the whole joint probability distribution of climate variables for a region including the time mean state, the variance and co-variance and the extremes.
+    |
+    | This chapter assesses the physical basis of future regional climate change in the context of changes in the following types of phenomena: monsoons and tropical convergence zones, large-scale modes of climate variability and tropical and extratropical cyclones. Assessment of future changes in these phenomena is based on climate model projections (e.g., the Coupled Model Intercomparison Project Phase 3 (CMIP3) and CMIP5 multi-model ensembles described in Chapter 12) and an understanding of how well such models represent the key processes in these phenomena. More generic processes relevant to regional climate change, such as thermodynamic processes and land– atmosphere feedback processes, are assessed in Chapter 12. Local processes such as snow–albedo feedback, moisture feedbacks due to local vegetation, effects of steep complex terrain etc. can be important for changes but are in general beyond the scope of this chapter. The main focus here is on large-scale atmospheric phenomena rather than more local feedback processes or impacts such as floods and droughts.
+
+  insert Welcome

@@ -1,0 +1,9 @@
+
+name: Climate Models
+title: Chapter 9: Evaluation of Climate Models
+lead: The chapter evaluates the models whose results will be used in the detection and attribution of changes to the climate system.
+space Ch09
+  let Welcome
+    | Climate models are the primary tools available for investigating the response of the climate system to various forcings, for making climate predictions on seasonal to decadal time scales and for making projections of future climate over the coming century and beyond. It is crucial therefore to evaluate the performance of these models, both individually and collectively. The focus of this chapter is primarily on the models whose results will be used in the detection and attribution Chapter 10 and the chapters that present and assess projections (Chapters 11 to 14; Annex I), and so this is necessarily an incomplete evaluation. In particular, this chapter draws heavily on model results collected as part of the Coupled Model Intercomparison Projects (CMIP3 and CMIP5) (Meehl et al., 2007; Taylor et al., 2012b), as these constitute a set of coordinated and thus consistent and increasingly well-documented climate model experiments. Other intercomparison efforts, such as those dealing with Regional Climate Models (RCMs) and those dealing with Earth System Models of Intermediate Complexity (EMICs) are also used. It should be noted that the CMIP3 model archive has been extensively evaluated, and much of that evaluation has taken place subsequent to the AR4. By comparison, the CMIP5 models are only now being evaluated and so there is less published literature available. Where possible we show results from both CMIP3 and CMIP5 models so as to illustrate changes in model performance over time; however, where only CMIP3 results are available, they still constitute a useful evaluation of model performance in that for many quantities, the CMIP3 and CMIP5 model performances are broadly similar.
+
+  insert Welcome

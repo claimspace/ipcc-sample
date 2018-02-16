@@ -1,0 +1,9 @@
+
+name: Clouds & Aerosols
+title: Chapter 7: Clouds and Aerosols
+lead: This chapter focuses on process understanding and considers observations, theory and models to assess how clouds and aerosols contribute and respond to climate change.
+space Ch07
+  let Welcome
+    | The atmosphere is composed mostly of gases, but also contains liquid and solid matter in the form of particles. It is usual to distinguish these particles according to their size, chemical composition, water content and fall velocity into atmospheric aerosol particles, cloud particles and falling hydrometeors. Despite their small mass or volume fraction, particles in the atmosphere strongly influence the transfer of radiant energy and the spatial distribution of latent heating through the atmosphere, thereby in uencing the weather and climate.
+
+  insert Welcome

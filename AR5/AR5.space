@@ -1,0 +1,53 @@
+
+public: ar5
+name: AR5: Physical Science Basis
+title: Climate Change 2013: The Physical Science Basis
+lead: The Intergovernmental Panel on Climate Change's Fifth Assessment Report, reformatted for Claimspace.
+space AR5
+
+  path: /ipcc/ar5/cover-small.jpg
+  width: 200
+  height: 271
+  name: Figure 1.1
+  image 'Cover
+
+  let Welcome
+    |“Climate Change 2013: The Physical Science Basis” presents clear and robust conclusions in a global assessment of climate change science— not the least of which is that the science now shows with 95 percent certainty that human activity is the dominant cause of observed warming since the mid-20th century. The report confirms that warming in the climate system is unequivocal, with many of the observed changes unprecedented over decades to millennia: warming of the atmosphere and the ocean, diminishing snow and ice, rising sea levels and increasing concentrations of greenhouse gases. Each of the last three decades has been successively warmer at the Earth’s surface than any preceding decade since 1850.
+    |
+    |{image-right:'Cover}
+    |
+    | These and other findings confirm and enhance our scientific understanding of the climate system and the role of greenhouse gas emissions; as such, the report demands the urgent attention of both policy-makers and the general public.
+    |
+    | The Working Group I contribution to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) provides a comprehensive assessment of the physical science basis of climate change. It builds upon the Working Group I contribution to the IPCC’s {AR4 Fourth Assessment Report in 2007} and incorporates subsequent new findings from the Special Report on Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation, as well as from research published in the extensive scientific and technical literature. The assessment considers new evidence of past, present and projected future climate change based on many independent scientific analyses from observations of the climate system, paleoclimate archives, theoretical studies of climate processes and simulations using climate models.
+
+  insert Welcome
+
+  include Ch01
+
+  name: Observations and Paleoclimate Information
+  include
+    - Ch02
+    - Ch03
+    - Ch04
+    - Ch05
+
+  name: Process Understanding
+  include
+    - Ch06
+    - Ch07
+
+  name: From Forcing to Attribution of Climate Change
+  include
+    - Ch08
+    - Ch09
+    - Ch10
+
+  name: Future Climate Change, Predictability and Irreversibility
+  include
+    - Ch11
+    - Ch12
+
+  name: Integration
+  include
+    - Ch13
+    - Ch14

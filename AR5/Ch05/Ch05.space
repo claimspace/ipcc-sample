@@ -1,0 +1,14 @@
+
+name: Paleoclimate Archives
+title: Chapter 5: Information from Paleoclimate Archives
+lead: This chapter assesses the information on past climate obtained prior to the instrumental period. The information is based on data from various paleoclimatic archives and on modelling of past climate.
+space Ch05
+  let Welcome
+
+    |This chapter assesses the understanding of past climate variations, using paleoclimate reconstructions as well as climate models of varying complexity, while the model evaluation based on paleoclimate information is covered in Chapter 9. Additional paleoclimate perspectives are included in Chapters 6, 10 and 13 (see Table 5.1).
+    |
+    | The content of this chapter is largely restricted to topics for which substantial new information has emerged since AR4. Examples include proxy-based estimates of the atmospheric carbon dioxide (CO2) content during the past ~65 million years (Section 5.2.2) and magnitude of sea level variations during interglacial periods (Section 5.6.2). Information from glacial climates has been included only if the underlying processes are of direct relevance for an assessment of projected climate change. The impacts of past climate changes on biological systems and past civilizations are not covered, as these topics are beyond the scope of Working Group I.
+    |
+    | The chapter proceeds from evidence for pre-industrial changes in atmospheric composition and external solar and volcanic forcings (Section 5.2, FAQ 5.1), to global and hemispheric responses (Section 5.3). After evaluating the evidence for past changes in climate modes of variability (Section 5.4), a specific focus is given to regional changes in temperature, cryosphere and hydroclimate during the current interglacial period (Section 5.5). Sections on sea level change (Section 5.6, FAQ 5.2), abrupt climate changes (Section 5.7) and illustrations of irreversibility and recovery time scales (Section 5.8) conclude the chapter. While polar ampli cation of temperature changes is addressed in Box 5.1, the relationships between ice sheets, sea level, atmospheric CO2 concentration and climate are addressed in several sections (Box 5.2, Sections 5.3.1, 5.5, and 5.8.1).
+
+  insert Welcome

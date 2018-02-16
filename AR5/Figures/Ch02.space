@@ -1,0 +1,342 @@
+
+space Ch02
+
+  path: /ipcc/ar5/ch02/Fig2-01.jpg
+  width: 1035
+  height: 754
+  name: Figure 2.1
+  caption: (a) Globally averaged CO2 dry-air mole fractions from Scripps Institution of Oceanography (SIO) at monthly time resolution based on measurements from Mauna Loa, Hawaii and South Pole (red) and NOAA/ESRL/GMD at quasi-weekly time resolution (blue). SIO values are deseasonalized. (b) Instantaneous growth rates for globally aver- aged atmospheric CO2 using the same colour code as in (a). Growth rates are calculated as the time derivative of the deseasonalized global averages (Dlugokencky et al., 1994).
+  image 'Fig1
+
+  path: /ipcc/ar5/ch02/Fig2-02.jpg
+  width: 1046
+  height: 768
+  name: Figure 2.2
+  caption: (a) Globally averaged CH4 dry-air mole fractions from UCI (green; four values per year, except prior to 1984, when they are of lower and varying frequency), AGAGE (red; monthly), and NOAA/ESRL/GMD (blue; quasi-weekly). (b) Instantaneous growth rate for globally averaged atmospheric CH4 using the same colour code as in (a). Growth rates were calculated as in Figure 2.1.
+  image 'Fig2
+
+  path: /ipcc/ar5/ch02/Fig2-03.jpg
+  width: 1045
+  height: 755
+  name: Figure 2.3
+  caption: (a) Globally averaged N2O dry-air mole fractions from AGAGE (red) and NOAA/ESRL/GMD (blue) at monthly resolution. (b) Instantaneous growth rates for glob- ally averaged atmospheric N2O. Growth rates were calculated as in Figure 2.1.
+  image 'Fig3
+
+  path: /ipcc/ar5/ch02/Fig2-04.jpg
+  width: 1021
+  height: 1407
+  name: Figure 2.4
+  caption: Globally averaged dry-air mole fractions at the Earth’s surface of the major halogen-containing well-mixed GHG. These are derived mainly using monthly mean measurements from the AGAGE and NOAA/ESRL/GMD networks. For clarity, only the most abundant chemicals are shown in different compound classes and results from different networks have been combined when both are available.
+  image 'Fig4
+
+  path: /ipcc/ar5/ch02/Fig2-05.jpg
+  width: 2058
+  height: 1208
+  name: Figure 2.5
+  caption: Water vapour anomalies in the lower stratosphere (~16 to 19 km) from satellite sensors and in situ measurements normalized to 2000–2011. (a) Monthly mean water vapour anomalies at 83 hPa for 60°S to 60°N (blue) determined from HALOE and MLS satellite sensors. (b) Approximately monthly balloon-borne measurements of stratospheric water vapour from Boulder, Colorado at 40°N (green dots; green curve is 15-point running mean) averaged over 16 to 18 km and monthly means as in (a), but averaged over 30°N to 50°N (black)
+  image 'Fig5
+
+  path: /ipcc/ar5/ch02/Fig2-06.jpg
+  width: 1040
+  height: 2702
+  name: Figure 2.6
+  caption: Zonally averaged, annual mean total column ozone in Dobson Units (DU; 1 DU = 2.69 × 1016 O3/cm2) from ground-based measurements combining Brewer, Dobson, and  lter spectrometer data WOUDC (red), GOME/SCIAMACHY/GOME-2 GSG (green) and merged satellite BUV/TOMS/SBUV/OMI MOD V8 (blue) for (a) Non-Polar Global (60°S to 60°N), (b) NH (30°N to 60°N), (c) Tropics (25°S to 25°N), (d) SH (30°S to 60°S) and (e) March NH Polar (60°N to 90°N) and October SH Polar. (Adapted from Weber et al., 2012; see also for abbreviations.)
+  image 'Fig6
+
+  path: /ipcc/ar5/ch02/Fig2-07.jpg
+  width: 1033
+  height: 2500
+  name: Figure 2.7
+  caption: Annual average surface ozone concentrations from regionally representa- tive ozone monitoring sites around the world. (a) Europe. (b) Asia and North America. (c) Remote sites in the Northern and Southern Hemispheres. The station name in the legend is followed by its latitude and elevation. Time series include data from all times of day and trend lines are linear regressions following the method of Parrish et al. (2012). Trend lines are  t through the full time series at each location, except for Jungfraujoch, Zugspitze, Arosa and Hohenpeissenberg where the linear trends end in 2000 (indicated by the dashed vertical line in (a)). Twelve of these 19 sites have signi cant positive ozone trends (i.e., a trend of zero lies outside the 95% con dence interval); the seven sites with non-signi cant trends are: Japanese MBL (marine boundary layer), Summit (Greenland), Barrow (Alaska), Storhofdi (Iceland), Samoa (tropical South Paci c Ocean), Cape Point (South Africa) and South Pole (Antarctica).
+  image 'Fig7
+
+  path: /ipcc/ar5/ch02/Fig2-08.jpg
+  width: 1039
+  height: 632
+  name: Figure 2.8
+  caption: Relative changes in tropospheric NO2 column amounts (logarithmic scale) in seven selected world regions dominated by high NOx emissions. Values are normal- ized for 1996 and derived from the GOME (Global Ozone Monitoring Experiment) instrument from 1996 to 2002 and SCIAMACHY (Scanning Imaging Spectrometer for Atmospheric Cartography) from 2003 to 2011 (Hilboll et al., 2013). The regions are indicated in the map inset.
+  image 'Fig8
+
+  path: /ipcc/ar5/ch02/Fig2-09.jpg
+  width: 2126
+  height: 2058
+  name: Figure 2.9
+  caption: (a) Annual average aerosol optical depth (AOD) trends at 0.55 μm for 2000–2009, based on de-seasonalized, conservatively cloud-screened MODIS aerosol data over oceans (Zhang and Reid, 2010). Negative AOD trends off Mexico are due to enhanced volcanic activity at the beginning of the record. Most non-zero trends are signi cant (i.e., a trend of zero lies outside the 95% con dence interval). (b) Seasonal average AOD trends at 0.55 μm for 1998–2010 using SeaWiFS data (Hsu et al., 2012). White areas indicate incomplete or missing data. Black dots indicate signi cant trends (i.e., a trend of zero lies outside the 95% con dence interval).
+  image 'Fig9
+
+  path: /ipcc/ar5/ch02/Fig2-10.jpg
+  width: 2081
+  height: 1650
+  name: Figure 2.10
+  caption: Trends in particulate matter (PM10 and PM2.5 with aerodynamic diameters <10 and <2.5 μm, respectively) and sulphate in Europe and USA for two overlapping periods 2000–2009 (a, b, c) and 1990–2009 (d, e). The trends are based on measurements from the EMEP (Torseth et al., 2012) and IMPROVE (Hand et al., 2011) networks in Europe and USA, respectively. Sites with signi cant trends (i.e., a trend of zero lies outside the 95% con dence interval) are shown in colour; black dots indicate sites with non- signi cant trends.
+  image 'Fig10
+
+  path: /ipcc/ar5/ch02/Fig2-11.jpg
+  width: 2408
+  height: 1582
+  name: Figure 2.11
+  caption: Global mean energy budget under present-day climate conditions. Numbers state magnitudes of the individual energy  uxes in W m–2, adjusted within their uncertainty ranges to close the energy budgets. Numbers in parentheses attached to the energy  uxes cover the range of values in line with observational constraints. (Adapted from Wild et al., 2013.)
+  image 'Fig11
+
+  path: /ipcc/ar5/ch02/Fig2-12.jpg
+  width: 3063
+  height: 1879
+  name: Figure 2.12
+  caption: Comparison of net top of the atmosphere (TOA)  ux and upper ocean heating rates (OHRs). Global annual average (July to June) net TOA  ux from CERES observa- tions (based on the EBAF-TOA_Ed2.6r product) (black line) and 0–700 (blue) and 0–1800 m (red) OHR from the Paci c Marine Environmental Laboratory/Jet Propulsion Laboratory/ Joint Institute for Marine and Atmospheric Research (PMEL/JPL/JIMAR), 0–700 m OHR from the National Oceanic Data Center (NODC) (green; Levitus et al., 2009), and 0–700 m OHR from the Hadley Center (brown; Palmer et al., 2007). The length of the coloured bars corresponds to the magnitude of OHR. Thin vertical lines are error bars, corresponding to the magnitude of uncertainties. Uncertainties for all annual OHR are given at one standard error derived from ocean heat content anomaly uncertainties (Lyman et al., 2010). CERES net TOA  ux uncertainties are given at the 90% con dence level determined following Loeb et al. (2012b). (Adapted from Loeb et al., 2012b.)
+  image 'Fig12
+
+  path: /ipcc/ar5/ch02/Fig2-13.jpg
+  width: 1033
+  height: 516
+  name: Figure 2.13
+  caption: Annual mean Surface Solar Radiation (SSR) as observed at Stockholm, Sweden, from 1923 to 2010. Stockholm has the longest SSR record available world- wide. (Updated from Wild (2009) and Ohmura (2009).)
+  image 'Fig13
+
+  path: /ipcc/ar5/ch02/Fig2-14.jpg
+  width: 1010
+  height: 600
+  name: Figure 2.14
+  caption: Global annual average land-surface air temperature (LSAT) anomalies relative to a 1961–1990 climatology from the latest versions of four different data sets (Berkeley, CRUTEM, GHCN and GISS).
+  image 'Fig14
+
+  path: /ipcc/ar5/ch02/Fig2-15.jpg
+  width: 1039
+  height: 720
+  name: Figure 2.15
+  caption: Temporal changes in the prevalence of different measurement methods in the International Comprehensive Ocean-Atmosphere Data Set (ICOADS). (a) Fraction- al contributions of observations made by different measurement methods: bucket obser- vations (blue), engine room intake (ERI) and hull contact sensor observations (green), moored and drifting buoys (red), and unknown (yellow). (b) Global annual average sea surface temperature (SST) anomalies based on different kinds of data: ERI and hull contact sensor (green), bucket (blue), buoy (red), and all (black). Averages are computed over all 5° × 5° grid boxes where both ERI/hull and bucket measurements, but not necessarily buoy data, were available. (Adapted from Kennedy et al., 2011a.)
+  image 'Fig15
+
+  path: /ipcc/ar5/ch02/Fig2-16.jpg
+  width: 1026
+  height: 619
+  name: Figure 2.16
+  caption: Global annual average sea surface temperature (SST) and Night Marine Air Temperature (NMAT) relative to a 1961–1990 climatology from gridded data sets of SST observations (HadSST2 and its successor HadSST3), the raw SST measurement archive (ICOADS, v2.5) and night marine air temperatures data set HadNMAT2 (Kent et al., 2013). HadSST2 and HadSST3 both are based on SST observations from versions of the ICOADS data set, but differ in degree of measurement bias correction.
+  image 'Fig16
+
+  path: /ipcc/ar5/ch02/Fig2-17.jpg
+  width: 1032
+  height: 689
+  name: Figure 2.17
+  caption: Global monthly mean sea surface temperature (SST) anomalies relative to a 1961–1990 climatology from satellites (ATSRs) and in situ records (HadSST3). Black lines: the 100-member HadSST3 ensemble. Red lines: ATSR-based nighttime subsurface temperature at 0.2 m depth (SST0.2m) estimates from the ATSR Reprocessing for Climate (ARC) project. Retrievals based on three spectral channels (D3, solid line) are more accurate than retrievals based on only two (D2, dotted line). Contributions of the three different ATSR missions to the curve shown are indicated at the bottom. The in situ and satellite records were co-located within 5° × 5° monthly grid boxes: only those where both data sets had data for the same month were used in the comparison. (Adapted from Merchant et al. 2012.)
+  image 'Fig17
+
+  path: /ipcc/ar5/ch02/Fig2-18.jpg
+  width: 1022
+  height: 604
+  name: Figure 2.18
+  caption: Global annual average sea surface temperature (SST) and Night Marine Air Temperature (NMAT) relative to a 1961–1990 climatology from state of the art data sets. Spatially interpolated products are shown by solid lines; non-interpolated products by dashed lines.
+  image 'Fig18
+
+  path: /ipcc/ar5/ch02/Fig2-19.jpg
+  width: 1071
+  height: 1279
+  name: Figure 2.19
+  caption: Decadal global mean surface temperature (GMST) anomalies (white vertical lines in grey blocks) and their uncertainties (90% con dence intervals as grey blocks) based upon the land-surface air temperature (LSAT) and sea surface tempera- ture (SST) combined HadCRUT4 (v4.1.1.0) ensemble (Morice et al., 2012). Anomalies are relative to a 1961–1990 climatology. 1850s indicates the period 1850-1859, and so on. NCDC MLOST and GISS data set best-estimates are also shown.
+  image 'Fig19
+
+  path: /ipcc/ar5/ch02/Fig2-20.jpg
+  width: 1030
+  height: 608
+  name: Figure 2.20
+  caption: Annual global mean surface temperature (GMST) anomalies relative to a 1961–1990 climatology from the latest version of the three combined land-surface air temperature (LSAT) and sea surface temperature (SST) data sets (HadCRUT4, GISS and NCDC MLOST). Published data set uncertainties are not included for reasons discussed in Box 2.1.
+  image 'Fig20
+
+  path: /ipcc/ar5/ch02/Fig2-21.jpg
+  width: 1056
+  height: 1931
+  name: Figure 2.21
+  caption: Trends in surface temperature from the three data sets of Figure 2.20 for 1901–2012. White areas indicate incomplete or missing data. Trends have been calculated only for those grid boxes with greater than 70% complete records and more than 20% data availability in  rst and last decile of the period. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval). Differences in coverage primarily re ect the degree of interpolation to account for data void regions undertaken by the data set providers ranging from none beyond grid box averaging (HadCRUT4) to substantial (GISS).
+  image 'Fig21
+
+  path: /ipcc/ar5/ch02/Fig2-22.jpg
+  width: 1016
+  height: 1761
+  name: Figure 2.22
+  caption: Trends in surface temperature from NCDC MLOST for three non- consectutive shorter periods (1911–1940; 1951–1980; 1981–2012). White areas indicate incomplete or missing data. Trends and signi cance have been calculated as in Figure 2.21.
+  image 'Fig22
+
+  path: /ipcc/ar5/ch02/Fig2-23.jpg
+  width: 1030
+  height: 638
+  name: Figure 2.23
+  caption: Vertical weighting functions for those satellite temperature retrievals discussed in this chapter (modi ed from Seidel et al. (2011)). The dashed line indicates the typical maximum altitude achieved in the historical radiosonde record. The three SSU channels are denoted by the designated names 25, 26 and 27. LS (Lower Stratosphere) and MT (Mid Troposphere) are two direct MSU measures and LT (Lower Troposphere) and *G (Global Troposphere) are derived quantities from one or more of these that attempt to remove the stratospheric component from MT.
+  image 'Fig23
+
+  path: /ipcc/ar5/ch02/Fig2-24.jpg
+  width: 2106
+  height: 2369
+  name: Figure 2.24
+  caption: Global annual average lower stratospheric (top) and lower tropospheric (bottom) temperature anomalies relative to a 1981–2010 climatology from different data sets. STAR does not produce a lower tropospheric temperature product. Note that the y-axis resolution differs between the two panels.
+  image 'Fig24
+
+  path: /ipcc/ar5/ch02/Fig2-25.jpg
+  width: 2112
+  height: 1412
+  name: Figure 2.25
+  caption: Trends in MSU upper air temperature over 1979–2012 from UAH (left-hand panels) and RSS (right-hand panels) and for LS (top row) and LT (bottom row). Data are temporally complete within the sampled domains for each data set. White areas indicate incomplete or missing data. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval).
+  image 'Fig25
+
+  path: /ipcc/ar5/ch02/Fig2-26.jpg
+  width: 2079
+  height: 1489
+  name: Figure 2.26
+  caption: Trends in upper air temperature for all available radiosonde data products that contain records for 1958–2012 for the globe (top) and tropics (20°N to 20°S) and extra-tropics (bottom). The bottom panel trace in each case is for trends on distinct pressure levels. Note that the pressure axis is not linear. The top panel points show MSU layer equivalent measure trends. MSU layer equivalents have been processed using the method of Thorne et al. (2005). No attempts have been made to sub-sample to a common data mask.
+  image 'Fig26
+
+  path: /ipcc/ar5/ch02/Fig2-27.jpg
+  width: 2076
+  height: 1494
+  name: Figure 2.27
+  caption: As Figure 2.26 except for the satellite era 1979–2012 period and including MSU products (RSS, STAR and UAH).
+  image 'Fig27
+
+  path: /ipcc/ar5/ch02/Fig2-28.jpg
+  width: 1025
+  height: 1490
+  name: Figure 2.28
+  caption: Annual precipitation anomalies averaged over land areas for four latitudinal bands and the globe from five global precipitation data sets relative to a 1981–2000 climatology.
+  image 'Fig28
+
+  path: /ipcc/ar5/ch02/Fig2-29.jpg
+  width: 1990
+  height: 1688
+  name: Figure 2.29
+  caption: Trends in annual precipitation over land from the CRU, GHCN and GPCC data sets for 1901–2010 (left-hand panels) and 1951–2010 (right-hand panels). Trends have been calculated only for those grid boxes with greater than 70% complete records and more than 20% data availability in  rst and last decile of the period. White areas indicate incomplete or missing data. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval).
+  image 'Fig29
+
+  path: /ipcc/ar5/ch02/Fig2-30.jpg
+  width: 1040
+  height: 1352
+  name: Figure 2.30
+  caption: (a) Trends in surface speci c humidity from HadISDH and NOCS over 1973–2012. Trends have been calculated only for those grid boxes with greater than 70% complete records and more than 20% data availability in  rst and last decile of the period. White areas indicate incomplete or missing data. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval). (b) Global annual average anomalies in land surface spe- ci c humidity from Dai (2006; red), HadCRUH (Willett et al., 2013; orange), HadISDH (Willett et al., 2013; black), and ERA-Interim (Simmons et al., 2010; blue). Anomalies are relative to the 1979–2003 climatology.
+  image 'Fig30
+
+  path: /ipcc/ar5/ch02/Fig2-31.jpg
+  width: 1039
+  height: 1358
+  name: Figure 2.31
+  caption: (a) Trends in column integrated water vapour over ocean surfaces from Special Sensor Microwave Imager (Wentz et al., 2007) for the period 1988–2010. Trends have been calculated only for those grid boxes with greater than 70% complete records and more than 20% data availability in  rst and last decile of the period. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval). (b) Global annual average anomalies in column integrated water vapour averaged over ocean surfaces. Anomalies are relative to the 1988–2007 average.
+  image 'Fig31
+
+  path: /ipcc/ar5/ch02/Fig2-32.jpg
+  width: 2092
+  height: 2750
+  name: Figure 2.32
+  caption: Trends in annual frequency of extreme temperatures over the period 1951–2010, for (a) cold nights (TN10p), (b) cold days (TX10p), (c) warm nights (TN90p) and (d) warm days (TX90p) (Box 2.4, Table 1). Trends were calculated only for grid boxes that had at least 40 years of data during this period and where data ended no earlier than 2003. Grey areas indicate incomplete or missing data. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval). The data source for trend maps is HadEX2 (Donat et al., 2013c) updated to include the latest version of the European Climate Assessment data set (Klok and Tank, 2009). Beside each map are the near-global time series of annual anomalies of these indices with respect to 1961–1990 for three global indices data sets: HadEX2 (red); HadGHCND (Caesar et al., 2006; blue) and updated to 2010 and GHCNDEX (Donat et al., 2013a; green). Global averages are only calculated using grid boxes where all three data sets have at least 90% of data over the time period. Trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval) for all the global indices shown.
+  image 'Fig32
+
+  path: /ipcc/ar5/ch02/Fig2-33.jpg
+  width: 2112
+  height: 1573
+  name: Figure 2.33
+  caption: Trends in (a) annual amount of precipitation from days >95th percentile (R95p), (b) daily precipitation intensity (SDII) and (c) frequency of the annual maximum number of consecutive dry days (CDD) (Box 2.4, Table 1). Trends are shown as relative values for better comparison across different climatic regions. Trends were calculated only for grid boxes that had at least 40 years of data during this period and where data ended no earlier than 2003. Grey areas indicate incomplete or missing data. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval). The data source for trend maps is HadEX2 (Donat et al., 2013a) updated to include the latest version of the European Climate Assessment data set (Klok and Tank, 2009). (d) Trends (normalized units) in hydroclimatic intensity (HY-INT: a multipli- cative measure of length of dry spell and precipitation intensity) over the period 1976–2000 (adapted from Giorgi et al., 2011). An increase (decrease) in HY-INT re ects an increase (decrease) in the length of drought and /or extreme precipitation events.
+  image 'Fig33
+
+  path: /ipcc/ar5/ch02/Fig2-34.jpg
+  width: 1016
+  height: 1247
+  name: Figure 2.34
+  caption: Normalized 5-year running means of the number of (a) adjusted land falling eastern Australian tropical cyclones (adapted from Callaghan and Power (2011) and updated to include 2010//2011 season) and (b) unadjusted land falling U.S. hur- ricanes (adapted from Vecchi and Knutson (2011) and (c) land-falling typhoons in China (adapted from CMA, 2011). Vertical axis ticks represent one standard deviation, with all series normalized to unit standard deviation after a 5-year running mean was applied.
+  image 'Fig34
+
+  path: /ipcc/ar5/ch02/Fig2-35.jpg
+  width: 1650
+  height: 2200
+  name: Figure 2.35
+  caption: 99th percentiles of geostrophic wind speeds for winter (DJF). Triangles show regions where geostrophic wind speeds have been calculated from in situ surface pres- sure observations. Within each pressure triangle, Gaussian low-pass  ltered curves and estimated linear trends of the 99th percentile of these geostrophic wind speeds for winter are shown. The ticks of the time (horizontal) axis range from 1875 to 2005, with an interval of 10 years. Disconnections in lines show periods of missing data. Red (blue) trend lines indicate upward (downward) signi cant trends (i.e., a trend of zero lies outside the 95% con dence interval). (From Wang et al., 2011.)
+  image 'Fig35
+
+  path: /ipcc/ar5/ch02/Fig2-36.jpg
+  width: 2083
+  height: 1240
+  name: Figure 2.36
+  caption: Trends in (left) sea level pressure (SLP), (middle) 500 hPa geopotential height (GPH) and (right) 100 hPa GPH in (top) November to April 1979/1980 to 2011/2012 and (bottom) May to October 1979 to 2011 from ERA-Interim data. Trends are shown only if signi cant (i.e., a trend of zero lies outside the 90% con dence interval).
+  image 'Fig36
+
+  path: /ipcc/ar5/ch02/Fig2-37.jpg
+  width: 2075
+  height: 1027
+  name: Figure 2.37
+  caption: Decadal averages of sea level pressure (SLP) from the 20th Century Reanalysis (20CR) for (left) November of previous year to April and (right) May to October shown by two selected contours: 1004 hPa (dashed lines) and 1020.5 hPa (solid lines). Topography above 2 km above mean sea level in 20CR is shaded in dark grey.
+  image 'Fig37
+
+  path: /ipcc/ar5/ch02/Fig2-38.jpg
+  width: 2090
+  height: 1623
+  name: Figure 2.38
+  caption: Trends in surface wind speed for 1988–2010. Shown in the top row are data sets based on the satellite wind observations: (a) Cross-Calibrated Multi-Platform wind product (CCMP; Atlas et al., 2011); (b) wind speed from the Objectively Analyzed Air-Sea Heat Fluxes data set, release 3 (OAFlux); (c) Blended Sea Winds (BSW; Zhang et al., 2006); in the middle row are data sets based on surface observations: (d) ERA-Interim; (e) NCEP-NCAR, v.1 (NNR); (f) 20th Century Reanalysis (20CR, Compo et al., 2011), and in the bottom row are surface wind speeds from atmospheric reanalyses: (g) wind speed from the Surface Flux Data set, v.2, from NOC, Southampton, UK (Berry and Kent, 2009); (h) Wave- and Anemometer-based Sea Surface Wind (WASWind; Tokinaga and Xie, 2011a)); and (i) Surface Winds on the Land (Vautard et al., 2010). Wind speeds correspond to 10 m heights in all products. Land station winds (panel f) are also for 10 m (but anemometer height is not always reported) except for the Australian data where they correspond to 2 m height. To improve readability of plots, all data sets (including land station data) were averaged to the 4° × 4° uniform longitude-latitude grid. Trends were computed for the annually averaged timeseries of 4° × 4° cells. For all data sets except land station data, an annual mean was considered available only if monthly means for no less than eight months were available in that calendar year. Trend values were computed only if no less than 17 years had values and at least 1 year was available among the  rst and last 3 years of the period. White areas indicate incomplete or missing data. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval).
+  image 'Fig38
+
+  path: /ipcc/ar5/ch02/Fig2-39.jpg
+  width: 2167
+  height: 1917
+  name: Figure 2.39
+  caption: (a) Indices of the strength of the northern Hadley circulation in December to March (Ψmax is the maximum of the meridional mass stream function at 500 hPa between the equator and 40°N). (b) Indices of the strength of the Paci c Walker circulation in September to January (Δω is the difference in the vertical velocity between [10°S to 10°N, 180°W to 100°W] and [10°S to 10°N, 100°E to 150°E] as in Oort and Yienger (1996), Δc is the difference in cloud cover between [6°N to 12°S, 165°E to 149°W] and [18°N to 6°N, 165°E to 149°W] as in Deser et al. (2010a), vE is the effective wind index from SSM/I satellite data, updated from Sohn and Park (2010), u is the zonal wind at 10 m averaged in the region [10°S to 10°N, 160°E to 160°W], ΔSLP is the SLP difference between [5°S to 5°N, 160°W to 80°W] and [5°S to 5°N, 80°E to 160°E] as in Vecchi et al. (2006)). Reanalysis data sets include 20CR, NCEP/NCAR, ERA-Interim, JRA-25, MERRA, and CFSR, except for the zonal wind at 10 m (20CR, NCEP/NCAR, ERA-Interim), where available until January 2013. ERA-40 and NCEP2 are not shown as they are outliers with respect to the strength trend of the northern Hadley circulation (Mitas and Clement, 2005; Song and Zhang, 2007; Hu et al., 2011; Stachnik and Schumacher, 2011). Observation data sets include HadSLP2 (Section 2.7.1), ICOADS (Section 2.7.2; only 1957–2009 data are shown) and WASWIND (Section 2.7.2), reconstructions are from Brönnimann et al. (2009). Where more than one time series was available, anomalies from the 1980/1981 to 2009/2010 mean values of each series are shown.
+  image 'Fig39
+
+  path: /ipcc/ar5/ch02/Fig2-40.jpg
+  width: 2167
+  height: 1100
+  name: Figure 2.40
+  caption: Annual average tropical belt width (left) and tropical edge latitudes in each hemisphere (right). The tropopause (red), Hadley cell (blue), and jet stream (green) metrics are based on reanalyses (NCEP/NCAR, ERA-40, JRA25, ERA-Interim, CFSR, and MERRA, see Box 2.3); outgoing longwave radiation (orange) and ozone (black) metrics are based on satellite measurements. The ozone metric refers to equivalent latitude (Hudson et al., 2006; Hudson, 2012). Adapted and updated from Seidel et al. (2008) using data presented in Davis and Rosenlof (2011) and Hudson (2012). Where multiple data sets are available for a particular metric, all are shown as light solid lines, with shading showing their range and a heavy solid line showing their median.
+  image 'Fig40
+
+  # FigBox
+
+  path: /ipcc/ar5/ch02/FigBox2.2-1.jpg
+  width: 1039
+  height: 1155
+  name: Box 2.2, Figure 1
+  caption: (a) Global mean surface temperature (GMST) anomalies relative to a 1961–1990 climatology based on HadCRUT4 annual data. The straight black lines are least squares trends for 1901–2012, 1901–1950 and 1951–2012. (b) Same data as in (a), with smoothing spline (solid curve) and the 90% con dence interval on the smooth curve (dashed lines). Note that the (strongly overlapping) 90% con dence intervals for the least square lines in (a) are omitted for clarity. See Figure 2.20 for the other two GMST data products.
+  image 'FigBox21
+
+  path: /ipcc/ar5/ch02/FigBox2.4-1.jpg
+  width: 1028
+  height: 1836
+  name: Box 2.4, Figure 1
+  caption: Trends in the warmest day of the year using different data sets for the period 1951–2010. The data sets are (a) HadEX2 (Donat et al., 2013c) updated to include the latest version of the European Climate Assessment data set (Klok and Tank, 2009), (b) HadGHCND (Caesar et al., 2006) using data updated to 2010 (Donat et al., 2013a) and (c) Globally averaged annual warmest day anomalies for each data set. Trends were calculated only for grid boxes that had at least 40 years of data during this period and where data ended no earlier than 2003. Grey areas indicate incomplete or missing data. Black plus signs (+) indicate grid boxes where trends are signi cant (i.e., a trend of zero lies outside the 90% con dence interval). Anomalies are calculated using grid boxes only where both data sets have data and where 90% of data are available.
+  image 'FigBox41
+
+  path: /ipcc/ar5/ch02/FigBox2.5-1.jpg
+  width: 1984
+  height: 2467
+  name: Box 2.5, Figure 1
+  caption: Some indices of climate variability, as de ned in Box 2.5, Table 1, plotted in the 1870–2012 interval. Where ‘HadISST1’, ‘HadSLP2r’, or ‘NNR’ are indicated, the indices were computed from the sea surface temperature (SST) or sea level pressure (SLP) values of the former two data sets or from 500 or 850 hPa geopotential height  elds from the NNR. Data set references given in the panel titles apply to all indices shown in that panel. Where no data set is speci ed, a publicly available version of an index from the authors of a primary reference given in Box 2.5, Table 1 was used. All indices were standardized with regard to 1971–2000 period except for NIÑO3.4 (centralized for 1971–2000) and AMO indices (centralized for 1901–1970). Indices marked as “detrended” had their linear trend for 1870–2012 removed. All indices are shown as 12-month running means except when the temporal resolution is explicitly indicated (e.g., ‘DJFM’ for December-to-March averages) or smoothing level (e.g., 11-year LPF for a low-pass  lter with half-power at 11 years).
+  image 'FigBox51
+
+  path: /ipcc/ar5/ch02/FigBox2.5-1.jpg
+  width: 1984
+  height: 2683
+  name: Box 2.5, Figure 2
+  caption: Spatial patterns of climate modes listed in Box 2.5, Table 1. All patterns shown here are obtained by regression of either sea surface temperature (SST) or sea level pressure (SLP)  elds on the standardized index of the climate mode. For each climate mode one of the speci c indices shown in Box 2.5, Figure 1 was used, as identi ed in the panel subtitles. SST and SLP  elds are from HadISST1 and HadSLP2r data sets (interpolated gridded products based on data sets of historical observations). Regressions were done on monthly means for all patterns except for NAO and PNA, which were done with the DJFM means, and for PSA1 and PSA2, where seasonal means were used. Each regression was done for the longest period within the 1870-2012 interval when the index was available. For each pattern the time series was linearly de-trended over the entire regression interval. All patterns are shown by color plots, except for PSA2, which is shown by white contours over the PSA1 color plot (contour steps are 0.5 hPa, zero contour is skipped, negative values are indicated by dash).
+  image 'FigBox52
+
+  # FigFAQ
+
+  path: /ipcc/ar5/ch02/FigFAQ2.1-1.jpg
+  width: 1937
+  height: 1530
+  name: FAQ 2.1, Figure 1
+  caption: Independent analyses of many components of the climate system that would be expected to change in a warming world exhibit trends consistent with warming (arrow direction denotes the sign of the change), as shown in FAQ 2.1, Figure 2.
+  image 'FigFAQ11
+
+  path: /ipcc/ar5/ch02/FigFAQ2.1-2_errata.jpg
+  width: 1937
+  height: 1888
+  name: FAQ 2.1, Figure 2
+  caption: Multiple independent indicators of a changing global climate. Each line represents an independently derived estimate of change in the climate element. In each panel all data sets have been normalized to a common period of record. A full detailing of which source data sets go into which panel is given in the Supplementary Material 2.SM.5.
+  image 'FigFAQ12
+
+  path: /ipcc/ar5/ch02/FigFAQ2.2-1_errata.jpg
+  width: 945
+  height: 1240
+  name: FAQ 2.2, Figure 1
+  caption: Distribution of (a) daily minimum and (b) daily maxi- mum temperature anomalies relative to a 1961–1990 climatology for two peri- ods: 1951–1980 (blue) and 1981–2010 (red) using the HadGHCND data set. The shaded blue and red areas represent the coldest 10% and warmest 10% respectively of (a) nights and (b) days during the 1951–1980 period. The darker shading indicates by how much the number of the coldest days and nights has reduced (dark blue) and by how much the number of the warmest days and nights has increased (dark red) during the 1981–2010 period compared to the 1951–1980 period.
+  image 'FigFAQ21
+
+  path: /ipcc/ar5/ch02/FigFAQ2.2-2.jpg
+  width: 1937
+  height: 1517
+  name: FAQ 2.2, Figure 2
+  caption: Trends in the frequency (or intensity) of various climate extremes (arrow direction denotes the sign of the change) since the middle of the 20th century (except for North Atlantic storms where the period covered is from the 1970s).
+  image 'FigFAQ22

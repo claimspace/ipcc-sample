@@ -1,0 +1,11 @@
+
+name: Sea Level Change
+title: Chapter 13: Sea Level Change
+lead: This chapter considers changes in global mean sea level, regional sea level, sea level extremes, and waves.
+space Ch13
+  let Welcome
+    | Changes in sea level occur over a broad range of temporal and spatial scales, with the many contributing factors making it an integral measure of climate change (Milne et al., 2009; Church et al., 2010). The primary contributors to contemporary sea level change are the expansion of the ocean as it warms and the transfer of water currently stored on land to the ocean, particularly from land ice (glaciers and ice sheets) (Church et al., 2011a). Observations indicate the largest increase in the storage of heat in the climate system over recent decades has been in the oceans (Section 3.2) and thus sea level rise from ocean warming is a central part of the Earth’s response to increasing greenhouse gas (GHG) concentrations.
+    |
+    | This chapter provides a synthesis of past and contemporary sea level change at global and regional scales. Drawing on the published refereed literature, including as summarized in earlier chapters of this Assessment, we explain the reasons for contemporary change and assess confidence in and provide global and regional projections of likely sea level change for the 21st century and beyond. We discuss the primary factors that cause regional sea level to differ from the global average and how these may change in the future. In addition, we address projected changes in surface waves and the consequences of sea level and climate change for extreme sea level events.
+
+  insert Welcome

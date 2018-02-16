@@ -1,0 +1,12 @@
+
+name: Long-term Change
+title: Chapter 12: Long-term Climate Change: Projections, Commitments and Irreversibility
+lead: This chapter assesses long-term projections of climate change for the end of the 21st century and beyond, where the forced signal depends on the scenario and is typically larger than the internal variability of the climate system.
+space Ch12
+
+  let Welcome
+    | Projections of future climate change are not like weather forecasts. It is not possible to make deterministic, definitive predictions of how climate will evolve over the next century and beyond as it is with shortterm weather forecasts. It is not even possible to make projections of the frequency of occurrence of all possible outcomes in the way that it might be possible with a calibrated probabilistic medium-range weather forecast. Projections of climate change are uncertain, first because they are dependent primarily on scenarios of future anthropogenic and natural forcings that are uncertain, second because of incomplete understanding and imprecise models of the climate system and  nally because of the existence of internal climate variability. The term climate projection tacitly implies these uncertainties and dependencies. Nevertheless, as greenhouse gas (GHG) concentrations continue to rise, we expect to see future changes to the climate system that are greater than those already observed and attributed to human activities. It is possible to understand future climate change using models and to use models to characterize outcomes and uncertainties under specific assumptions about future forcing scenarios.
+    |
+    | This chapter assesses climate projections on time scales beyond those covered in Chapter 11, that is, beyond the mid-21st century. Information from a range of different modelling tools is used here; from simple energy balance models, through Earth System Models of Intermediate Complexity (EMICs) to complex dynamical climate and Earth System Models (ESMs). These tools are evaluated in Chapter 9 and, where possible, the evaluation is used in assessing the validity of the projections. This chapter also summarizes some of the information on leading-order measures of the sensitivity of the climate system from other chapters and discusses the relevance of these measures for climate projections, commitments and irreversibility.
+
+  insert Welcome
