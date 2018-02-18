@@ -8,7 +8,7 @@ space Ch02
 
   let Welcome
     |This chapter assesses the scientific literature on atmospheric and surface observations since AR4 (IPCC, 2007). The most likely changes in physical climate variables or climate forcing agents are identified based on current knowledge, following the IPCC AR5 uncertainty guidance (Mastrandrea et al., 2011).
-
+    
   insert Welcome
 
   include 21

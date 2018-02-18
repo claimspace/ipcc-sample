@@ -6,6 +6,7 @@ logo: "//static.claimspace.cloud/logo-color.ico"
 network: "claimspace.cloud"
 authorize:
   - "@jeffmagee"
+  
 links:
   - text: "IPCC"
     location: "/ipcc"
