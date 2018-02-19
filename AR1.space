@@ -1,0 +1,29 @@
+
+public: ar1
+name: AR1 (1990)
+title: Climate Change: The IPCC Scientific Assessment
+lead: The Intergovernmental Panel on Climate Change's First Assessment Report.
+space AR1
+
+  path: /ipcc/ar1.jpg
+  width: 200
+  height: 296
+  image 'Cover
+
+  let Welcome
+    |{image-right:'Cover}
+    |
+    |The purpose of this report is to provide a scientific assessment of:
+    |
+    |  1. the factors which may affect climate change during the next century, especially those which are due to human activity;
+    |  2. the responses of the atmosphere-ocean-land-ice system to those factors;
+    |  3. the current ability to model global and regional climate changes and their predictability;
+    |  4. the past climate record and presently observed climate anomalies.
+    |
+    |On the basis of this assessment, the report presents current knowledge regarding predictions of climate change (including sea-level rise and the effect on ecosystems) over the next century, the timing of changes together with an assessment of the uncertainties associated with these predictions.
+
+  insert Welcome
+  include 'FullReport
+
+  link: http://www.ipcc.ch/publications_and_data/publications_ipcc_first_assessment_1990_wg1.shtml
+  ref 'FullReport

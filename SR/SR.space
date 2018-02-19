@@ -1,0 +1,17 @@
+
+public: SR
+name: SR (1990 & 1992)
+title: Climate Change: The IPCC 1990 and 1992 Assessments
+lead: Supplemental Reports of the Intergovernmental Panel on Climate Change.
+space SR
+
+  path: /ipcc/sr1.jpg
+  width: 200
+  height: 292
+  image 'Cover
+
+  insert Welcome
+  include 'FullReport
+
+  link: http://www.ipcc.ch/publications_and_data/publications_ipcc_90_92_assessments_far.shtml
+  ref 'FullReport

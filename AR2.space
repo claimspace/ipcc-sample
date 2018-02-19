@@ -1,0 +1,23 @@
+
+public: ar2
+name: AR2 (1995)
+title: Climate Change 1995: The Science of Climate Change
+lead: The Intergovernmental Panel on Climate Change's Second Assessment Report.
+space AR2
+  path: /ipcc/ar2.jpg
+  width: 200
+  height: 267
+  image 'Cover
+
+  let Welcome
+    |This report is the most comprehensive assessment of the science of climate change since Working Group I (WGI) of the IPCC produced its first report {AR1 Climate Change: The IPCC Scientific Assessment} in 1990. It enlarges and updates information contained in that assessment and also in the interim reports produced by WGI in {SR 1992 and 1994}. The first IPCC Assessment Report of 1990 concluded that continued accumulation of anthropogenic greenhouse gases in the atmosphere would lead to climate change whose rate and magnitude were likely to have important impacts on natural and human systems. The IPCC Supplementary Report of 1992, timed to coincide with the final negotiations of the United Nations Framework Convention on Climate Change in Rio de Janeiro (June 1992), added new quantitative information on the climatic effects of aerosols but confirmed the essential conclusions of the 1990 assessment concerning our understanding of climate and the factors affecting it. The 1994 WGI report Radiative Forcing of Climate Change examined in depth the mechanisms that govern the relative importance of human and natural factors in giving rise to radiative forcing, the "driver" of climate change. The 1994 report incorporated further advances in the quantification of the climatic effects of aerosols, but it also found no reasons to alter in any fundamental way those conclusions of the 1990 report which it addressed.
+    |
+    |{image-right:'Cover}
+    |
+    |We believe the essential message of this report continues to be that the basic understanding of climate change and the human role therein, as expressed in the 1990 report, still holds: carbon dioxide remains the most important contributor to anthropogenic forcing of climate change; projections of future global mean temperature change and sea level rise confirm the potential for human activities to alter the Earth's climate to an extent unprecedented in human history; and the long time-scales governing both the accumulation of greenhouse gases in the atmosphere and the response of the climate system to those accumulations, means that many important aspects of climate change are effectively irreversible. Further, that observations suggest "a discernible human influence on global climate", one of the key findings of this report, adds an important new dimension to the discussion of the climate change issue.
+
+  insert Welcome
+  include 'FullReport
+
+  link: http://www.ipcc.ch/ipccreports/sar/wg_I/ipcc_sar_wg_I_full_report.pdf
+  ref 'FullReport

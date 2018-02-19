@@ -1,11 +1,11 @@
 
 public: ar5
-name: AR5: Physical Science Basis
+name: AR5 (2013)
 title: Climate Change 2013: The Physical Science Basis
 lead: The Intergovernmental Panel on Climate Change's Fifth Assessment Report, reformatted for Claimspace.
 space AR5
 
-  path: /ipcc/ar5/cover-small.jpg
+  path: /ipcc/ar5.jpg
   width: 200
   height: 271
   name: Figure 1.1

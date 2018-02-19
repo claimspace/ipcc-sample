@@ -10,3 +10,7 @@ name: Assessment Reports
 include
   - AR5
   - AR4
+  - AR3
+  - AR2
+  - SR
+  - AR1

@@ -1,0 +1,21 @@
+
+public: ar3
+name: AR3 (2001)
+title: Climate Change 2001: The Scientific Basis
+lead: The Intergovernmental Panel on Climate Change's Third Assessment Report.
+space AR3
+
+  path: /ipcc/ar3.jpg
+  width: 200
+  height: 260
+  image 'Cover
+
+  let Welcome
+    |{image-right:'Cover}
+    |This report is the first complete assessment of the science of climate change since Working Group I (WGI) of the IPCC produced its second report {AR2 Climate Change 1995: The Science of Climate Change} in 1996. It enlarges upon and updates the information contained in that, and previous, reports, but primarily it assesses new information and research, produced in the last five years. The report analyses the enormous body of observations of all parts of the climate system, concluding that this body of observations now gives a collective picture of a warming world. The report catalogues the increasing concentrations of atmospheric greenhouse gases and assesses the effects of these gases and atmospheric aerosols in altering the radiation balance of the Earth-atmosphere system. The report assesses the understanding of the processes that govern the climate system and by studying how well the new generation of climate models represent these processes, assesses the suitability of the models for projecting climate change into the future. A detailed study is made of human influence on climate and whether it can be identified with any more confidence than in 1996, concluding that there is new and stronger evidence that most of the observed warming observed over the last 50 years is attributable to human activities. Projections of future climate change are presented using a wide range of scenarios of future emissions of greenhouse gases and aerosols. Both temperature and sea level are projected to continue to rise throughout the 21st century for all scenarios studied. Finally, the report looks at the gaps in information and understanding that remain and how these might be addressed.
+
+  insert Welcome
+  include 'FullReport
+
+  link: http://www.ipcc.ch/ipccreports/tar/wg1/index.php?idp=0
+  ref 'FullReport
