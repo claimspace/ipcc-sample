@@ -1,5 +1,4 @@
-name: 2.1 Introduction
-lead: In this chapter, climate change is examined for the period with instrumental observations, since about 1850.
+name: 2.1 - Introduction
 
 # 2.1 Introduction
 

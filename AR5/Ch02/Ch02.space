@@ -1,353 +1,363 @@
 
 name: Atmosphere & Surface
-title: Chapter 2 - Observations: Atmosphere and Surface
+title: Chapter 2: Observations - Atmosphere and Surface
 lead: This chapter assesses the scientific literature on atmospheric and surface observations.
 space Ch02
   import Citations.Ch02._
   import Figures.Ch02._
 
-  let Welcome
-    |This chapter assesses the scientific literature on atmospheric and surface observations since AR4 (IPCC, 2007). The most likely changes in physical climate variables or climate forcing agents are identified based on current knowledge, following the IPCC AR5 uncertainty guidance (Mastrandrea et al., 2011).
-    
-  insert Welcome
+  let 221 = Temporary
 
-  include 21
+  insert text
+    |This chapter assesses the scientific literature on atmospheric and surface observations since AR4 (IPCC, 2007). The most likely changes in physical climate variables or climate forcing agents are identified based on current knowledge, following the IPCC AR5 uncertainty guidance ({'Mastrandrea_et_al_2011}).
 
-  name: 2.2 - Changes in Atmospheric Composition
+  include ExecutiveSummary
+
   include
-    - 221
-    - 222
-    - 223
-    - Box21
-    - Box22
-
-  name: 2.3 - Changes in Radiation Budgets
-  include
-    - 230
-    - 231
-    - 232
-    - 233
-    - Box23
-
-  name: 2.4 - Changes in Temperature
-  include
-    - 241
-    - 242
-    - 243
-    - 244
-
-  name: 2.5 - Changes in Hydrological Cycle
-  include
-    - 251
-    - 252
-    - 253
-    - 254
-    - 255
-    - 256
-
-  name: 2.6 - Changes in Extreme Events
-  include
-    - 260
-    - 261
-    - 262
-    - 263
-    - 264
-    - Box24
-
-  name: 2.7 - Changes in Atmospheric Circulation and Patterns of Variability
-  include
-    - 270
-    - 271
-    - 272
-    - 273
-    - 274
-    - 275
-    - 276
-    - 277
-    - 278
-    - Box25
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 26
+    - 27
 
   name: Frequently Asked Questions
   include
     - FAQ21
     - FAQ22
 
-  # OLD
-  space AtmosphericComposition
-  space EnergyBudgets
-  space Temperature
-    # See Chap 2 Supp material
-    space LSAT
-      # (Rohde et al., 2013a)
-      ref 'Berkeley
+  name: Boxes
+  include
+    - Box21
+    - Box22
+    - Box23
+    - Box24
+    - Box25
 
-      # (Hansen et al., 2010)
-      ref 'GISS
+  lead: Conclusions from Chapter 2: Atmosphere and Surface Observations
+  path ExecutiveSummary
+    # name: Atmospheric Composition
+    # include
+    - 22.221.Conclusions.q1
+    - 22.221.Conclusions.q2
+    - 22.222.Conclusions.q1
+    - 22.222.Conclusions.q2
+    - 22.222.Conclusions.q3
+    - 22.222.Conclusions.q4
+    - 22.223.Conclusions.q
 
-      # (Jones et al., 2012)
-      ref 'Crutem
+    # name: Radiation Budgets
+    # include
+    - 23.Conclusions.q1
+    - 23.Conclusions.q2
 
-      link: https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn
-      # (Lawrimore et al., 2011)
-      # paper
-      # https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-11-00103.1
-      ref 'GHCNv3
+    # name: Temperature
+    # include
+    - 24.Conclusions.q1
+    - 24.Conclusions.q2
+    - 24.Conclusions.q3
+    - 24.Conclusions.q4
 
-      # Quality concern
-      # https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1653928
+    # name: Hydrological Cycle
+    # include
+    - 25.Conclusions.q1
+    - 25.Conclusions.q2
+    - 25.Conclusions.q3
 
-      space Biases
-        # Potential Bias -
-        space DTR
-          # In summary, confidence is medium in reported decreases in observed global DTR, noted as a key uncertainty in AR4. Several recent analyses of the raw data on which many previous analyses were based point to the potential for biases that differently affect maximum and minimum average temperatures.
+    # name: Extreme Events
+    # include
+    - 26.Conclusions.q1
+    - 26.Conclusions.q2
+    - 26.Conclusions.q3
+    - 26.Conclusions.q4
+    - 26.Conclusions.q5
+    - 26.Conclusions.q6
 
-        # Potential Bias - unlikely
-        space UHI
-          # In summary, it is indisputable that UHI and LULC are real in uenc- es on raw temperature measurements. At question is the extent to which they remain in the global products (as residual biases in broader regionally representative change estimates). Based primarily on the range of urban minus rural adjusted data set comparisons and the degree of agreement of these products with a broad range of rea- nalysis products, it is unlikely that any uncorrected urban heat-island effects and LULC change effects have raised the estimated centennial globally averaged LSAT trends by more than 10% of the reported trend (high confidence, based on robust evidence and high agreement).
-    # Sea Surface Temperature
-    space SST
-      # U.K.M.O. Hadley Centre SST, v.2 (HadSST2) (Rayner et al., 2006)
-      # U.K.M.O. Hadley Centre SST, v.3 (HadSST3) (Kennedy et al., 2011a; Kennedy et al., 2011b)
-      # Rayner et al., 2006
-      # U.K.M.O. Hadley Centre NMAT, v.2 (HadNMAT2) (Kent et al., 2013)
-      ref 'HadSST2
+    # name: Circulation and Variability
+    # include
+    - 27.Conclusions.q1
+    - 27.Conclusions.q2
+    - 27.Conclusions.q3
 
-      # International Comprehensive Ocean – Atmosphere Data Set (ICOADS), Release 2.5 (Woodruff et al., 2011)
-      ref 'ICOADS
-
-      # U.K.M.O. Hadley Centre Interpolated SST, v.1 (HadISST) (Rayner et al., 2003)
-      # JMA Centennial in situ Observation Based Estimates of SST (COBE SST) (Ishii et al., 2005)
-      # #NOAA Extended Reconstruction of SST, v. 3b (ERSSTv3b) (Smith et al., 2005, 2008)
-      ref 'ERSST
-
-      space Biases
-
-        space BucketDesign
-        space DeckHeight
-        # ERI - engine room intake
-        space EngineHeat
-
-        # Some degree of independent check on the validity of HadSST3 adjustments comes from a comparison to sub-surface temperature data (Gouretski et al., 2012) (see Section 3.2).
-        # Other major biases, affecting both nighttime and day- time MAT are due to increasing deck height with the general increase in the size of ships over time and non-standard measurement prac- tices. Recently these biases were re-examined and explicit uncertainty calculation undertaken for NMAT by Kent et al. (2013), resulting in the HadNMAT2 data set.
-
-      # In summary, it is certain that global average sea surface temperatures (SSTs) have increased since the beginning of the 20th century.
-    # Combined: Global Mean Surface Temperature
-    space GMST
-      # HadCRUT4 (100 versions) (Morice et al., 2012)
-      # MLOST (Vose et al., 2012)
-      # NASA GISS (Hansen et al., 2010)
-
-      # Differences between data sets are much smaller than both interannual variability and the long-term trend (Figure 2.20). Since 1901 almost the whole globe has experienced surface warming (Figure 2.21). Warming has not been linear; most warming occurred in two periods: around 1900 to around 1940 and around 1970 onwards
-
-      # In summary, it is certain that globally averaged near surface temper- atures have increased since the late 19th century. Each of the past three decades has been warmer than all the previous decades in the instrumental record, and the decade of the 2000s has been the warmest. The globally averaged combined land and ocean surface temperature data as calculated by a linear trend, show a warming of 0.85 [0.65 to 1.06] °C, over the period 1880–2012, when multiple independently produced datasets exist, about 0.89°C [0.69 to 1.08] °C over the period 1901–2012, and about 0.72 [0.49° to 0.89] °C over the period 1951–2012.
-    # Upper Air Temperature
-    space UAT
-
-      # Microwave Sounding Unit (MSU) and its follow-on Advanced Microwave Sound- ing Unit (AMSU)
-      # (Free et al., 2005)
-      ref 'RATPAC
-
-      # (Thorne et al., 2005)
-      ref 'HadAT
-
-      # University of Vienna
-      # (Haimberger, 2007; Haimberger et al., 2008, 2012)
-      ref 'RAOBCORE
-      ref 'RICH
-
-      # (Nash and Edge, 1989), updated by Randel et al. (2009)
-      ref 'SSU
-
-      # HadAT2 (Thorne et al., 2005)
-      # RAOBCORE 1.5 (Haimberger et al., 2012)
-      # RICH-obs (Haimberger et al., 2012)
-      # RICH-tau (Haimberger et al., 2012)
-      # RATPAC (Free et al., 2005)
-      # UAH (Christy et al., 2003)
-      # RSS (Mears and Wentz, 2009a, 2009b)
-      # STAR (Zou and Wang, 2011)
-
-      # For MSU, AR4 considered estimates produced from three groups: UAH (University of Alabama in Huntsville); RSS (Remote Sensing Systems) and VG2 (now no longer updated). A new product has been creat- ed by NOAA labelled STAR, using a fundamentally distinct approach for the critical inter-satellite warm target calibration step (Zou et al., 2006a)
-
-
-      # In summary, based on multiple independent analyses of measurements from radiosondes and satellite sensors it is virtually certain that globally the troposphere has warmed and the stratosphere has cooled since the mid-20th century. Despite unanimous agreement on the sign of the trends, substantial disagreement exists among available estimates as to the rate of temperature changes, particularly outside the NH extra- tropical troposphere, which has been well sampled by radiosondes.
-
-  name: The Hydrological Cycle
-  space HydroCycle
-    space Precipitation
-
-      # (Vose et al., 1992)
-      ref 'GHCN
-
-      # (updated through 2011; Vose et al., 1992)
-      ref 'GHCNV2
-
-      # Global Precipitation Climatology Project V2.2 combined raingauge–satellite product
-      # (Adler et al., 2003)
-      ref 'GPCP
-
-      # Global Precipitation Climatology Centre V6 (GPCC) data set
-      # (Becker et al., 2013)
-      ref 'GPCC
-
-      # (Mitchell and Jones, 2005)
-      ref 'CRU
-
-      # CRU TS 3.10.01 (updated from Mitchell and Jones, 2005)
-      ref 'CRUTS3
-
-      # For the longest common period of record (1901–2008) all datasets exhibit increases in globally averaged precipitation, with three of the four showing statistically significant changes (Table 2.9). However, there is a factor of almost three spread in the magnitude of the change which serves to create low confidence.
-      # In summary, confidence in precipitation change averaged over global land areas is low for the years prior to 1950 and medium afterwards because of insufficient data, particularly in the earlier part of the record. Available globally incomplete records show mixed and non-significant long-term trends in reported global mean changes. Further, when vir- tually all the land area is  lled in using a reconstruction method, the resulting time series shows less change in land-based precipitation since 1900.
-    space Snowfall
-      # Nothing global
-
-      # (Knowles et al., 2006),
-      # (Feng and Hu, 2007).
-      # Kunkel et al. (2009)
-      # (Mekis and Vincent, 2011)
-      # (Takeuchi et al., 2008)
-      # Shekar et al. (2010)
-      # Serquet et al. (2011)
-      # Scherrer and Appenzeller (2006)
-      # (Scherrer et al., 2013)
-      # Van Ommen and Morgan (2010)
-      # Monaghan and Bromwich (2008)
-
-      # In summary, in most regions analyzed, it is likely that decreasing num- bers of snowfall events are occurring where increased winter temperatures have been observed (North America, Europe, Southern and East Asia). Confidence is low for the changes in snowfall over Antarctica.
-    space Runoff
-      # River discharge is unique among water cycle components in that it both spatially and temporally integrates surplus waters upstream within a catchment (Shiklomanov et al., 2010) which makes it well suited for in situ monitoring (Arndt et al., 2010). The most recent com- prehensive analyses (Milliman et al., 2008; Dai et al., 2009) do not sup- port earlier work (Labat et al., 2004) that reported an increasing trend in global river discharge associated with global warming during the 20th century.
-
-      # Dai et al. (2009)
-        # assembled a data set of 925 most downstream stations on the largest rivers monitoring 80% of the global ocean draining land areas and capturing 73% of the continental runoff. They found that discharges in about one-third of the 200 largest rivers (including the Congo, Mississippi, Yenisey, Paraná, Ganges, Colombia, Uruguay and Niger) show sta- tistically significant trends during 1948–2004, with the rivers having downward trends (45) outnumbering those with upward trends (19).
-
-      # (Piao et al., 2010)
-        # Decreases in stream ow were found over many low and mid-latitude river basins such as the Yellow River in northern China since 1960s where precipitation has decreased.
-
-      # Increases in streamflow during the latter half of the 20th century also have been reported over regions with increased precipitation, such as parts of the
-        # USA (Groisman et al., 2004),
-        # and in the Yangtze River in southern China (Piao et al., 2010).
-
-      # ...
-
-      # In summary, the most recent comprehensive analyses lead to the con- clusion that confidence is low for an increasing trend in global river discharge during the 20th century.
-    space Humidity
-      space Land
-        # (Willett et al., 2008)
-        ref 'HadISDH
-        # (Willett et al., 2008)
-        ref 'HadCRUH_land
-        # (Dai, 2006)
-        ref 'Dai_land
-      space Ocean
-        # (Berry and Kent, 2009)
-        ref 'NOCS
-        # (Willett et al., 2008)
-        ref 'HadCRUH_marine
-        # (Dai, 2006)
-        ref 'Dai_marine
-      # In summary, it is very likely that global near surface air specific humidity has increased since the 1970s. However, during recent years the near surface moistening over land has abated (medium confidence). As a result, fairly widespread decreases in relative humidity near the surface are observed over the land in recent years.
-      space Troposphere
-        # Balloons
-        space Radiosonde
-        space GPS
-        space Satellite
-
-        # In summary, radiosonde, GPS and satellite observations of tropospher- ic water vapour indicate very likely increases at near global scales since the 1970s occurring at a rate that is generally consistent with the Clausius-Clapeyron relation (about 7% per degree Celsius) and the observed increase in atmospheric temperature. significant trends in tropospheric relative humidity at large spatial scales have not been observed, with the exception of near-surface air over land where rela- tive humidity has decreased in recent years (Section 2.5.5).
-    space CloudCover
-    space Surface
-      # Decreases
-      # Analyses since AR4 have indicated decreases in cloud occurrence/cover in recent decades over
-      # Poland (Wibig, 2008),
-      # China and the Tibetan Plateau (Duan and Wu, 2006; Endo and Yasunari, 2006; Xia, 2010b), in particular for upper level clouds (Warren et al., 2007)
-      # Africa, Eurasia and in particular South America (Warren et al., 2007).
-
-      # Increases
-      # Increased frequency of overcast conditions has been reported for some regions, such as
-      # Canada, from 1953 to 2002 (Milewska, 2004),
-
-      # No trend
-      # with no statistically significant trends evident over
-      # Australia (Jovanovic et al., 2011) and North America (Warren et al., 2007).
-
-      # Global
-      # A global analysis of surface observations spanning the period 1971–2009 (Eastman and Warren, 2012) indicates a small decline in total cloud cover of about 0.4% per decade which is largely attributed to declining mid- and high-level cloud cover and is most prominent in the middle latitudes.
-
-      # In summary, surface-based observations show region- and height-spe- ci c variations and trends in cloudiness but there remains substantial ambiguity regarding global-scale cloud variations and trends, especial- ly from satellite observations. Although trends of cloud cover are con- sistent between independent data sets in certain regions, substantial ambiguity and therefore low confidence remains in the observations of global-scale cloud variability and trends.
-    space Satellite
-
-      # In summary, surface-based observations show region- and height-spe- ci c variations and trends in cloudiness but there remains substantial ambiguity regarding global-scale cloud variations and trends, especial- ly from satellite observations. Although trends of cloud cover are con- sistent between independent data sets in certain regions, substantial ambiguity and therefore low confidence remains in the observations of global-scale cloud variability and trends.
-  space ExtremeEvents
-    # Numerous regional studies indicate that changes observed in the frequency of extremes can be explained or inferred by shifts in the overall probability distribution of the climate variable (Griffiths et al., 2005; Ballester et al., 2010; Simolo et al., 2011). However, it should be noted that these studies refer to counts of threshold exceedance— frequency, duration—which closely follow mean changes.
+  index: hide
+  space Hide
+    # OLD
+    space AtmosphericComposition
+    space EnergyBudgets
     space Temperature
-      # AR4 concluded that it was very likely that a large majority of global land areas had experienced decreases in indices of cold extremes and increases in indices of warm extremes, since the middle of the 20th century, consistent with warming of the climate.
-      # (Donat et al., 2013c)
-      # (e.g., Kenyon and Hegerl, 2008; Alexander et al., 2009)
-      # HadEX2 (Donat et al., 2013c)
-      ref 'HadEX2
-      # HadEX (Alexander et al., 2006)
-      ref 'HadEX
-      # GHCNDEX (Donat et al., 2013a)
-      ref 'GHCNDEX
-      # HadGHCND (Caesar et al., 2006)
-      ref 'HadGHCND
-      # Duke (Morak et al., 2011, 2013)
-      ref 'Duke
-      # (Ballester et al., 2010; Simolo et al., 2011; Donat and Alexander, 2012; Hansen et al., 2012)
+      # See Chap 2 Supp material
+      space LSAT
+        # (Rohde et al., 2013a)
+        ref 'Berkeley
 
-      # In summary, new analyses continue to support the AR4 and SREX conclusions that since about 1950 it is very likely that the numbers of cold days and nights have decreased and the numbers of warm days and nights have increased overall on the global scale, that is, for land areas with sufficient data. It is likely that such changes have also occurred across most of North America, Europe, Asia and Australia. There is low to medium confidence in historical trends in daily temperature extremes in Africa and South America as there is either insufficient data or trends vary across these regions. This, combined with issues with defining events, leads to the assessment that there is medium confidence that globally the length and frequency of warm spells, including heat waves, has increased since the middle of the 20th century although it is likely that heatwave frequency has increased during this period in large parts of Europe, Asia and Australia.
+        # (Hansen et al., 2010)
+        ref 'GISS
 
+        # (Jones et al., 2012)
+        ref 'Crutem
+
+        link: https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn
+        # (Lawrimore et al., 2011)
+        # paper
+        # https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-11-00103.1
+        ref 'GHCNv3
+
+        # Quality concern
+        # https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1653928
+
+        space Biases
+          # Potential Bias -
+          space DTR
+            # In summary, confidence is medium in reported decreases in observed global DTR, noted as a key uncertainty in AR4. Several recent analyses of the raw data on which many previous analyses were based point to the potential for biases that differently affect maximum and minimum average temperatures.
+
+          # Potential Bias - unlikely
+          space UHI
+            # In summary, it is indisputable that UHI and LULC are real in uenc- es on raw temperature measurements. At question is the extent to which they remain in the global products (as residual biases in broader regionally representative change estimates). Based primarily on the range of urban minus rural adjusted data set comparisons and the degree of agreement of these products with a broad range of rea- nalysis products, it is unlikely that any uncorrected urban heat-island effects and LULC change effects have raised the estimated centennial globally averaged LSAT trends by more than 10% of the reported trend (high confidence, based on robust evidence and high agreement).
+      # Sea Surface Temperature
+      space SST
+        # U.K.M.O. Hadley Centre SST, v.2 (HadSST2) (Rayner et al., 2006)
+        # U.K.M.O. Hadley Centre SST, v.3 (HadSST3) (Kennedy et al., 2011a; Kennedy et al., 2011b)
+        # Rayner et al., 2006
+        # U.K.M.O. Hadley Centre NMAT, v.2 (HadNMAT2) (Kent et al., 2013)
+        ref 'HadSST2
+
+        # International Comprehensive Ocean – Atmosphere Data Set (ICOADS), Release 2.5 (Woodruff et al., 2011)
+        ref 'ICOADS
+
+        # U.K.M.O. Hadley Centre Interpolated SST, v.1 (HadISST) (Rayner et al., 2003)
+        # JMA Centennial in situ Observation Based Estimates of SST (COBE SST) (Ishii et al., 2005)
+        # #NOAA Extended Reconstruction of SST, v. 3b (ERSSTv3b) (Smith et al., 2005, 2008)
+        ref 'ERSST
+
+        space Biases
+
+          space BucketDesign
+          space DeckHeight
+          # ERI - engine room intake
+          space EngineHeat
+
+          # Some degree of independent check on the validity of HadSST3 adjustments comes from a comparison to sub-surface temperature data (Gouretski et al., 2012) (see Section 3.2).
+          # Other major biases, affecting both nighttime and day- time MAT are due to increasing deck height with the general increase in the size of ships over time and non-standard measurement prac- tices. Recently these biases were re-examined and explicit uncertainty calculation undertaken for NMAT by Kent et al. (2013), resulting in the HadNMAT2 data set.
+
+        # In summary, it is certain that global average sea surface temperatures (SSTs) have increased since the beginning of the 20th century.
+      # Combined: Global Mean Surface Temperature
+      space GMST
+        # HadCRUT4 (100 versions) (Morice et al., 2012)
+        # MLOST (Vose et al., 2012)
+        # NASA GISS (Hansen et al., 2010)
+
+        # Differences between data sets are much smaller than both interannual variability and the long-term trend (Figure 2.20). Since 1901 almost the whole globe has experienced surface warming (Figure 2.21). Warming has not been linear; most warming occurred in two periods: around 1900 to around 1940 and around 1970 onwards
+
+        # In summary, it is certain that globally averaged near surface temper- atures have increased since the late 19th century. Each of the past three decades has been warmer than all the previous decades in the instrumental record, and the decade of the 2000s has been the warmest. The globally averaged combined land and ocean surface temperature data as calculated by a linear trend, show a warming of 0.85 [0.65 to 1.06] °C, over the period 1880–2012, when multiple independently produced datasets exist, about 0.89°C [0.69 to 1.08] °C over the period 1901–2012, and about 0.72 [0.49° to 0.89] °C over the period 1951–2012.
+      # Upper Air Temperature
+      space UAT
+
+        # Microwave Sounding Unit (MSU) and its follow-on Advanced Microwave Sound- ing Unit (AMSU)
+        # (Free et al., 2005)
+        ref 'RATPAC
+
+        # (Thorne et al., 2005)
+        ref 'HadAT
+
+        # University of Vienna
+        # (Haimberger, 2007; Haimberger et al., 2008, 2012)
+        ref 'RAOBCORE
+        ref 'RICH
+
+        # (Nash and Edge, 1989), updated by Randel et al. (2009)
+        ref 'SSU
+
+        # HadAT2 (Thorne et al., 2005)
+        # RAOBCORE 1.5 (Haimberger et al., 2012)
+        # RICH-obs (Haimberger et al., 2012)
+        # RICH-tau (Haimberger et al., 2012)
+        # RATPAC (Free et al., 2005)
+        # UAH (Christy et al., 2003)
+        # RSS (Mears and Wentz, 2009a, 2009b)
+        # STAR (Zou and Wang, 2011)
+
+        # For MSU, AR4 considered estimates produced from three groups: UAH (University of Alabama in Huntsville); RSS (Remote Sensing Systems) and VG2 (now no longer updated). A new product has been creat- ed by NOAA labelled STAR, using a fundamentally distinct approach for the critical inter-satellite warm target calibration step (Zou et al., 2006a)
+
+
+        # In summary, based on multiple independent analyses of measurements from radiosondes and satellite sensors it is virtually certain that globally the troposphere has warmed and the stratosphere has cooled since the mid-20th century. Despite unanimous agreement on the sign of the trends, substantial disagreement exists among available estimates as to the rate of temperature changes, particularly outside the NH extra- tropical troposphere, which has been well sampled by radiosondes.
+
+    name: The Hydrological Cycle
     space HydroCycle
-    space TropicalStorms
-    space ExtratropicalStorms
-  space Circulation
+      space Precipitation
+
+        # (Vose et al., 1992)
+        ref 'GHCN
+
+        # (updated through 2011; Vose et al., 1992)
+        ref 'GHCNV2
+
+        # Global Precipitation Climatology Project V2.2 combined raingauge–satellite product
+        # (Adler et al., 2003)
+        ref 'GPCP
+
+        # Global Precipitation Climatology Centre V6 (GPCC) data set
+        # (Becker et al., 2013)
+        ref 'GPCC
+
+        # (Mitchell and Jones, 2005)
+        ref 'CRU
+
+        # CRU TS 3.10.01 (updated from Mitchell and Jones, 2005)
+        ref 'CRUTS3
+
+        # For the longest common period of record (1901–2008) all datasets exhibit increases in globally averaged precipitation, with three of the four showing statistically significant changes (Table 2.9). However, there is a factor of almost three spread in the magnitude of the change which serves to create low confidence.
+        # In summary, confidence in precipitation change averaged over global land areas is low for the years prior to 1950 and medium afterwards because of insufficient data, particularly in the earlier part of the record. Available globally incomplete records show mixed and non-significant long-term trends in reported global mean changes. Further, when vir- tually all the land area is  lled in using a reconstruction method, the resulting time series shows less change in land-based precipitation since 1900.
+      space Snowfall
+        # Nothing global
+
+        # (Knowles et al., 2006),
+        # (Feng and Hu, 2007).
+        # Kunkel et al. (2009)
+        # (Mekis and Vincent, 2011)
+        # (Takeuchi et al., 2008)
+        # Shekar et al. (2010)
+        # Serquet et al. (2011)
+        # Scherrer and Appenzeller (2006)
+        # (Scherrer et al., 2013)
+        # Van Ommen and Morgan (2010)
+        # Monaghan and Bromwich (2008)
+
+        # In summary, in most regions analyzed, it is likely that decreasing num- bers of snowfall events are occurring where increased winter temperatures have been observed (North America, Europe, Southern and East Asia). Confidence is low for the changes in snowfall over Antarctica.
+      space Runoff
+        # River discharge is unique among water cycle components in that it both spatially and temporally integrates surplus waters upstream within a catchment (Shiklomanov et al., 2010) which makes it well suited for in situ monitoring (Arndt et al., 2010). The most recent com- prehensive analyses (Milliman et al., 2008; Dai et al., 2009) do not sup- port earlier work (Labat et al., 2004) that reported an increasing trend in global river discharge associated with global warming during the 20th century.
+
+        # Dai et al. (2009)
+          # assembled a data set of 925 most downstream stations on the largest rivers monitoring 80% of the global ocean draining land areas and capturing 73% of the continental runoff. They found that discharges in about one-third of the 200 largest rivers (including the Congo, Mississippi, Yenisey, Paraná, Ganges, Colombia, Uruguay and Niger) show sta- tistically significant trends during 1948–2004, with the rivers having downward trends (45) outnumbering those with upward trends (19).
+
+        # (Piao et al., 2010)
+          # Decreases in stream ow were found over many low and mid-latitude river basins such as the Yellow River in northern China since 1960s where precipitation has decreased.
+
+        # Increases in streamflow during the latter half of the 20th century also have been reported over regions with increased precipitation, such as parts of the
+          # USA (Groisman et al., 2004),
+          # and in the Yangtze River in southern China (Piao et al., 2010).
+
+        # ...
+
+        # In summary, the most recent comprehensive analyses lead to the con- clusion that confidence is low for an increasing trend in global river discharge during the 20th century.
+      space Humidity
+        space Land
+          # (Willett et al., 2008)
+          ref 'HadISDH
+          # (Willett et al., 2008)
+          ref 'HadCRUH_land
+          # (Dai, 2006)
+          ref 'Dai_land
+        space Ocean
+          # (Berry and Kent, 2009)
+          ref 'NOCS
+          # (Willett et al., 2008)
+          ref 'HadCRUH_marine
+          # (Dai, 2006)
+          ref 'Dai_marine
+        # In summary, it is very likely that global near surface air specific humidity has increased since the 1970s. However, during recent years the near surface moistening over land has abated (medium confidence). As a result, fairly widespread decreases in relative humidity near the surface are observed over the land in recent years.
+        space Troposphere
+          # Balloons
+          space Radiosonde
+          space GPS
+          space Satellite
+
+          # In summary, radiosonde, GPS and satellite observations of tropospher- ic water vapour indicate very likely increases at near global scales since the 1970s occurring at a rate that is generally consistent with the Clausius-Clapeyron relation (about 7% per degree Celsius) and the observed increase in atmospheric temperature. significant trends in tropospheric relative humidity at large spatial scales have not been observed, with the exception of near-surface air over land where rela- tive humidity has decreased in recent years (Section 2.5.5).
+      space CloudCover
+      space Surface
+        # Decreases
+        # Analyses since AR4 have indicated decreases in cloud occurrence/cover in recent decades over
+        # Poland (Wibig, 2008),
+        # China and the Tibetan Plateau (Duan and Wu, 2006; Endo and Yasunari, 2006; Xia, 2010b), in particular for upper level clouds (Warren et al., 2007)
+        # Africa, Eurasia and in particular South America (Warren et al., 2007).
+
+        # Increases
+        # Increased frequency of overcast conditions has been reported for some regions, such as
+        # Canada, from 1953 to 2002 (Milewska, 2004),
+
+        # No trend
+        # with no statistically significant trends evident over
+        # Australia (Jovanovic et al., 2011) and North America (Warren et al., 2007).
+
+        # Global
+        # A global analysis of surface observations spanning the period 1971–2009 (Eastman and Warren, 2012) indicates a small decline in total cloud cover of about 0.4% per decade which is largely attributed to declining mid- and high-level cloud cover and is most prominent in the middle latitudes.
+
+        # In summary, surface-based observations show region- and height-spe- ci c variations and trends in cloudiness but there remains substantial ambiguity regarding global-scale cloud variations and trends, especial- ly from satellite observations. Although trends of cloud cover are con- sistent between independent data sets in certain regions, substantial ambiguity and therefore low confidence remains in the observations of global-scale cloud variability and trends.
+      space Satellite
+
+        # In summary, surface-based observations show region- and height-spe- ci c variations and trends in cloudiness but there remains substantial ambiguity regarding global-scale cloud variations and trends, especial- ly from satellite observations. Although trends of cloud cover are con- sistent between independent data sets in certain regions, substantial ambiguity and therefore low confidence remains in the observations of global-scale cloud variability and trends.
+    space ExtremeEvents
+      # Numerous regional studies indicate that changes observed in the frequency of extremes can be explained or inferred by shifts in the overall probability distribution of the climate variable (Griffiths et al., 2005; Ballester et al., 2010; Simolo et al., 2011). However, it should be noted that these studies refer to counts of threshold exceedance— frequency, duration—which closely follow mean changes.
+      space Temperature
+        # AR4 concluded that it was very likely that a large majority of global land areas had experienced decreases in indices of cold extremes and increases in indices of warm extremes, since the middle of the 20th century, consistent with warming of the climate.
+        # (Donat et al., 2013c)
+        # (e.g., Kenyon and Hegerl, 2008; Alexander et al., 2009)
+        # HadEX2 (Donat et al., 2013c)
+        ref 'HadEX2
+        # HadEX (Alexander et al., 2006)
+        ref 'HadEX
+        # GHCNDEX (Donat et al., 2013a)
+        ref 'GHCNDEX
+        # HadGHCND (Caesar et al., 2006)
+        ref 'HadGHCND
+        # Duke (Morak et al., 2011, 2013)
+        ref 'Duke
+        # (Ballester et al., 2010; Simolo et al., 2011; Donat and Alexander, 2012; Hansen et al., 2012)
+
+        # In summary, new analyses continue to support the AR4 and SREX conclusions that since about 1950 it is very likely that the numbers of cold days and nights have decreased and the numbers of warm days and nights have increased overall on the global scale, that is, for land areas with sufficient data. It is likely that such changes have also occurred across most of North America, Europe, Asia and Australia. There is low to medium confidence in historical trends in daily temperature extremes in Africa and South America as there is either insufficient data or trends vary across these regions. This, combined with issues with defining events, leads to the assessment that there is medium confidence that globally the length and frequency of warm spells, including heat waves, has increased since the middle of the 20th century although it is likely that heatwave frequency has increased during this period in large parts of Europe, Asia and Australia.
+
+      space HydroCycle
+      space TropicalStorms
+      space ExtratropicalStorms
+    space Circulation
 
 
-  # AR5 Chapter 2: Observations: Atmosphere and Surface
-  #
-  # Executive Summary..................................................................... 161
-  # 2.1 Introduction ...................................................................... 164
-  # 2.2 Changes in Atmospheric Composition...................... 165
-  # 2.2.1 Well-Mixed Greenhouse Gases ................................. 165
-  # Box 2.1: Uncertainty in Observational Records ..................... 165
-  # 2.2.2 Near-Term Climate Forcers ........................................ 170
-  # 2.2.3 Aerosols .................................................................... 174
-  # Box 2.2: Quantifying Changes in the Mean:
-  # Trend Models and Estimation .................................................. 179
-  # 2.3 Changes in Radiation Budgets .................................... 180
-  # 2.3.1 Global Mean Radiation Budget................................. 181
-  # 2.3.2 Changes in Top of the Atmosphere
-  # Radiation Budget ...................................................... 182
-  # 2.3.3 Changes in Surface Radiation Budget ....................... 183
-  # Box 2.3: Global Atmospheric Reanalyses ............................... 185
-  # 2.4 Changes in Temperature................................................ 187
-  # 2.4.1 Land Surface Air Temperature ................................... 187
-  # 2.4.2 Sea Surface Temperature and Marine
-  # Air Temperature ........................................................ 190
-  # 2.4.3 Global Combined Land and Sea
-  # Surface Temperature ................................................. 192
-  # 2.4.4 Upper Air Temperature .............................................. 194
-  # 2.5 Changes in Hydrological Cycle.................................... 201
-  # 2.5.1 Large-Scale Changes in Precipitation ........................ 201
-  # 2.5.2 Stream ow and Runoff ............................................. 204
-  # 2.5.3 Evapotranspiration Including Pan Evaporation.......... 205
-  # 2.5.4 Surface Humidity....................................................... 205
-  # 2.5.5 Tropospheric Humidity .............................................. 206
-  # 2.5.6 Clouds ....................................................................... 208
-  # 2.6 Changes in Extreme Events.......................................... 208
-  # 2.6.1 Temperature Extremes .............................................. 209
-  # 2.6.2 Extremes of the Hydrological Cycle........................... 213
-  # 2.6.3 Tropical Storms ......................................................... 216
-  # 2.6.4 Extratropical Storms.................................................. 217
-  # Box 2.4: Extremes Indices......................................................... 221
-  # 2.7 Changes in Atmospheric Circulation and
-  # Patterns of Variability .................................................... 223
-  # 2.7.1 Sea Level Pressure..................................................... 223
-  # 2.7.2 Surface Wind Speed .................................................. 224
-  # 2.7.3 Upper-Air Winds........................................................ 226
-  # 2.7.4 Tropospheric Geopotential Height and
-  # Tropopause ............................................................... 226
-  # 2.7.5 Tropical Circulation ................................................... 226
-  # 2.7.6 Jets, Storm Tracks and Weather Types ....................... 229
-  # 2.7.7 Stratospheric Circulation........................................... 230
-  # 2.7.8 Changes in Indices of Climate Variability .................. 230
-  # Box 2.5: Patterns and Indices of Climate Variability ............. 232
+    # AR5 Chapter 2: Observations: Atmosphere and Surface
+    #
+    # Executive Summary..................................................................... 161
+    # 2.1 Introduction ...................................................................... 164
+    # 2.2 Changes in Atmospheric Composition...................... 165
+    # 2.2.1 Well-Mixed Greenhouse Gases ................................. 165
+    # Box 2.1: Uncertainty in Observational Records ..................... 165
+    # 2.2.2 Near-Term Climate Forcers ........................................ 170
+    # 2.2.3 Aerosols .................................................................... 174
+    # Box 2.2: Quantifying Changes in the Mean:
+    # Trend Models and Estimation .................................................. 179
+    # 2.3 Changes in Radiation Budgets .................................... 180
+    # 2.3.1 Global Mean Radiation Budget................................. 181
+    # 2.3.2 Changes in Top of the Atmosphere
+    # Radiation Budget ...................................................... 182
+    # 2.3.3 Changes in Surface Radiation Budget ....................... 183
+    # Box 2.3: Global Atmospheric Reanalyses ............................... 185
+    # 2.4 Changes in Temperature................................................ 187
+    # 2.4.1 Land Surface Air Temperature ................................... 187
+    # 2.4.2 Sea Surface Temperature and Marine
+    # Air Temperature ........................................................ 190
+    # 2.4.3 Global Combined Land and Sea
+    # Surface Temperature ................................................. 192
+    # 2.4.4 Upper Air Temperature .............................................. 194
+    # 2.5 Changes in Hydrological Cycle.................................... 201
+    # 2.5.1 Large-Scale Changes in Precipitation ........................ 201
+    # 2.5.2 Stream ow and Runoff ............................................. 204
+    # 2.5.3 Evapotranspiration Including Pan Evaporation.......... 205
+    # 2.5.4 Surface Humidity....................................................... 205
+    # 2.5.5 Tropospheric Humidity .............................................. 206
+    # 2.5.6 Clouds ....................................................................... 208
+    # 2.6 Changes in Extreme Events.......................................... 208
+    # 2.6.1 Temperature Extremes .............................................. 209
+    # 2.6.2 Extremes of the Hydrological Cycle........................... 213
+    # 2.6.3 Tropical Storms ......................................................... 216
+    # 2.6.4 Extratropical Storms.................................................. 217
+    # Box 2.4: Extremes Indices......................................................... 221
+    # 2.7 Changes in Atmospheric Circulation and
+    # Patterns of Variability .................................................... 223
+    # 2.7.1 Sea Level Pressure..................................................... 223
+    # 2.7.2 Surface Wind Speed .................................................. 224
+    # 2.7.3 Upper-Air Winds........................................................ 226
+    # 2.7.4 Tropospheric Geopotential Height and
+    # Tropopause ............................................................... 226
+    # 2.7.5 Tropical Circulation ................................................... 226
+    # 2.7.6 Jets, Storm Tracks and Weather Types ....................... 229
+    # 2.7.7 Stratospheric Circulation........................................... 230
+    # 2.7.8 Changes in Indices of Climate Variability .................. 230
+    # Box 2.5: Patterns and Indices of Climate Variability ............. 232

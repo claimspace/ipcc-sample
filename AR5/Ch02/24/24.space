@@ -1,0 +1,22 @@
+
+name: Temperature
+title: 2.4 - Changes in Temperature
+space 24
+
+  include Conclusions
+
+  include
+    - 241
+    - 242
+    - 243
+    - 244
+
+  line Conclusions
+    + q1 = It is certain that Global Mean Surface Temperature has increased since the late 19th century. Each of the past three decades has been successively warmer at the Earth’s surface than all the previous decades in the instrumental record, and the  rst decade of the 21st century has been the warmest.
+      \ 24
+    + q2 = It is unlikely that any uncorrected urban heat-island effects and land use change effects have raised the estimated centennial globally averaged LSAT trends by more than 10% of the reported trend.
+      \ 241
+    + q3 = Confidence is medium in reported decreases in observed global diurnal temperature range (DTR), noted as a key uncertainty in the AR4.
+      \ 241
+    + q4 = Based on multiple independent analyses of measurements from radiosondes and satellite sensors it is virtually certain that globally the troposphere has warmed and the stratosphere has cooled since the mid-20th century.
+      \ 244

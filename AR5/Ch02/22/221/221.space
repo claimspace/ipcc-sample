@@ -1,0 +1,41 @@
+name: Well-Mixed Greenhouse Gases
+title: 2.2.1 - Well-Mixed Greenhouse Gases
+lead: Since 2005, the atmospheric abundances of many well-mixed GHG have increased, but the burdens of some ozone-depleting substances decreased. This assessment concludes that these trends resulted in a 7.5% increase in RF from GHGs from 2005 to 2011, with carbon dioxide contributing 80%.
+space 221
+
+  include Conclusions
+
+  insert text
+    |AR4 ({'Forster_et_al_2007}; {'IPCC_2007}) concluded that increasing atmospheric burdens of well-mixed GHGs resulted in a 9% increase in their RF from 1998 to 2005. Since 2005, the atmospheric abundances of many well-mixed GHG increased further, but the burdens of some ozone-depleting substances (ODS) whose production and use were controlled by the Montreal Protocol on Substances that Deplete the Ozone Layer (1987; hereinafter, ‘Montreal Protocol’) decreased.
+    |
+    |Based on updated in situ observations, this assessment concludes that these trends resulted in a 7.5% increase in RF from GHGs from 2005 to 2011, with carbon dioxide (CO2) contributing 80%. Of note is an increase in the average growth rate of atmospheric methane (CH4) from ~0.5 ppb yr–1 during 1999–2006 to ~6 ppb yr–1 from 2007 through 2011. Current observation networks are sufficient to quantify global annual mean burdens used to calculate RF and to constrain global emission rates (with knowledge of loss rates), but they are not sufficient for accurately estimating regional scale emissions and how they are changing with time.
+    |
+    |The globally, annually averaged well-mixed GHG mole fractions reported here are used in Chapter 8 to calculate RF. A direct, inseparable connection exists between observed changes in atmospheric composition and well-mixed GHG emissions and losses (discussed in Chapter 6 for CO2, CH4, and N2O). A global GHG budget consists of the total atmospheric burden, total global rate of production or emission (i.e., sources), and the total global rate of destruction or removal (i.e., sinks). Precise, accurate systematic observations from independent globally distributed measurement networks are used to estimate global annual mean well-mixed GHG mole fractions at the Earth’s surface, and these allow estimates of global burdens. Emissions are predominantly from surface sources, which are described in Chapter 6 for CO2, CH4, and N2O. Direct use of observations of well-mixed GHG to model their regional budgets can also play an important role in verifying inventory estimates of emissions ({'Nisbet_and_Weiss_2010}).
+    |
+    |Systematic measurements of well-mixed GHG in ambient air began at various times during the last six decades, with earlier atmospheric histories being reconstructed from measurements of air stored in air archives and trapped in polar ice cores or in  rn. In contrast to the physical meteorological parameters discussed elsewhere in this chapter, measurements of well-mixed GHG are reported relative to standards developed from fundamental SI base units (SI = International System of Units) as dry-air mole fractions, a unit that is conserved with changes in temperature and pressure ({Box21 Box 2.1}). This eliminates dilution by H2O vapour, which can reach 4% of total atmospheric composition. Here, the following abbreviations are used: ppm = μmol mol–1; ppb = nmol mol–1; and ppt = pmol mol–1. Unless noted otherwise, averages of National Oceanic and Atmospheric Administration (NOAA) and Advanced Global Atmospheric Gases Experiment (AGAGE) annually averaged surface global mean mole fractions is described in Section 2.2.1 (see Supplementary Material 2.SM.2 for further species not listed here).
+
+  name: 2.2.1.1 - Kyoto Protocol Gases
+  include
+    - 22111
+    - 22112
+    - 22113
+    - 22114
+
+  name: 2.2.1.2 - Ozone-Depleting Substances
+  include
+    - 2212
+
+  index: hide
+  name: 2.2.1.1 - Kyoto Protocol Gases
+  space 2211
+    include
+      - 22111
+      - 22112
+      - 22113
+      - 22114
+
+  line Conclusions
+    + q1 = It is certain that atmospheric burdens of the well-mixed green- house gases (GHGs) targeted by the Kyoto Protocol increased from 2005 to 2011.
+      \ 2211
+    + q2 = For ozone-depleting substances (Montreal Protocol gases), it is certain that the global mean abundances of major chlorofluorocarbons (CFCs) are decreasing and HCFCs are increasing.
+      \ 2212

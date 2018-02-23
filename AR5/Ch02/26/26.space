@@ -1,0 +1,33 @@
+
+name: Extreme Events
+title: 2.6 - Changes in Extreme Events
+space 26
+
+  insert text
+    |AR4 highlighted the importance of understanding changes in extreme climate events (Annex III: Glossary) because of their disprimpact on society and ecosystems compared to changes in mean climate (see also IPCC Working Group II). More recently a comprehensive assessment of observed changes in extreme events was undertaken by the IPCC Special Report on Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX) ({'Seneviratne_et_al_2012}; Section 1.3.3).
+    |
+    | Data availability, quality and consistency especially affect the statistics of extremes and some variables are particularly sensitive to changing measurement practices over time. For example, historical tropical cyclone records are known to be heterogeneous owing to changing observing technology and reporting protocols (Section 14.6.1) and when records from multiple ocean basins are combined to explore global trends, because data quality and reporting protocols vary substantially between regions ({'Knapp_and_Kruk_2010}). Similar problems have been discovered when analysing wind extremes, because of the sensitivity of measurements to changing instrumentation and observing practice (e.g., {'Smits_et_al_2005}; {'Wan_et_al_2010}).
+    |
+    |Numerous regional studies indicate that changes observed in the frequency of extremes can be explained or inferred by shifts in the overall probability distribution of the climate variable ({'Griffiths_et_al_2005}; {'Ballester_et_al_2010}; {'Simolo_et_al_2011}). However, it should be noted that these studies refer to counts of threshold exceedance— frequency, duration—which closely follow mean changes. Departures from high percentiles/return periods (intensity, severity, magnitude) are highly sensitive to changes in the shape and scale parameters of the distribution (Schär et al., 2004; {'Clark_et_al_2006}; Della-Marta et al., 2007a, 2007b; Fischer and Schär, 2010) and geographical location. Debate continues over whether variance as well as mean changes are affecting global temperature extremes ({'Hansen_et_al_2012}; {'Rhines_and_Huybers_2013}) as illustrated in Figure 1.8 and FAQ 2.2, Figure 1. In the following sections the conclusions from both AR4 and SREX are reviewed along with studies subsequent to those assessments.
+
+  include Conclusions
+
+  include
+    - 261
+    - 262
+    - 263
+    - 264
+
+  line Conclusions
+    + q1 = It is very likely that the numbers of cold days and nights have decreased and the numbers of warm days and nights have increased globally since about 1950.
+      \ 261
+    + q2 = It is likely that since about 1950 the number of heavy precipita- tion events over land has increased in more regions than it has decreased.
+      \ 262
+    + q3 = Confidence is low for a global-scale observed trend in drought or dryness (lack of rainfall) since the middle of the 20th century, owing to lack of direct observations, methodological uncer- tainties and geographical inconsistencies in the trends.
+      \ 262
+    + q4 = Confidence remains low for long-term (centennial) changes in tropical cyclone activity, after accounting for past changes in observing capabilities.
+      \ 263
+    + q5 = Confidence in large-scale trends in storminess or storminess proxies over the last century is low owing to inconsistencies between studies or lack of long-term data in some parts of the world (particularly in the SH).
+      \ 264
+    + q6 = Because of insufficient studies and data quality issues confidence is also low for trends in small-scale severe weather events such as hail or thunderstorms.
+      \ 262

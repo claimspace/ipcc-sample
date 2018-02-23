@@ -1,0 +1,18 @@
+
+name: Aerosols
+title: 2.2.3 - Aerosols
+lead: This section assesses trends in aerosol resulting from both anthropogenic and natural sources.
+space 223
+
+  insert text
+    |This section assesses trends in aerosol resulting from both anthropogenic and natural sources. The significance of aerosol changes for global dimming and brightening is discussed in Section 2.3. Chapter 7 provides additional discussion of aerosol properties, while Chapter 8 discusses future RF and the ice-core records that contain information on aerosol changes prior to the 1980s. Chapter 11 assesses air quality–climate change interactions. Because of the short lifetime (days to weeks) of tropospheric aerosol, trends have a strong regional signature. Aerosol from anthropogenic sources (i.e., fossil and biofuel burning) are con ned mainly to populated regions in the NH, whereas aerosol from natural sources, such as desert dust, sea salt, volcanoes and the biosphere, are important in both hemispheres and likely dependent on climate and land use change ({'Carslaw_et_al_2010}). Owing to interannual variability, long-term trends in aerosols from natural sources are more difficult to identify ({'Mahowald_et_al_2010}).
+
+  include Conclusions
+
+  include
+    - 2231
+    - 2232
+
+  line Conclusions
+    + q = It is very likely that aerosol column amounts have declined over Europe and the eastern USA since the mid 1990s and increased over eastern and southern Asia since 2000.
+      \ 223

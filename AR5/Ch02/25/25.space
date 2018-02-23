@@ -1,0 +1,25 @@
+
+name: Hydrological Cycle
+title: 2.5 - Changes in Hydrological Cycle
+space 25
+
+  insert text
+    |This section covers the main aspects of the hydrological cycle, including large-scale average precipitation, stream  ow and runoff, soil moisture, atmospheric water vapour, and clouds. Meteorological drought is assessed in Section 2.6. Ocean precipitation changes are assessed in Section 3.4.3 and changes in the area covered by snow in Section 4.5.
+
+  include Conclusions
+
+  include
+    - 251
+    - 252
+    - 253
+    - 254
+    - 255
+    - 256
+
+  line Conclusions
+    + q1 = Confidence in precipitation change averaged over global land areas since 1901 is low for years prior to 1951 and medium afterwards. Averaged over the mid-latitude land areas of the Northern Hemisphere, precipitation has likely increased since 1901 (medium con dence before and high con dence after 1951).
+      \ 251
+    + q2 = It is very likely that global near surface and tropospheric air specific humidity have increased since the 1970s.
+      \ 254
+    + q3 = While trends of cloud cover are consistent between independent data sets in certain regions, substantial ambiguity and there- fore low con dence remains in the observations of global-scale cloud variability and trends.
+      \ 256

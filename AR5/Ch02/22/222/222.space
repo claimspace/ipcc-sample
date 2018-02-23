@@ -1,0 +1,25 @@
+
+name: Near-Term Climate Forcers
+title: 2.2.2 - Near-Term Climate Forcers
+lead: This section covers observed trends in stratospheric water vapour; stratospheric and tropospheric ozone (O3); the O3 precursor gases, nitrogen dioxide (NO2) and carbon monoxide (CO); and column and surface aerosol.
+space 222
+  insert text
+    |This section covers observed trends in stratospheric water vapour; stratospheric and tropospheric ozone (O3); the O3 precursor gases, nitrogen dioxide (NO2) and carbon monoxide (CO); and column and surface aerosol. Since trend estimates from the cited literature are used here, issues such as data records of different length, potential lack of comparability among measurement methods and different trend calculation methods, add to the uncertainty in assessing trends.
+
+  include Conclusions
+
+  include
+    - 2221
+    - 2222
+    - 2223
+    - 2224
+
+  line Conclusions
+    + q1 = Because of large variability and relatively short data records, confidence in stratospheric H2O vapour trends is low.
+      \ 2221
+    + q2 = It is certain that global stratospheric ozone has declined from pre-1980 values.
+      \ 2222
+    + q3 = Confidence is medium in large-scale increases of tropospheric ozone across the Northern Hemisphere (NH) since the 1970s.
+      \ 2223
+    + q4 = Confidence is low in ozone changes across the Southern Hemisphere (SH) owing to limited measurements.
+      \ 2224
